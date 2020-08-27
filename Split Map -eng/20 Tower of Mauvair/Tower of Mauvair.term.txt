@@ -1,0 +1,47 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #201>
+#INFORMATION
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C3
+$C0I have successfully brought you back to Kronos, but it is senseless for you to stay.  Morgana has overrun the ship, and backup units are light years away.  You are located in a secluded teleportation room on deck 24.  There is a force field in effect, so you should be safe here for a short while. The invading forces are slowly sweeping the entire ship, so it may not be safe for much longer.  Let us wait for backup before attempting to re-take the ship.
+
+For now, I have activated another time gate, and this one is charted for Wizard Mauvair's tower.  Activate the teleporter here to take a random leap into the lava caverns that surround the tower.  Traverse the caverns until you locate the time gate, and then proceed with caution.   
+
+Until now, Mauvair's Fire domain has been protected by shields of magic.  Fortunately, the spell data extracted from the sorcery scrolls you have been collecting will help us penetrate these shields and enter Mauvair's domain.
+#PICT 12000
+
+The tower is heavily guarded.  Once in Mauvair's domain, you will need to survive the fire pits, fight off the magical beasts that guard the tower, and climb your way to the top of the tower without perishing in the lava moat.  Collect any scrolls that you may find in his tower, as the magic of Mauvair's scrolls will certainly add to your arsenal against Morgana's magic.
+
+If you can find the secret passage to the tower basement, you will discover a trove of useful potions for the taking.
+
+Be careful, as no mortal being has ever survived the climb up Mauvair's Tower.  Let the hunt for Mauvair begin!
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 227
+#PICT 228
+
+
+$C5What is the sound of the crystal upon smashing into the burning liquid of this moat?
+
+The unheard shattering of a soul.
+
+Morgana has given the order, but it is for my own pleasure that I will destroy you. 
+$C0
+$C5$BOnto you, death!
+
+
+$C2          Mauvair de Fuego
+          Master Sorcerer
+          Keeper of the Dark Crystals
+#LOGOFF 226
+#ENDTERMINAL 1

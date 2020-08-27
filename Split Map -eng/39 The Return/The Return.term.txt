@@ -1,0 +1,77 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 11908
+Memoirs of Kirin$C1
+#INFORMATION
+$C1$I
+The vision that had once only been a nightmare is now a reality.  I could hear the deep screams and cries of torture from afar, approaching closer and closer.  Death and destruction lay in their path.
+
+Morgana and Mauvair have now taken the Stronghold.  The archers and knights have teamed up with the sorcerers guild, but I fear it is too little too late.  Morgana and Mauvair have some powerful magic that appears to toy with us all.  Mordred's arrogance places him into the thick of battle, yet it appears that he cannot be harmed.  Nothing we do seems to penetrate his armor.
+
+I am worried that this is only the beginning, and the worst is yet to be realized.  I must get word to Arthur, I must warn the court of Camelot before I too fall to the evil darkness that envelopes this Stronghold. I shall make my way to the Scorpion Caves, and from there, I'll make a break for Camelot.  
+
+- Kirin
+#LOGOFF 11910
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 11908
+Memoirs of Kirin$C1
+#INFORMATION
+$C1$I
+So many of my sisters have fallen this day, so much of their blood pours through the land.  Knights and sorcerers as well, all fallen, cursed, and extinguished at the whim of Morgana.  Where did you find such powers?
+
+Where is Merlin?  
+
+No one has heard from Merlin, yet his sorcerers guild has split.  Many have fallen with us here, others are fleeing, and yet there seems to be a number of rogues that have joined up with Morgana.  
+
+What hopelessness have we fallen into that our sorcerers deem Morgana's magic too powerful to combat?  
+
+What will become of this land?
+#INFORMATION
+$C1$I
+The Stronghold key is locked up in the guard sleeping quarters.  Only the sentries can access it now, but there is no hope that I can reach the sentries.  I am unable to find any passage into the Stronghold while Morgana and Mauvair are at work.  
+
+There is a second key in the Enchanted Pool.  I shall use the key to break passage to the cliffs of Camelot.  The Scorpion gates will not stay open long, so I'll deposit the key into the claw, and then make my way to the shores of Camelot.  Arthur must be warned, and preparations must be made to save all that can be saved.  If there is anything left to be saved.
+
+This day shall haunt me for an eternity.  
+
+
+- Kirin
+#LOGOFF 11910
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 11908
+Sir Galdwen - Sentry Journal$C1
+#INFORMATION
+$C4$I
+There is no chance for us to hold the Stronghold.  Mannenhaum has been lost.  
+
+
+I must try to secure the locker, and then return to the fight.  I can see Camelot - she is still safe - for now.  It won't be long until this fight is taken to Arthur.  We must try to slow them down.
+
+
+Morgana seems to be placing a curse on many of the fallen.  As soon as their lives are extinguished, their bodies and souls are separated.  Apparitions of the lost appear to be wandering the Stronghold, and their corpse bodies rise to fight against our brothers and sisters.
+#INFORMATION
+$C4$I
+Never have I seen such horrors!  
+
+How can mankind withstand such a blow?  
+
+
+I hear them at the door now!  
+
+Ghouls!  Foul ghouls!  
+
+
+
+I will not submit to this evil! 
+
+
+I will not...
+#LOGOFF 11910
+#ENDTERMINAL 2

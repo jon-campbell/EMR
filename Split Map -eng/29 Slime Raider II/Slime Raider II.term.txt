@@ -1,0 +1,156 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#TAG 3
+#LOGON 10200
+$C1$BBroadcast Hijack...
+#INFORMATION
+$C1$B** Intercept Successful **$C5$b
+
+$C4Thank goodness!
+
+I managed to intercept a public broadcast channel, but for how long I can hold this connection is uncertain.  
+
+You are now in Forraje's old neck of the woods.  Before the great floods of 2127, this northern sector was once known as Quebec, Canada.  Very few survived the great floods, but those who did transformed this washed-away city into an exotic tourist retreat.  Compared to the romantic city of Venice, Italy, Quebec combined exciting tourist attractions with lush business accommodations to attract commerce from around the world. 
+
+In the 2200's, business conglomerates began to settle in the area, and housing costs leapt through the roof.  Eventually, it was only the wealthy who could afford to live here.  By 2234, Forraje had accumulated enough wealth from WorldSoft ventures to purchase 50% of the land.  Then, in 2235, Forraje surprised the city board of directors, to which he belonged, with an unthinkable proposition.
+#PICT 12903
+$C4
+
+Forraje wanted to change the name of the city, a task which became one of his biggest challenges, as politicians, businesses, and the community were all in strong opposition.  He was obsessed with the idea, however, and would not let go of the reins.  
+
+Despite the heated verbal battle scenes which commonly took place whenever the subject came up, Forraje was relentless, and after three years of struggling, he finally had his way.  In the Autumn of 2238, Quebec was officially renamed Wysiwyg.
+#PICT 12902
+$C4
+Citizens and businesses alike began to get fed up with Forraje and WorldSoft influence.  People began to leave in droves, accepting great financial losses in order to sell their property and be free of Worldsoft.  Forraje could not have planned it better, as he quickly snatched up real estate, and eventually owned 85% of the land.
+
+In 2240, Forraje made Wysiwyg his primary residence, and fortified his home by surrounding it with the primary Force Field systems which secured most of WorldSoft.  
+Even previously public-accessible areas were converted into restricted areas secured by Worldsoft Servo Locks.  Wysiwyg fell under complete control of Forraje and WorldSoft powers.
+#INFORMATION
+$C4
+Although the community had already been devastated by WorldSoft control, some Wysiwyg inhabitants stayed behind, serving the WorldSoft empire.  These locals, known as Wysiwygians, would prove to be vital in the coup which shook WorldSoft, as they provided rebellion forces with access to many of Forraje's Servo Locked areas.  
+
+Upon the fall of WorldSoft years later, interest in Wysiwyg diminished as former WorldSoft employees fled the area in droves.  Eventually even the Wysiwygians left, overwhelmed by the amount of work required to demolish the monstrous WorldSoft buildings and decipher the complex electronic puzzles installed by WorldSoft.  
+
+After a quiet lull, Morgana began to slowly seize most of WorldSoft's properties.  She chose not to inhabit Forraje's old mansion, but she did adopt WorldSoft's security systems.  In less than a year, all WorldSoft security systems were back on-line.  
+
+It is this security system which you must now deal with in order to complete your mission.
+#PICT 12900
+$C4Security force fields are in place throughout the city, with a Triad Advanced Backup Oscillator (TABO) installed to protect Morgana's headquarters.  The TABO system provides three backup protocols to ensure complete protection.  
+
+The Main Control Center operates the Field Generator, the Secondary Power Relay, and the Primary Oscillator Control.  Shut down the control center, and you will effectively cripple the TABO system.  
+
+Infiltrating the Main Control Center is no simple task, and there is no guarantee that Morgana has not already anticipated such a move.  The result of shutting down the main control may provide you with access to the primary security station... or it may blow you into bits.
+#LOGOFF 142
+#END
+#FINISHED
+#LOGON 10200
+$C1$BBroadcast Hijack...
+#INFORMATION
+$C1$B** Intercept Successful **$C5$b
+
+$C4You have somehow managed to shut down the Main Control Center, thereby cutting power to the Field Generator, the Secondary Power Relay, and the Primary Oscillator Control.  You have exposed the primary security grid to an override protocol, which you must now pursue.
+
+Just in time, as the signal here is getting weaker.  I shall be losing contact with this station soon. 
+
+Find the passage to the underground security control building, and attempt to $C1- sflf-__$C3-a32-su-fl lnnu2%6f
+sfd  s$C5df2m0RIJ0lk-.1           s340f -=#$__)$C3 0-2 2kfd-)!KL:FK
+dfd$C1
+asovm.,.a)984120gf01- -f  30 -........ 2.3423 . 4.21.12010 1l   lkjl 
+   sdfs   fl$C0 l49 1.s.  _ 1 3=1 0 fsal;         2-3
+ s
+fsaf
+aqoiuw.n -1-9  2$%&)(0d$C2dd-1-..412     240:LR":L#$C0@)vl; == sd- a./
+#TAG 3
+#LOGOFF 142
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 142
+$C1** INTERCEPT MESSAGE DETECTED **
+#PICT 138
+$C1$B
+Intercept received...
+$C5$b
+
+
+$C4I see you have not been blown to bits.  Indeed, that is a very good sign. Then again, you have not yet shut down the Main Control Center.
+
+This transmission is bouncing off a harmonic differential band which fluctuates with the force field frequencies. It changes at random intervals, so I must make this quick...
+#PICT 12901
+$C4
+
+Entrance to the primary underground security system is located in the North Sentry station of Wysiwyg.  Access to the sentry is controlled by a pressure switch located somewhere in the Court of Monte Viasco.  The courtyard was a favorite of Mordred's, so be wary of any surprises he may have left behind for would-be trespassers.
+
+A future pod has been successfully teleported into the courtyard as well, so further communications will be established there.
+
+
+$C1Merlin out...
+#LOGOFF 142
+#END
+#FINISHED
+#LOGON 142
+$C1** INTERCEPT MESSAGE DETECTED **
+#INFORMATION
+$C1$BIntercept received...
+$C5$b
+$C4You have done it!  Well done.  With the TABO protocol severely crippled, your chances of infiltrating the Primary Security Station are much better.  They are still not good, but they are much better.
+
+Er... quickly now!  The signal is breaking up... you must continue on your journey.
+
+
+
+
+
+
+
+
+
+$C1Merlin out...
+#INFORMATION
+$C1** Disconnect Halted **
+
+COMMUNICATIONS ERROR - %190222 
+
+SEVERITY CODE - %000039238
+#INFORMATION
+$C4...and it is a shame, for I was growing quite attached to our energetic hero.
+
+$C3Is there no way to accomplish this?  What about your subsonic interrupt signal?  Couldn't you jam one of their devices while...
+$C4
+No!  Stockwell, do you not recall the last time we attempted to use the subsonic in an area high in gamma ray energy?  There is a high risk involved, more so than the risk already at hand.
+$C0
+$C3So you believe there is a chance then?
+$C0
+$C4Can a man can be hit by lightning twice?  If you activated your random number generator on a cell range from 0 to 1,000,000, could it come up with 0?  Is it conceivable that Morgana will experience a change of heart and start making amends for all the harm she has caused?  Well, perhaps that is overstating it, but the chances are...
+$C0
+$C3MERLIN!  The frequency band!  The connection never terminated...
+$C0
+$C4BLAST!!!!!
+#INFORMATION
+$C1SYSTEM SHUTDOWN REQUEST...
+
+
+** COMMUNICATIONS OFF-LINE **
+#LOGOFF 142
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 135
+$C1<Station #992>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Skull heads that emit fireballs?  What sorcery did Mordred study?  Alas, it is a question that may never be answered.
+
+It matters not, as your task in Wysiwyg is nearly complete.  Deep beneath the city lies the WorldSoft Security Station which controls the primary security grid.  Locate the North Sentry where a security corridor exists leading to the Security Station.  The North Sentry corridor is gated with a titanium blast door that your weapons may not be effective against. 
+
+I have teleported some blast canisters to the entrance, but it's uncertain whether that will work.  If all else fails, search the Security Lab north of the corridor for an explosive device.  Once the device timer activates, you only have a few seconds to find cover.
+
+This will be my last communication with you until the primary system is shut down.  
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 2

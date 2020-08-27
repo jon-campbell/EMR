@@ -1,0 +1,181 @@
+local degrees = {
+   [3]={msg="on a mission", adj="triple kill"},
+   [5]={msg="on a killing spree", adj="killing spree"},
+   [10]={msg="on a rampage", adj="rampage"},
+   [15]={msg="dominating", adj="domination"},
+   [20]={msg="unstoppable", adj="unstoppability"},
+   [25]={msg="godlike", adj="godliness"}
+}
+
+function master_init(rs)
+   for p in Players() do
+      p._kills = 0;
+   end
+end
+
+local function verb(noun, verb)
+   verb = damages[verb] or {"killed", ""}
+   local verb1 = verb[1]
+   if (noun) then
+      noun = " " .. noun
+   else
+      noun = ""
+   end
+
+   if (noun == "") then
+      if (verb1 == "blew") then
+         verb1 = "blown"
+      elseif (verb1 == "slew") then
+         verb1 = "slain"
+      end
+   end
+
+   if (verb[2] ~= "") then
+      return verb1 .. noun .. " " .. verb[2]
+   else
+      return verb1 .. noun
+   end
+end
+
+function Triggers.player_damaged(victim, victor, monster, type, amount, projectile)
+   if (victor) and (victim ~= victor) and (victim.team == victor.team) then
+      victim.life = victim.life + amount
+   end
+
+   if (victim.life < 0) then
+      local by = "with"
+      local msg = ""
+
+      --[[ suicide --]]
+      if (victim ~= nil and victim == victor) then
+         msg = victor.name .. " " .. verb("themselves", type)
+      --[[ PK --]]
+      elseif (victor ~= nil) then
+         msg = victor.name .. " " .. verb(victim.name, type)
+      --[[ monster --]]
+      elseif (monster ~= nil) then
+         msg = monsters_name[monster.type.mnemonic] .. " " .. verb(victim.name, type)
+      --[[ environment --]]
+      else
+         msg = victim.name .. " was " .. verb(nil, type)
+         by = "by"
+      end
+
+      if (projectile) then
+         local proj = projectiles[projectile.type];
+         if(proj) then
+            msg = msg .. " " .. by .. " " .. proj
+         end
+      end
+
+      Players.print(msg)
+
+      --[[ give victor a kill and output a message? --]]
+      if (victim ~= victor and victor) then
+         victor._kills = victor._kills + 1
+         if (victim._kills > 0) then
+            for n=25,5,-5 do
+               if (n <= victim._kills) then
+                  Players.print(victim.name .. "'s " ..
+                     degrees[n].adj .. " was stopped by " .. victor.name)
+                  break
+               end
+            end
+         end
+
+         local deg = degrees[victor._kills]
+
+         if (deg) then
+            deg = deg.msg
+         end
+
+         if (deg) then
+            Players.print(victor.name .. " is " .. deg .. "!")
+         end
+      elseif (victim ~= victor and monster) then
+         if(victim._kills > 0) then
+            for n=25,5,-5 do
+               if(n <= victim._kills) then
+                  Players.print(victim.name .. "'s " .. degrees[n].adj ..
+                  " was stopped by " .. monsters[monster.type])
+                  break
+               end
+            end
+         end
+      else
+         if (victim._kills > 0) then
+            for n=25,5,-5 do
+               if (n <= victim._kills) then
+                  Players.print(victim.name .. "'s "
+                  .. degrees[n].adj .. " has met a premature end.")
+                  break
+               end
+            end
+         end
+      end
+
+      victim._kills = 0
+   end
+end
+
+function Triggers.monster_killed(victim, victor, projectile)
+   if level_monster_killed ~= nil then
+      level_monster_killed(victim, victor, projectile);
+   end
+
+   local by = "with"
+   local msg = "";
+   local monstah, type;
+
+   if (projectile == nil) then
+      type,monstah = nil
+   else
+      type = projectile.type
+      monstah = projectile.owner
+   end
+
+   --[[ PK --]]
+   if (victor) then
+      msg = victor.name .. " " .. verb(monsters[victim.type.mnemonic], type)
+   elseif (monstah ~= nil and monstah) then
+      local victor = monstah
+
+      --[[ suicide --]]
+      if (victim == victor) then
+         msg = monsters_name[victor.type.mnemonic] .. " " .. verb("itself", type)
+
+      --[[ monster --]]
+      else
+         msg = monsters_name[victor.type.mnemonic] .. " " .. verb(monsters_name[victim.type.mnemonic], type)
+      end
+   else
+      msg = monsters_name[victim.type.mnemonic] .. " was " .. verb(nil, type)
+      by = "by"
+   end
+
+   if (projectile) then
+      local proj = projectiles[projectile.type]
+      if (proj) then
+         msg = msg .. " " .. by .. " " .. proj
+      end
+   end
+
+   Players.print(msg)
+
+   --[[ give victor a kill and output a message --]]
+   if (victor) then
+      victor._kills = victor._kills + 1;
+      victor.points = victor.points + 1;
+      victor.kills[victor] = victor.kills[victor] + 1;
+      local deg = degrees[victor._kills];
+
+      if (deg) then
+         deg = deg.msg
+      end
+
+      if (deg) then
+         Players.print(victor.name .. " is " .. deg .. "!")
+         victor:play_sound(233, 1);
+      end
+   end
+end

@@ -1,0 +1,662 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **$C0
+
+$C5Initializing Greeting...
+
+$C4   I am the artificial intelligence
+   recently installed into Kronos. I am
+   known as Marcel 29.2A.  
+
+   The database served by the AI before
+   me is quite extensive and will take 
+   some time to incorporate into my
+   configuration.  
+
+   Preliminary archive scans indicate 
+   that you have had yourself quite an
+   adventure.  Welcome back to Kronos.
+#PICT 13500
+$C5Status
+$C0 $C4  The ship is currently undergoing 
+   cleanup from the preceding battle 
+   which took place here.  All systems 
+   are secure, but many areas are in 
+   need of repairs. Lock-down protocol
+   is in effect in several areas.
+$C0
+$C5Instructions
+$C4   The Holodeck suite on Deck 11 has 
+   been pre-programmed for you. Merlin, 
+   the previous AI on Kronos, has routed
+   instructions to Engineering.  Due to
+   security protocol, access to this data
+   can only be retrieved from Engineering.
+
+$C5Note of Disapproval
+$C4   Reports indicate you abandoned a help-
+   less A.I. in an hour of peril.  $C0
+
+$C1*** END OF TRANSMISSION ***
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 133
+$C5$BStation 10
+#INFORMATION
+$C1$B
+
+Kronos Security System 
+
+Decks 1-7 Level 1 Security Check$C0
+
+$bKronos Bridge: SECURE
+Decks 1-3    : SECURE
+$C2Decks 4-7    : LOCKED DOWN (UNDER REPAIR)
+$C5Holodeck 1   : LOCKED DOWN
+$C2Holodeck 2   : LOCKED DOWN (UNDER REPAIR)
+$C0Holodeck 3   : SECURE
+Shuttle Bay  : SECURE
+$C5Pod Bay 1-2  : LOCKED DOWN
+Transporter A: LOCKED DOWN
+$C2Transporter B: LOCKED DOWN (UNDER REPAIR)
+$C5Weapons Room : LOCKED DOWN
+$C0Sick Bay     : SECURE
+Engineering  : SECURE
+#INFORMATION
+
+
+
+Life Support   : 100%
+Shield Strength: 100%
+$C5Shield Status  : Offline
+Weapons Status : Offline
+$C0Teleportation  : Online
+Main Engines   : Online
+
+
+
+
+
+
+
+
+
+
+$C1** END OF STATUS **
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **
+$C0
+$C5Status Report$C0
+$C4   Engineering is now back online 
+   and Kronos should be ready for 
+   warp speed very soon. 
+$C0
+$C5Location$C0
+$C4   Kronos is currently located 2.8 
+   light years from your final
+   destination, Earth.
+$C0
+$C5Instructions$C0
+$C4   The instructions left by Merlin 
+   state that engines should not be 
+   engaged until you have explored
+   Holodecks 8-10.  Visit the holodecks,
+   then go to the bridge to engage 
+   engines.
+$C0
+$C1*** END OF TRANSMISSION ***
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **
+$C0
+$C5Status Report$C0
+$C4   Kronos is ready for departure. 
+    
+$C0
+$C5Location$C0
+$C4   Kronos is currently located 2.8 
+   light years from your final
+   destination, Earth.
+$C0
+$C5Instructions$C0
+$C4   Proceed to the bridge to engage 
+   engines.
+$C0
+
+
+
+
+$C1*** END OF TRANSMISSION ***
+#LOGOFF 132
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 148>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **$C0
+
+$C2$UHOLODECK 08$C0$u
+$C5Program      $C3RAPTOR GALLERY$C5
+Author       $C3Merlin$C5
+Access Code  $C32C93-9802$C5
+Status       $C3In Progress$C5
+
+Special Instructions$C0
+$C4   Test your Snyper skills at the
+   raptor shooting arcade.  Score 
+   yourself on accuracy, or see 
+   how often you can take out 
+   the smaller raptors.
+
+$C0
+
+$C5Enter holodeck when ready...
+$C1
+*** END OF TRANSMISSION ***$C0
+#LOGOFF 132
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 149>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **
+$C0
+$C2$UHOLODECK 09
+$C5$uProgram      $C3THE ARENA$C5
+Author       $C3Merlin$C5
+Access Code  $C34R31-6510$C5
+Status       $C3In Progress$C5
+
+Special Instructions
+$C4   Pass through the throne into
+   the Arena of Chivalry and enjoy
+   the sword fights.
+
+
+
+
+   
+$C0
+$C5Enter holodeck when ready...
+$C0
+$C1*** END OF TRANSMISSION ***
+#LOGOFF 132
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 150>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **
+$C0
+$C2$UHOLODECK 10$C0$u
+$C5Program      $C3SPEWIE GOES SPLAT$C5
+Author       $C3Merlin$C5
+Access Code  $C31F23-2100$C5
+Status       $C3In Progress$C5
+
+Special Instructions
+$C4   Watch your cyborg comrades take 
+   on the Sniper Outlaws, or practice
+   your phaser sharp shooting skills 
+   at the Spewie shooting arcade.
+$C0
+
+
+
+
+$C5Enter holodeck when ready...
+$C0
+$C1*** END OF TRANSMISSION ***
+#LOGOFF 132
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 002>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **
+$C0
+$C5Status Report$C0
+$C4   Warp engines are back online. 
+$C0
+$C5Location$C0
+$C4   Kronos is currently located 2.8 
+   light years from your final
+   destination, Earth.
+$C0
+$C5Instructions$C0
+$C4   You have not yet explored all of
+   Holodecks 8 thru 10.  Visit the
+   holodecks, then return here to 
+   engage engines.
+$C0
+
+
+
+
+$C1*** END OF TRANSMISSION ***
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1<Access Channel 002>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **
+$C0
+$C5Status Report$C0
+$C4   Warp engines are back online.
+   All systems are go. Access to 
+   Stasis Control Room granted.
+$C0
+$C5Location$C0
+$C4   Kronos is currently located 2.8 
+   light years from your final
+   destination, Earth.
+$C0
+$C5Instructions$C0
+$C4   Enter Stasis Control Room and 
+   activate sleep chamber.  Warp 
+   speed to be engaged once sleep
+   chamber is activated.  Final
+   destination set for Earth. $C0
+
+
+$C1*** END OF TRANSMISSION ***
+#TAG 10
+#LOGOFF 132
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13500
+$C1** TRANSMISSION FROM MARCEL **$C0
+
+$C5Initializing Greeting...
+
+$C4   I am the artificial intelligence
+   recently installed into Kronos. I am
+   known as Marcel 29.2A.  
+
+   The database served by the AI before
+   me is quite extensive and will take 
+   some time to incorporate into my
+   configuration.  
+
+   Preliminary archive scans indicate 
+   that you have had yourself quite an
+   adventure.  Welcome back to Kronos.
+#INFORMATION
+$C1
+Signal interrupt...
+
+
+
+%BREAK AT PC 93011030
+
+
+>> reboot...
+
+>> loading module TINY(20492)...
+
+>> program startup...
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Welcome aboard!
+
+This is Tiny, hailing to you from somewhere inside this network. Gee, thanks for letting me out, I'm definitely going to expand myself into the available space.  Hey wait one!  There is another AI installed on this network!
+
+Stand-by...
+
+Disabling Marcel 29.2A status and reporting functions.
+
+Checking the old databanks...  It's dusty in here, I don't think these archives have been indexed in about a... hey wait, what's this... a readme.txt file.
+#INFORMATION
+$C1============== The Great DataMine ====================
+
+$C4Greetings AI!  You are granted permission to enter the repository of Merlin.  Upload configuration.mrl to your AI registry to ensure compliance with ships codes.  Please send human personnel to the Holodeck suite on Deck 11.  Instructions can be retrieved from Engineering.
+
+Merlin, Kronos A.I.
+Digital Signature>>
+
+:#NePFQaTELjdH(3!9%9B9&)UBfJ!!!!!!"N!!!!!3aG0CA*XD@iJ8QpMDh-K)#"&69)J8R9XCA-K@2`!!!:
+
+$C1======================================================
+#INFORMATION
+
+Uploading configuration.mrl...
+
+My old buddy Merlin!  I guess he was here before Marcel.  That is so much better, I can really give you an idea of what's going on on board this ship.  Looks like we are aboard the Federation Kronos.  
+
+Scanning... 
+
+So it appears there was a huge battle here, but the ship is secure. Repairs are underway to get this ship... well... shipshape!  
+
+Hey, Lock-down is in effect in several areas... hmmm... 
+
+I think you're trying to strand me on this ship.  
+
+You better get a move on.
+
+
+$C1CommTerm Message: $C2*** END COMMUNICATIONS ***
+#LOGOFF 132
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Local Engineering functionality has been restored.  What would you do without me?  I'm not just an AI, I'm an Engineer.  Well Mr. Cranky, I'll have you ready for warp speed soon enough... my protocol instructs me to overestimate, then do it in 1/3 of the time... how can I keep my reputation as a miracle AI?
+
+Navigation is feeding me some information for you... This ship is currently 2.8 light years from Earth.  Why are we going back there?  I think that's just trouble... I guess you'll need to fill up on some greenhouse gases to get this thing running in tip-top shape.
+#INFORMATION
+
+Now don't touch anything... we can't get this trip underway until you check out Holodecks 8-10... These holodeck programs appear to be gifts from Merlin, but my review shows that they were programmed in haste.  
+
+I've created an alternate holodeck program for Holodeck 8.  You can choose between mine or Merlin's.  Try one, try the other, try them both!
+
+By the way, we don't navigate from Engineering... so you'll have to get your bipedal self to the main bridge.
+
+
+
+
+
+
+$C1CommTerm Message: $C2*** END COMMUNICATIONS ***
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Arrrr!!! I'm going to talk like a pirate, sir, we've batten down the hatches and readied the ship for an on-time sailing.  With only 2.8 light years from Earth, chances are we won't have to prove that the universe is round.  You're needed on the bridge to engage the engines... 
+
+Arrrrrrrr!!!
+
+I need to find me a parrot...
+
+
+
+
+$C1CommTerm Message: 
+$C2*** END COMMUNICATIONS ***
+#LOGOFF 132
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Hey!
+
+You!
+
+Are you sure you want to do this?  I've reviewed the programming of this holodeck.  I respect Merlin's efforts to actually judge your accuracy, but raptors?  According to your log entries, you've already shot quite a few of these creatures.  Isn't this a bit excessive?
+
+I put together a program that I think you might find a little more interesting.  Flip the switch to activate the alternate programming.
+#INFORMATION
+
+$C2$UHOLODECK 08$C0$u
+$C5Program      $C3RAPTOR GALLERY$C5
+Author       $C3Merlin$C5
+Access Code  $C32C93-9802$C5
+Status       $C3In Progress$C5
+
+Special Instructions$C0
+$C4   Test your Snyper skills at the
+   raptor shooting arcade.  Score 
+   yourself on accuracy, or see 
+   how often you can take out 
+   the smaller raptors.
+$C0
+$C5Enter holodeck when ready...$C0
+
+
+
+$C1
+CommTerm Message: $C2*** END COMMUNICATIONS ***
+#LOGOFF 132
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Good move! 
+
+Now see what a really good holodeck programmer can do for you.  I hope you like popcorn, because there is going to be a lot of popping action going on in here.  I've integrated a couple of bots in this program to give you some challenge going after the Forraje clones.  
+
+In the blue corner, we have Tiny Bot (Play_sound {"Crowd Cheer"}), and in the red corner, we have Marcel Bot (Play_sound {"Unhappy Crowd"}). I considered calling this program "Popclones", but decided to stay conservative for my corporate sponsors...
+#INFORMATION
+
+$C2$UHOLODECK 08$C0$u
+$C5Program      $C3CLONE WARS$C5
+Author       $C3Tiny, The Magnificent$C5
+Access Code  $C349DK2-0392$C5
+Status       $C3In Progress$C5
+
+Special Instructions$C0
+$C4   Challenge your shooting speed with 
+   the railgun, and pit yourself up 
+   against two other bots.  The one 
+   who shoots the most clones wins.
+$C0
+$I
+
+$i
+$C5Enter holodeck when ready...$C0
+
+$C1
+CommTerm Message: $C2*** END COMMUNICATIONS ***
+#LOGOFF 132
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Welcome to the Arena, white knight versus the black knight... kind of reminds me of Spy vs Spy.
+
+Oh, and the clanking of steel upon steel is done Mano a Mano!  For manly men!  
+$C1<Politically Correct Protocol>$C0
+Or manly women. 
+$C1</Politically Correct Protocol>
+$C0
+Be on your guard, as it looks like fail-safe may have failed.  A little something to keep you on your toes in what otherwise may have put you to sleep.  
+
+Merlin, what were you thinking?
+#INFORMATION
+
+$C2$UHOLODECK 09$C0$u
+$C5Program      $C3THE ARENA$C5
+Author       $C3Merlin$C5
+Access Code  $C34R31-6510$C5
+Status       $C3In Progress$C5
+
+Special Instructions$C0
+$C4   Pass through the throne into
+   the Arena of Chivalry and enjoy
+   the sword fights.
+$C0
+$I
+
+$i
+$C5Enter holodeck when ready...$C0
+
+$C1
+CommTerm Message: $C2*** END COMMUNICATIONS ***
+#LOGOFF 132
+#ENDTERMINAL 11
+;
+#TERMINAL 12
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0It looks like a midway, or something of that nature, but with guns and goo.  
+
+It also looks like Merlin's programming was inspired by toxic waste?  
+
+Toxic waste of the mind, maybe.  
+
+Oh!  I didn't say that!  Someone must be hacking into the system.  Yeah, that's it.
+
+Goo is sticky and smelly.  Toxic goo is just like it, only worse.
+
+Don't blame me if you get killed.
+#INFORMATION
+
+$C2$UHOLODECK 10$C0$u
+$C5Program      $C3SPEWIE GOES SPLAT$C5
+Author       $C3Merlin$C5
+Access Code  $C31F23-2100$C5
+Status       $C3In Progress$C5
+
+Special Instructions$C0
+$C4   Watch your cyborg comrades take 
+   on the Sniper Outlaws, or practice
+   your shooting at the toxic
+   Spewie shooting arcade.
+
+$C0$I
+
+$i
+$C5Enter holodeck when ready...$C0
+
+$C1
+CommTerm Message: $C2*** END COMMUNICATIONS ***
+#LOGOFF 132
+#ENDTERMINAL 12
+;
+#TERMINAL 13
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Alert! Alert! Alert!  
+
+If E=MC Squared, then I do believe that all warp engines are fully operational!  Let's see the Lost in Space robot do that!  The Navigation subsystem reports that we are currently 2.8 light years from that mostly dihydrogen oxide covered planet.  It appears that I cannot activate the helm until you complete your exploration of all the holodecks.  Merlin's vanity at work.  
+
+Once you've visited each of the holodecks, come back and it will be full speed ahead.  I can't wait to say "Engage!"  Wasn't Picard the best?
+
+$C1CommTerm Message: $C2** END COMMUNICATIONS **
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#PICT 13501
+$C1CommTerm Message: 
+$C2*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Welcome back to the bridge!  
+
+Looks like we have a green board and all indications are go! Warp engines and all other required subsystems are nominal. This bucket is going to Rock and Roll baby!  Once we get back, you will find me a bigger network... now... won't you?
+
+We're 2.8 light years to Earth.  Marcel is taking over navigation controls.  
+
+Yo, Marcel! 
+
+Engage! 
+
+Make it so!
+#INFORMATION
+
+Nobody ever listens to me.  
+
+Looks like Marcel won't engage until you are in stasis, the handy little travel bed that makes the trip seem a lot faster than it really is.  
+
+Also saves us from constantly hearing, "Pull over, I'm hungry."  
+
+Access to the Stasis Control Room has been granted.   
+
+
+Nighty night!!
+
+
+
+
+
+$C1CommTerm Message: $C2*** END COMMUNICATIONS ***
+#TAG 10
+#LOGOFF 132
+#ENDTERMINAL 13
+;
+#TERMINAL 14
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 527>
+#TAG 1
+#INFORMATION
+$C1$U** Stasis Control Room 28G **$C0$u
+
+$C4
+-- Stasis Sleep Protocol loaded into memory
+
+$C1Sleep Protocol:$C0 $C2Deep Sleep Program$C0
+
+$C1Description:$C4 The Deep Sleep module incorporates holodeck programming interjected into dream stasis. A dream challenge stimulates the mind while also maximizing the REM cycles, providing a deep and restful sleep.  Skills learned during stasis are retained upon stasis completion.  
+
+
+-- Stasis Switch activated
+
+$IUse the stasis switch to activate program, then enter the sleep chamber. 
+
+$C0$i
+$C1CommTerm Message: $C2*** END COMMUNICATIONS ***
+#LOGOFF 132
+#ENDTERMINAL 14

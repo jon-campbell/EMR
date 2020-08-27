@@ -1,0 +1,70 @@
+;
+#TERMINAL 0
+#FINISHED
+#LOGON 10702
+$C1$IGrog Dictionary v1.2
+#INFORMATION
+$C5$IOn behalf of the Hakawa Clan of the North, I thank you.  With the demise of $C4zo'Tumba$C5, and with most of the infected $BRaptors$b disposed, our tribes will grow strong again.  You have brought $C4P'sobwa$C5 back to our land.  In appreciation of your help, we have made you an honorary member of our clan.  From hence forth, you shall be known as $C4K'zek-tuwo$C5, the Great $BRaptor$b Hunter.
+
+Let me tell you more of Morgana's visit.  As I mentioned earlier, she used a power to enslave our people.  She had many Hakawa and Timbawa people mining in local caves for the $BActinium$b crystals.  She called them the "$C1Catalysts of Time$C5".  For many moons our people dug in the caves looking for the crystals, but we never found any.  In her anger, Morgana left without curing those that she had infected.
+
+During her time with us, Morgana spoke in our native tongue most of the time, but there were times when she spoke in a strange dialect.  Before she left, she received a visitor that appeared out of nowhere.  This was another creature of your kind, a male, wearing a shiny gold $C4Da'vuku$C5.  Morgana seemed to call the creature Mordred.  They spoke to each other in the strange dialect, and after they finished talking, Morgana spoke a chant and the gold one disappeared.
+#PICT 10800
+$C5$II asked Morgana about the shiny gold creature, and she explained that he was her son.  There were many things she revealed to me.  She spoke of a hunter using some contraption called a "$C1time pod$C5" to follow her through time.  
+
+She also talked of her son Mordred, and how he would one day rule over all the worlds.  She stated that she used a magical charm to enchant his gold "$C1armor$C5" so that no earthly force could penetrate it.  She also said that she was leaving our world to return to a great "$C1castle$C5" where she would begin work on the crystals.  Although we did not find any $BActinium$b in our caves, she had many of these crystals already collected from other regions.  She mentioned that the crystals possessed powers beyond the power of the sun.
+#INFORMATION
+$C5$I
+
+Friend, I fear that Morgana and Mordred are up to something very evil.  Darkness surrounds them both.
+
+This is all the information I have for you.  I hope that it has been helpful.
+
+I bid you farewell, $C4K'zek-tuwo$C5.  Be quick and fast, and may the forces of Earth and Wind be with you.
+#PICT 10702
+$C3$I$B$UPost Translation Analysis:
+$u 
+$C4zo'Tumba
+$C1$iName given to a specific Grog, translation still unknown.$C4$I
+
+P'sobwa
+$C1$iLikely translation is "Peace", or "Balance".$C4$I
+
+K'zek-tuwo
+$C1$iName given to you after clearing the Raptor Lair.  Could translate as "Great Raptor Hunter", but redundancy in Grog speech may indicate it has a different meaning.$C4$I
+
+Da'vuku
+$C1$iLikely translation is "Armor".
+#LOGOFF 10704
+
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #5245>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0You have not yet paid a visit to our friend D'ungra.  He has information about Morgana which may prove useful to you on your journey.  Return here after speaking with him.
+
+I have activated the emergency teleporter beacon triads.  The beacons generate a teleportation field similar to the Kronos teleporters.  Use the triad near this pod to teleport to the other side of the collapsed caves.
+#LOGOFF 132
+
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #5245>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Morgana's powers must already be increasing to have brought Mordred through time.  I will soon send you to the time of Camelot where you must stop Morgana and Mordred.  I am concerned, however, that you will be at a disadvantage, as your modern weapons cannot penetrate Mordred's armor.  You must find Excalibur before taking the battle to him.
+
+I have received no reports from Kronos for quite some time, but it appears to be vacant now.  Morgana's troopers have either been exterminated or have left.  Prepare to be teleported back to Kronos for further training and to stock up on ammunition.  It is important that you are prepared for the battles ahead.  Morgana's knights and sorcerers will use powerful magic and physical might in an all-out war to stop you.
+$C1
+$C7- TELEPORTATION SEQUENCER -
+$C1Destination Code: Kronos
+Coordinates: ,2 <.43>
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 9
+#ENDTERMINAL 1

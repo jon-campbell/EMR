@@ -1,0 +1,51 @@
+;
+#TERMINAL 0
+#FINISHED
+#LOGON 135
+$C1<Station #122>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Morgana has become highly upset upon discovering the Future Pods.  After destroying the first pod, she is attempting to track down the others.  The good news is that she is temporarily distracted from her search for the Actinium Crystals.  The bad news is that her new focus is hunting you down.
+
+This is your opportunity to locate the Actinium Crystals and eliminate all access to them.  I have stationed two pods in this area: This one, and pod #138, which is located southeast of here.  Both pods have been equipped with high-frequency particle beam emitters.  When both emitters are activated, the two particle beams will intersect and establish a high-intensity energy beam.  The beam will penetrate the planet's surface, create a cave-in, and effectively block passage to the crystals.
+#PICT 10300
+
+
+The emitter in this pod is the primary subatomic particle beam emitter, and must be activated first.  The emitter in the other pod sends an anti-subatomic particle beam.  When that beam intersects  with the primary beam, the resulting annihilation produces the energy  beam needed to penetrate the Earth's crust.  A tertiary switch can then be used to direct the energy transfer to the location of the Actinium Crystals.
+
+It is vital that the particle beam in this pod be activated first, so I've locked the hatch on the second pod until the primary beam has been activated. After activating the switch, locate the other pod and activate the catalyst switch.
+#PICT 10301
+
+
+
+I must also warn you that the waters in this area are infested with carnivorous Jurassic fish.  They seem to be a prehistoric ancestor to the Piranha, only these fish are quicker, and much more deadly.  They strike before you have a chance to react.  
+
+$C2** Try to avoid the water in this area **
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#FINISHED
+#LOGON 135
+$C1<Station #138>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+The crystals in this cavern are rare Actinium Crystals flourishing in a geologically unstable area.  Their exquisite glow is unmatched by any other element known to man.  With Morgana's evil intentions, we must now block access to these crystals.
+
+In order to block access, you need to create a cave-in.  The minerals in the cavern walls will make it virtually impossible to detect the crystals once they are buried. The switch in this pod activates the secondary emitter sending an anti-subatomic particle beam into space.  Once it intersects with the primary particle beam already activated, an intense energy source is stored in a spacial kinetic state (much like a capacitor holds an electrical charge).  A tertiary switch is located near the crystals outside this pod that will release that charge and direct a focused energy beam to the exact location of the crystals.  Once you activate the third switch, there is no turning back.  The energy beam will start a chain reaction of rock displacement, causing a complete cave-in on the crystals, and burying them for all time.
+#PICT 134
+
+
+
+
+
+
+Upon successfully activating the energy beam, inspect the cavern to ensure there are no obtainable crystals.  From there, I will teleport you back to Kronos.
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 1

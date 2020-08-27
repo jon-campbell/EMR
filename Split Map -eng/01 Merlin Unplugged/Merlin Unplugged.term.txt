@@ -1,0 +1,543 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 248>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Welcome to the Starship Kronos.
+
+You were brought onto this starship to prepare for a critical mission.  The Captain has been detained on the Bridge and has given me instructions to prepare you for the perils which await you.
+
+Your preparation consists of Holodeck programs designed to acquaint you with the terrain and insurgence that awaits you in the tasks ahead.
+
+Before I reveal your mission, it is the history behind your mission that is of greater importance. What I am about to tell you breaks all protocol, and is certain to challenge your understanding of computer intelligence.  Until now, I have only been known as "Merlin", a KAI module (Kronos Artificial Intelligence). You are about to learn differently.
+#PICT 10101
+
+
+Centuries ago, in a land of mysticism and sorcery, in a time of knights and castles, I once walked the earth as Merlin the Sorcerer. In Camelot, during the reign of King Arthur, I served as the King's guide and friend. The temptress Morgana, half sister to the King, befriended me during this period, and with my help soon mastered the art of sorcery herself.  Distracted by other events, I allowed myself to be fooled into sharing my most powerful spell with Morgana, the Charm of Making. It was not long after when I learned the consequences of my mistake.  Deep in the caves of Camelot, Morgana betrayed me and used the charm to imprison my body in ice for all eternity.
+#PICT 10100
+Without my magic to protect King Arthur from Morgana's evil ambitions, I was left in an eternal state of fear and anxiety for the perils that awaited the kingdom. While the body of my magic powers were frozen, my spirit was able to transcend the caves to witness the events to come.
+
+Morgana wasted little time making her powers known to Arthur, and demanded that he relinquish his kingship and appoint her young son, Mordred, as king.  Of course, Arthur refused to give in to her threats, and instead banished her from the land.  Surprisingly, Morgana made no attempt to use her magic, and left the kingdom with her son.  A few years later, Morgana returned with a vengeance.  With her now grown son, her master Sorcerer Mauvair, and a horde of black knights, Morgana annihilated all that stood in her way.
+#PICT 10100
+
+
+
+
+During this massacre, an unusual storm struck Camelot. Intense lightning glowed throughout the kingdom, as a strong electrical pulse ripped through the land.
+#INFORMATION
+
+The storm, in your terms, was an unstable rip in the space time continuum, most likely triggered by the rip in the soul of humanity caused by Morgana's unholy uprising.  The pulse penetrated the ice which imprisoned me, transforming dendritic electrochemical potentials into a consciousness of pure energy, channeling my energy into the nucleus of the storm.  As the storm subsided and the rip in the space time continuum closed up, I found myself hundreds of years in the future. I was not of the flesh, yet I was more than a spirit.  I was in a strange electrical magnetic state, and was able to travel through any material capable of conducting electrical energy. I soon discovered that in this state, I was able to communicate with mankind by virtue of computer technology.  It is in this state that I guided you during your battles with the Diablo pirates, and it is from here that I will continue to guide you on your new journey.
+#PICT 10102
+
+
+
+
+
+
+You are currently located in the Sickbay of the United Planets Federation Starship Kronos.  Directly across from you are Hangars 1 and 2, currently housing experimental Time Pods.
+#PICT 10103
+
+
+
+Kronos is currently undergoing a full systems overhaul. The only unlocked transporter room is Transporter Room B. Although off-board teleportation is disabled, you can use it to teleport to various locations within the ship.
+
+Make your way to Holodecks 2 and 3 and learn what you can. The computer terminals outside the holodeck doors will provide further instructions.
+#PICT 10104
+
+
+
+
+Upon completion of your training, take the turbo-lift down to the future pod storage hangars. There is a Time Pod currently being charged up for activation.  From there, I will brief you on the Kronos Time Pod experiments, and your next task.
+
+Because the ship is currently undergoing an overhaul, many doors are inoperable.  There may be engineering personnel in your area who have manual override access to some parts of the ship.
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 251>
+#INFORMATION
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+$BHolodeck 2$b
+
+Holodeck 2 has been programmed for the Jurassic period.  This program provides an environment similar to the one in which your adventure is to begin. Your task is to explore the area and locate the escape pod.  This is just an exercise; the Holodeck escape pod does not support teleportation.  You must locate the holodeck exit after activating the escape pod.
+
+
+$B** HOLODECK 2 ACTIVATED **
+$b
+
+$C1>> Program starting up...$C0
+#INFORMATION
+
+
+
+
+$C1** HOLODECK ALERT **$C0
+
+$C2- HOLODECK MALFUNCTION
+- CORE PROCESSING FAILURE
+- AUXILIARY PROCESSING MALFUNCTION
+- FORCEFIELD SAFETY SYSTEM FAILURE
+- RADIATION DAMPENING SYSTEM FAILURE
+- NEUROCHEMICAL SYNTHESIS SYSTEM MALFUNCTION
+$C0
+$C1[contact $C7$Uholodeck-admin@waterloo.kronos.starships.up$C1$u for help]$C0
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 133
+$C1<Access Channel 251>
+#INFORMATION
+$C1$B
+
+
+
+
+ALL-HANDS ALERT$b
+$C2
+An enemy ship has just uncloaked off the aft end of the ship.  Cargo Bays 1 and 2 are under heavy attack.  All crew are requested to evacuate the ship immediately.  Defense systems are down.  Off-board teleportation is disabled on all transporter pads.  Proceed immediately to the future pod recharging bay.  A functioning pod located there is currently the only means of leaving the ship.
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 252>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+$BHolodeck 3$b
+
+Holodeck 3 has been programmed for the Camelot period.  This program provides an environment similar to the one in which you will be spending much of your time.
+
+I have set this program up as an exercise.  Your task is to explore the area, familiarizing yourself with the terrain as much as possible.  This is vital to your training.  
+
+NOTE: There appear to be some bugs in the holodeck programming which allow harm to come to human participants.  As a safety precaution, a Super Shield powerup has been located within the program for your protection.
+
+
+$B** HOLODECK 3 ACTIVATED **$b
+
+$C1>> Program is currently in progress...$C0
+#INFORMATION
+
+
+
+
+$C1$B** HOLODECK ALERT **$C0$b
+
+$C2Holodeck 3 has been experiencing technical problems with the safety control code.  Until further diagnostics are performed, it is uncertain whether it is safe to enter.
+$C0
+$C1[contact $C7$Uholodeck-admin@waterloo.kronos.starships.up$C1$u for help]$C0
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 133
+$C1<Access Channel 252>
+#INFORMATION
+$C1$B
+
+
+
+
+ALL-HANDS ALERT$b
+$C2
+An enemy ship has just uncloaked off the aft end of the ship.  Cargo Bays 1 and 2 are under heavy attack.  All crew are requested to evacuate the ship immediately.  Defense systems are down.  Off-board teleportation is disabled on all transporter pads.  Proceed immediately to the future pod recharging bay.  A functioning pod located there is currently the only means of leaving the ship.
+#LOGOFF 132
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 227>
+#INFORMATION
+$C1
+
+
+
+
+INCOMING MESSAGE FROM MERLIN...$C0
+
+Teleportation off the ship is not currently possible from the transporter room.  It is functional, however, for on-board teleportation.
+
+Reports are coming in from all over this quadrant that Morgana's attack forces are on the move.  Several outposts have already been destroyed.
+#PICT 10103
+
+
+
+
+
+
+
+One of the teleporter pads will transport you across the hall to Transporter Room A.  The door to Transporter Room A is currently locked, so the only means of exploring the room is by use of the on-board teleporters.
+#PICT 10102
+
+
+
+
+Of the other transporter pads, one will take you back to Sickbay, and the other will take you to Hangar #2.
+
+
+Until the systems overhaul is completed, the only means of teleporting you off the ship is from a time pod in the Recharging Bay of Hangar #2.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 133
+$C1<Access Channel 227>
+#INFORMATION
+$C1$B
+
+
+
+
+ALL-HANDS ALERT$b
+$C2
+An enemy ship has just uncloaked off the aft end of the ship.  Cargo Bays 1 and 2 are under heavy attack.  All crew are requested to evacuate the ship immediately.  Defense systems are down.  Off-board teleportation is disabled on all transporter pads.  Proceed immediately to the future pod recharging bay.  A functioning pod located there is currently the only means of leaving the ship.
+#LOGOFF 132
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 233>
+#INFORMATION
+$C1
+
+INCOMING MESSAGE FROM MERLIN...$C0
+
+Good... you got some help from the engineering crew.  This is only a small stash of ammunition, but it will have to do.  The arsenal in the Weapons Rooms across the hall is currently inaccessible due to a security alert.  
+
+You were lucky to find one of the engineering crew still aboard.  They have all been ordered to leave Kronos in an emergency evacuation.  Assault troopers from Morgana's Empire have infiltrated the security system and are now attempting to board the ship.  Do not be concerned, however, because your task is much more important than saving this ship.  There are reinforcements on the way to regain control of Kronos.  Your concern is to complete your training and to begin your journey.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 133
+$C1<Access Channel 233>
+#INFORMATION
+$C1$B
+
+
+
+
+ALL-HANDS ALERT$b
+$C2
+An enemy ship has just uncloaked off the aft end of the ship.  Cargo Bays 1 and 2 are under heavy attack.  All crew are requested to evacuate the ship immediately.  Defense systems are down.  Off-board teleportation is disabled on all transporter pads.  Proceed immediately to the future pod recharging bay.  A functioning pod located there is currently the only means of leaving the ship.
+#LOGOFF 132
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 133
+$C5$BStation 10
+#INFORMATION
+$C1$B
+
+Kronos Security System 
+
+Decks 1-7 Level 1 Security Check$C0
+
+$bKronos Bridge: SECURE
+Decks 1-3    : SECURE
+$C5Decks 4-7    : BREACH DETECTED
+Holodeck 1   : BREACH DETECTED
+Holodeck 2   : SAFETY FAILURE
+Holodeck 3   : SAFETY FAILURE
+Shuttle Bay  : BREACH DETECTED
+Pod Bay 1-2  : BREACH DETECTED
+$C3Transporter A: <no reading>
+$C0Transporter B: SECURE
+Weapons Room : SECURE
+Sick Bay     : SECURE
+Engineering  : SECURE
+#INFORMATION
+
+$C2** RED ALERT **
+
+** RED ALERT **
+$C0
+$C1Security breach detected on decks 4 thru 7.  
+
+Security breach detected in Shuttle Bay.  
+
+Security breach detected in Pod Bays 1 and 2.  
+$C0
+$C2** RED ALERT **
+
+** RED ALERT **
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 133
+$C5$BStation 10
+#INFORMATION
+$C1$B
+
+Kronos Security System 
+
+Decks 1-7 Level 1 Security Check$C0
+
+$C5$bKronos Bridge: BREACH DETECTED
+Decks 1-3    : BREACH DETECTED
+$C2Decks 4-7    : INVASION (CASUALTIES)
+$C5Holodeck 1   : BREACH DETECTED
+Holodeck 2   : SAFETY FAILURE
+Holodeck 3   : SAFETY FAILURE
+$C2Shuttle Bay  : INVASION (CASUALTIES)
+Pod Bay 1-2  : INVASION (CASUALTIES)
+$C3Transporter A: <no reading>
+Transporter B: <no reading>
+Weapons Room : <no reading>
+Sick Bay     : <no reading>
+$C2Engineering  : INVASION (CASUALTIES)
+#INFORMATION
+$C1$B
+
+
+
+
+ALL-HANDS ALERT$b
+$C2
+An enemy ship has just uncloaked off the aft end of the ship.  Cargo Bays 1 and 2 are under heavy attack.  All crew are requested to evacuate the ship immediately.  Defense systems are down.  Off-board teleportation is disabled on all transporter pads.  Proceed immediately to the future pod recharging bay.  A functioning pod located there is currently the only means of leaving the ship.
+#LOGOFF 132
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 133
+$C2$B** SECURITY BREACH DETECTED **
+#PICT 129
+
+
+
+$C2$BDon't be a fool!!!  If you follow the instructions of that old goat Merlin, you'll end up just as he did.  Him and his self-righteous ideals about saving the galaxy... it's senseless!  This galaxy needs saving, but not from me... It needs to be saved from all the stupidity and weaknesses infecting our species.  With my strength and power, we will conquer the weak and the strong will prosper.  Join me now while you have the chance, for if you partake in Merlin's plans, you will surely perish!
+$C0
+                 $C1  - Morgana$C0
+#LOGOFF 132
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 300>
+#PICT 134
+$C1
+
+
+INCOMING MESSAGE FROM MERLIN...$C0
+
+Complete the exercises on Holodeck 2 and Holodeck 3, then visit the Communications room to read the last entry of Captain Wheatin's log.  Return here only when you are done.  At that time, I will provide you with further information regarding the time travel experimentation, and how it affects your mission.
+ 
+The training is imperative!  The perils that await you are unimaginable.  Before sending you off on your mission, I need to be assured that you are prepared.  The survival of mankind is at stake!
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1<Access Channel 300>
+#PICT 134
+$C1
+
+
+
+
+INCOMING MESSAGE FROM MERLIN... $C0
+
+Kronos is currently under condition red and under full attack!  Unknown forces have boarded the ship killing anyone in their path.  The Captain and what's remaining of his crew have escaped on the emergency shuttle pods.
+
+It is no longer safe to train on this ship, so ready or not, it is time to embark on your journey.
+#INFORMATION
+
+You are currently located in the Time Pod Recharging Bay.  The Time Pods are experimental, using technology obtained from time travelers visiting us from the future.  These Time Pods are commonly referred to as Future Pods.
+
+Adjacent to you are two large storage bays for the Future Pods.  Become familiar with the look of these pods, because they are going to be vital to you on your expedition.
+
+After Morgana overtook Camelot, she returned to her fortress in the Dark Forest. What happened to Arthur and the Knights of the Round Table is unknown at this time.  Defying the laws of logic and science, Morgana continued to build her forces of evil using a perverse combination of sorcery and science.  She then mysteriously disappeared from her fortress without a trace.  Rumor has it that Morgana discovered a combination of spells that enabled her to break through the space-time continuum.  Only capable of sending herself, Morgana started on her journey of time traveling adventures.
+#INFORMATION
+
+
+Her first exploration, as you may have guessed by now, was into the future.  She discovered the existence of many alien worlds and explored each for potential allies. Using her unmatched talent for luring the darkness out of all living creatures, she quickly gathered forces and masterminded what you now know as the Diablo pirate raids. Your part in thwarting the Diablo pirate forces was significant, yet the pirates were a mere experiment for Morgana.
+
+During her visit to the future, she studied modern technology, and utilizing this new-found knowledge, she learned how to stabilize her ability to time travel.  A vital resource in breaking the space-time continuum is a rare mineral known as Actinium Crystals. The Future Pods use a synthetic form of Actinium in combination with some advanced circuit technology.  Fortunately, Morgana does not have access to the synthetic Actinium, nor the advanced circuitry.  The last report on Morgana's whereabouts was deciphered from the journal of a Diablo scientist.
+#PICT 11908
+$C1
+
+
+$ULog Entry: Day 43, 2289 $C0$u
+$C4
+My fellow scientists and I have begun to reconsider our role in our current project.  It no longer appears that Diablo High Command is running the operations here.  A strange alien who calls herself "Morgana" has been working us long hours to explore the principles behind the Actinium mineral.
+#INFORMATION
+$C1$ULog Entry: Day 44, 2289$C0$u
+
+$C4We had decided to cease our work on Actinium studies, and return to our previous task of furthering weapons development for the Diablo pirates.  Morgana demanded that we continue our research on Actinium.  Doctor Xkrlx responded sarcastically to Morgana's demand, and told her that if she was so fond of Actinium, she should return to Earth a few million years in the past. We all knew that Actinium flourished during the early stages of life on the planet, and a few of the scientists chuckled at Xkrlx's remarks.  I was watching Morgana, however, and felt an eerie chill come over me.  The last thing we heard from Morgana was a disingenuous thank you, followed with an evil grin.  She then put her hand on one of test consoles and chanted some words that our translator did not recognize. Thereafter, radiation erupted from all of our electrical devices and Morgana vanished. Most of us died immediately from the shock, while some of us have been dying from radiation poisoning ever since. I am the last survivor.  $II just hope that  ----______$i
+$C0
+$C1$I[last entry in journal]$C0$i
+#PICT 10201
+
+It is believed that Morgana has traveled back in time to retrieve natural Actinium resources. With these resources, Morgana will be able to stabilize her time traveling abilities and transport entire forces through time.  If Morgana is allowed to achieve this ability, the mayhem and bloodshed that could result would devastate mankind.
+
+Kronos is an experimental vessel conducting tests on these Future Pods, and the Federation has been attempting to improve and control our ability for breaking through the space-time continuum.  The technology is not yet perfected, but it is our only means of tracking down Morgana at this point.
+#INFORMATION
+
+Prepare to travel 200 million years into the past.  Morgana is searching for rare Actinium Crystals that, in theory, existed during the Jurassic period.  You must prevent her from obtaining these crystals.  There are several Future Pods dispersed throughout the Jurassic time period - the theory being that the more pods that are available, the higher the probability of a successful transport.  The Future Pods will provide you with teleportation, communication, and a few other modern functions.  For the most part, however, you will need to adjust to an untamed, prehistoric environment.  Good luck!
+
+Prepare for transport...
+
+
+
+
+$C7- TELEPORTATION SEQUENCER -
+$C1Destination Code: Jurassic
+Coordinates: 167,23 <34.19>
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 2
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 134
+$C2$BGreetings!$C1$b
+#INFORMATION
+$C1
+
+
+INCOMING MESSAGE FROM MERLIN...$C0
+
+You are doing well!
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 133
+$C1<Holodeck 2>
+#INFORMATION
+$C1$B
+
+
+
+
+ALL-HANDS ALERT$b
+$C2
+An enemy ship has just uncloaked off the aft end of the ship.  Cargo Bays 1 and 2 are under heavy attack.  All crew are requested to evacuate the ship immediately.  Defense systems are down.  Off-board teleportation is disabled on all transporter pads.  Proceed immediately to the future pod recharging bay.  A functioning pod located there is currently the only means of leaving the ship.
+#LOGOFF 132
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 251>
+#INFORMATION
+
+$C1HOLODECK 2 Shutdown...
+$C0
+
+$C2- HOLODECK MALFUNCTION
+- CORE PROCESSING FAILURE
+- AUXILIARY PROCESSING MALFUNCTION
+- FORCEFIELD SAFETY SYSTEM FAILURE
+- RADIATION DAMPENING SYSTEM FAILURE
+- NEUROCHEMICAL SYNTHESIS SYSTEM MALFUNCTION
+$C0
+$C1
+** SHUTDOWN COMPLETE **
+
+<Holodeck 2 computer offline>
+#INFORMATION
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+You have already completed the Jurassic exercise on Holodeck 2. Although the program has been taken off-line, there appear to be remnants of the Jurassic period still present in the holodeck.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 133
+$C1<Access Channel 251>
+#INFORMATION
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+Congratulations! 
+
+You have successfully completed the Jurassic exercise on Holodeck 2.
+#INFORMATION
+$C1$B
+
+
+
+
+ALL-HANDS ALERT$b
+$C2
+An enemy ship has just uncloaked off the aft end of the ship.  Cargo Bays 1 and 2 are under heavy attack.  All crew are requested to evacuate the ship immediately.  Defense systems are down.  Off-board teleportation is disabled on all transporter pads.  Proceed immediately to the future pod recharging bay.  A functioning pod located there is currently the only means of leaving the ship.
+#LOGOFF 132
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 252>
+#INFORMATION
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+You have already completed the Camelot exercise on Holodeck 3.
+
+Visit the Communications room across the hall and access the last log entry made by Captain Wheatin.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 133
+$C1<Access Channel 252>
+#INFORMATION
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+Congratulations! 
+
+You have successfully completed the Camelot exercise on Holodeck 3.
+#INFORMATION
+$C1$B
+
+
+
+
+ALL-HANDS ALERT$b
+$C2
+An enemy ship has just uncloaked off the aft end of the ship.  Cargo Bays 1 and 2 are under heavy attack.  All crew are requested to evacuate the ship immediately.  Defense systems are down.  Off-board teleportation is disabled on all transporter pads.  Proceed immediately to the future pod recharging bay.  A functioning pod located there is currently the only means of leaving the ship.
+#LOGOFF 132
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 130
+$C1Captain's Log
+#INFORMATION
+$C1Captain's Log - Stardate 2319382
+
+Log Entry: 1245
+$C0
+$C4Our passenger is recovering well.  Sick Bay reports that all vital signs are returning to normal.  Admiral Schimille will be pleased with this information.  The Admiral has made it very clear that our new passenger is to be made a priority while aboard the Kronos.
+
+Taking on our new passenger has proven to be a slight distraction from our exploration and continued experimentation with time travel. I must admit, however, to being quite impressed with the accomplishments of Schimille's hero.  This space marine has sparked renewed energy in my crew and has demonstrated a remarkably high galaxian spirit. Countless tales of terrifying yet heroic adventures are told and retold.  Sometimes I find myself so intensely caught up in these tales, that I almost forget what we are doing here.  Yet there is something that our visitor knows that casts a shadow of great uncertainty over these stories... as if the worst is yet to come. $C0
+
+$C1Captain Michael B. Wheatin
+#INFORMATION
+$C1Captain's Log - Stardate 2319383
+
+Log Entry: 0805
+$C0
+$C4We received several reports of attacks on starships throughout our quadrant this morning.  The ships are stronger than the pirate ships of the Diablo.  Kronos is ill-equipped to handle an attack of the magnitude being reported, and I fear for her and her crew.
+
+I contacted the Battle-cruiser Davenport and the Explorer Brazil in efforts to obtain escort.  We attempted to plot a course to lead us away from the fighting, but our attempts have failed.  One of our remote scanners has reported that an enemy ship will soon intercept our course before any help may reach us.  I am preparing escape plans now.
+
+Should the ship's capture become imminent, I will be left with no choice but to activate the self-destruct sequence.  Kronos technology cannot fall into the hands of our enemies. 
+$C1
+Captain Michael B. Wheatin
+#LOGOFF 132
+#ENDTERMINAL 11

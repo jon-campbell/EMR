@@ -1,0 +1,538 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is:$C0 $C2Lobby, Building 7, Level SB-36
+#PICT 13100
+   
+#INFORMATION
+
+A portion of this facility manufactures most of Morgana's synthetic minions, the ammunition they use, and the service sub-assemblies they require.  The larger complex also hosts the headquarters for the old WorldSoft Eastern Hemisphere Administrative Offices, which Morgana was using as a control center.
+
+The complex offices are now empty as Morgana has fled with most of her remaining forces to a northern location I have yet to discover. The GAT assembly lines have been left to run themselves, and they are,
+as you read this, continuing to produce fresh troops for Morgana.
+Why they have been left here, and are not being teleported to Morgana's current location, is a question that I am only now beginning to answer.  This answer, if correct, has terrible implications for the success of your mission, and for the safety of all life in the Galaxy.
+#INFORMATION
+Your current location is Sub-Basement 36 of Building 7.  Housed here is the main power generator for the Heavy-Fab facility, and some of the old WorldSoft High-energy research labs.  Shutting down the generator, and thus the GAT assembly lines, is an important objective, but one I could have dispatched a force of Kronos Security Personnel to accomplish.  What has made this mission of such importance that I am willing to risk everything by sending you here, is that I have detected a strong source of N-Waves emanating from this level of Building 7. N-Waves, as you should remember, do not occur naturally and are only produced by time-shift technology, such as the Kronos Future Pods.  That N-Waves are coming from this place, in this time, should not be.  Something is gravely awry.
+
+Your destruction of Mauvair's experimental Future Pod should have ended Morgana's ability to move her troops across time.  I now fear this might not be so.  By accessing some of the less secure WorldSoft internal cameras, I can confirm that forces from all time periods have free run of the building, and that their numbers are increasing with each passing hour.
+#PICT 13101
+You must determine if Morgana does indeed have a functioning Time-Shift device here, and if so, you must smash it.  All depends on you.
+
+Here is the strongest source of N-Wave emissions in Building 7.  The regular, rhythmic spikes in their intensity lead me to believe that this might be the focal point for a functioning time-shift device.  From the strength of the wave flash-overs,
+I fear this may indicate a device capable of moving large numbers of troops in a single activation.
+
+You must first make your way to this location, and confirm or deny my suspicions.  Be on your guard, as internal video logs show a great deal of recent activity in the area.
+#PICT 13102
+After you have investigated the previous area, make your way to the communications terminal located here to give your report.
+
+This area is protected by a security door, and I am working to establish better access for myself in the facility's data network in order to release it.  How long this will take, however, I am uncertain.
+
+Directly behind you, and in front of the security door, you will find a small cache of ammunition I have sent down for you.  Because of your depth beneath the surface, I am only able to teleport small quantities of supplies for you.  You will mostly need to make do with local stockpiles, and what you can strip from the vanquished.
+#PICT 13103
+By the time I have cleared the door lockout, and you have reached the terminal, I should have further information for you.
+
+One final note:  Try your best to locate this area.  You can find a Pattern Buffer here, and I fear greatly that before your task is complete, you will be in need of its services.
+$C1
+
+*** END OF MESSAGE ***
+#LOGOFF 141
+$C2"When You Follow The Leader, Follow WorldSoft."
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is: $C2The WorldSoft Job Fair
+#INFORMATION
+$C1
+  $C2Begin HUD Video UpLink.
+
+  Video UpLink successful.  Relaying...$C1
+
+
+*** INCOMING MESSAGE FROM MERLIN ***
+$C2
+$C0I have reviewed your HUD UpLink -- let me say, once again your prowess as a warrior astounds me.  In my time you would have indeed found a home at the Round Table, and a place by Arthur's side.  Still, as laudable as your victory was, much work remains ahead of you.
+
+The video images captured by your helmet's camera have confirmed my worst fears.  Using the resources here at the Heavy-Fab Facility, Morgana has succeeded in creating a functioning time-shift device.  This device must be rendered inactive at all costs.  In a moment of desperation, Morgana may be tempted to use her device to commit the unthinkable -- a recursive entry into the timeline.
+#INFORMATION
+Each sentient being in the Universe, by choices made and actions taken, creates a unique, personal thread running through the greater timeline.  Time travel is safe as long as the actions of the traveler have no direct effect on his or her personal time thread.
+
+A Recursive Intrusion into the timeline occurs when a traveler intentionally journeys back to an earlier point in their personal time thread, in an attempt to alter its course in the present.  This creates a Causality Paradox, a situation which would threaten the integrity of the greater timeline if there were no checks to prevent it.  The greater timeline has such a protective check -- Temporal Implosion and Rebound.
+
+Temporal Implosion and Rebound (TIR) is an event where, for an infinitesimal moment, the entirety of the greater timeline collapses around a Causality Paradox, implodes to a singularity and then forcibly rebounds to its original boundaries inside N-Space.  This rebound, as you might imagine, releases an enormous quantity of energy, with devastating results.
+#INFORMATION
+The energy released from a TIR is determined by the depth of the recursion.    The greater the number of involved personal threads, and the greater their span through time, the greater the energy released.  The rebound energy is released in real space and in real time and results in real destruction along the length of the timeline encompassing the recursive thread.  This destroys the recursive time thread, along with all interwoven personal time threads.  The integrity of the greater timeline is thus protected, at the expense of a localized region.
+
+Using all the network resources at my disposal, it has taken me several minutes -- an enormous time, computationally -- to calculate an estimate of the energy release that would be caused by an attempt of Morgana to recursively reach back into her personal time thread, and interfere with it for her own gain.  The resulting explosion 
+would be powerful enough to pulverize most of this galaxy, starting from the present, and reaching backward through time to the point of Morgana's birth.  The Future would be rendered a wasteland of interstellar proportions.
+
+This must not be.  This will not be.  You will prevent it.
+#PICT 13104
+The most effective, efficient way to destroy Morgana's time-shift device is to disable its power source.  This is the Graviton Dynamo.  The Dynamo 
+has a miniscule gravity point-source as its heart, a "Black Hole" in the popular literature of your day.  This type of power generator has several unique properties that make it ideally suited to powering time-shift technology.  The Kronos Future Pods are, themselves, powered by a very much scaled-down Graviton Dynamo.
+
+Cripple this power generator, and you destroy Morgana's ability to move through time, and prevent any desperate acts on her part.
+#PICT 13105
+The next step in your mission here is to make your way to the Technical Reference Reading Room.  The Graviton Dynamo is protected by multiple security lockouts, and the files covering their operation have been heavily encrypted in the network.  You can access these files directly from this location.  By the time you have made your way here, I will have created a local clearance for you in the Reading Room terminal.  From this terminal, we will be able to discover the means with which you can thwart Morgana's plans.
+
+Make your way here with all speed.
+
+
+$C1Merlin out...$C2
+#LOGOFF 141
+$C2"We Make The Hard Choices For You."
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is: $C2Graviton Dynamo
+#INFORMATION
+$C1*** INCOMING MESSAGE FROM MERLIN ***
+$C2
+$C0Your efforts here have been the stuff of legend.  You have successfully deactivated the gravity point-source suspensor field, destroying the core of the Graviton Dynamo, and crippling Morgana's time-shift device.  But still, your work here remains unfinished.
+
+There are still sufficient numbers of Morgana's minions left alive in this installation to pose a threat to our imminent victory.  You must seek out these enemies and crush them.  As a result of shutting down the field, we can tie into the WorldSoft security network to activate a sensor sweep of the area.  This should help you locate the remaining forces.
+
+Return here when you are done.  Time is growing short.  Hurry.
+
+
+$C1Merlin out...$C2
+#LOGOFF 141
+$C2"The Standard Leader In The World Today."
+#END
+#FINISHED
+#LOGON 141
+$C1Your Location Is: $C2Graviton Dynamo
+#INFORMATION
+$C1*** INCOMING MESSAGE FROM MERLIN ***
+$C2
+$C0Victory is close, and destiny has chosen your path.  I shall send a squad of our synthetic allies to complete the securing of Building-7 and the Heavy-Fab facility.  Your path lies elsewhere.
+
+Wait... what's this?  I'm detecting a distress signal within the WorldSoft network.  It appears to be coming from the library node... another AI?  Have you been in contact with any other AI's?  You need not heed the call, as matters here are well in hand, but it may be handy to have another ally. If you wish to investigate, you need to exit this communication.  $C2Press ESCAPE to halt transmission.$C0
+ 
+I have determined Morgana's present location to be a heavily fortified WorldSoft facility in the northern city of Jahala.  Here will be the ground for your final battle with Morgana and her remaining forces.  I know that your warrior heart will rise to the challenge.  The moment is upon you.  I will now show you the place from where your final battle will begin.
+
+$C1CommTerm Message: $C2Beginning Video DownLink with text overlay...
+#PICT 13108
+   
+#PICT 13109
+$C2
+$C0The Reina Siniestra is currently parked in geostationary orbit above the city of Jahala.  Without your intervention, it would not be safe for our forces, or yourself, to enter the city's WorldSoft Complex.  From its position in orbit, Morgana's flagship could decimate our troops with pinpoint weapon strikes.
+
+Your first task, therefore, will be to disrupt operations aboard the Reina Siniestra.  Once that is accomplished I will teleport you into the Jahala complex.
+
+Prepare for battle and be of good heart,
+as I have sent friends ahead to join you.
+
+$C2Teleport Lock Received. 
+Initiating Teleport...
+#LOGOFF 141
+$C2"We Make The Hard Choices For you."
+#INTERLEVEL TELEPORT 33
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is: $C2Secret
+#PICT 13111
+#LOGOFF 141
+$C2"Big Surprise"
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is: $C2N-Wave Injector
+#INFORMATION
+$C1CommTerm Message: $C2Network Error.  Security Channel 0736T is Open.
+
+
+$C0GAT LeaderUnit: Facility entrant hostile.  Estimated threat potential, 
+                  Level 5.  Instructions?
+
+  GAT C&C A.I.: Protect time-shift device. Protect main power plant.  
+                  Terminate Facility entrant.  Acceptable Active Duty
+                  Cycle Unit loss for goal success is 100%.
+
+GAT LeaderUnit: Use New Production Units to achieve goals?
+
+  GAT C&C A.I.: Evaluate goal status at completion of Current
+                  Unit Production Cycle.  Use New Production Units as
+                  required.  Acceptable New Unit Loss for goal success
+                  is 100%.
+
+GAT LeaderUnit: Standing Goal Failure Instructions?
+#INFORMATION
+  GAT C&C A.I.: Yes.  Standing Goal Failure Instructions are:
+
+                  -- Failure to protect time-shift device results in
+                     Emergency Evacuation of all Combat Ready Units to
+                     Reina Siniestra.  Method: Orbital PickUp by Reina
+                     Siniestra from Building-7 rooftop TelePad.
+
+                  -- Failure to protect main power plant results in
+                     Emergency Evacuation of all Combat Ready Units to
+                     Reina Siniestra.  Method: Orbital PickUp by Reina
+                     Siniestra from Building-7 rooftop TelePad.
+                     Addendum: Use of Emergency Express Teleporters
+                     to Building-7 rooftop TelePad is Authorized.
+
+                  -- Emergency Evacuation of all Combat Ready Units
+                     overrides Terminate Facility entrant goal.
+
+GAT LeaderUnit: All goals and instructions received and understood.
+#INFORMATION
+$C1         Network Query: $C2Status of N-Wave Injector Emergency Express
+                        Teleporter?
+
+        $C1CommTerm Reply: $C2Origin of Query?
+
+        $C1 Network Reply: $C2GAT C&C A.I.
+
+        $C1CommTerm Reply: $C2Origin of Query is valid.
+
+      $C1CommTerm Message: $C2Scanning N-Wave Injector Emergency Express
+                        Teleporter.  Working...
+                  
+$C1CommTerm Status Report: $C2N-Wave Injector Emergency Express
+                        Teleporter is currently inactive and 
+                        locked down.  Teleporter Lock is set to
+                        Building-7 rooftop TelePad area.
+
+       $C1Network Message: $C2Status Report accepted and relayed.
+#LOGOFF 141
+$C2"Keeping Your Safety In The Backs Of Our Minds."
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 142
+$C1Your Location Is: $C2Technical Reference Reading Rm.
+#INFORMATION
+$C1*** INCOMING MESSAGE FROM MERLIN ***
+$C2
+$C0I am pleased to see you made it here in one piece.  Although, from what I can see through the CommTerm scanners, I will have to initiate a Requisition Order for a replacement combat suit, on your behalf.  The one you are wearing seems to have gotten a bit scorched.
+
+I have reactivated an old WorldSoft Employee ID for your use, and reinitialized the network with a master back-up from the same time period as the ID.  After you have received the ID into your implant's Link, you should then be able to access the Technical Reference Database.  Once you have logged on, I can take over from there.
+
+Prepare to receive the ID code.
+
+      $C1CommTerm Message: $C2Beginning file DownLink...
+                        Working...
+                        File DownLink complete.
+
+$C0Good.  Now try to logon to the Technical Reference Database.
+#INFORMATION
+$C2
+          $C1User Command: $C2Logon to Technical Reference Database
+
+        $C1Command Result: $C2Employee ID Code verified.  Logging on...
+
+$C1CommTerm Status Report: $C2Logon successful.  Database Online.
+
+$C0Excellent!  I now have full access to the database.  Hmmm...  Give me a moment, the files are in a state of disarray.  I believe I see some of Mauvair's handiwork here.  His sense of organization always was...unique.  This may take a few seconds...
+
+There.  I have most of what we will need.  It should be enough.
+
+To disable Morgana's time-shift device we must destroy it's power source -- the Graviton Dynamo.  This will also have the added
+benefit of shutting down the GAT assembly lines, and they have
+already been left running far too long for my comfort.
+
+This is what you must do...
+#PICT 13106
+At the center of the core of the Graviton Dynamo is a minute gravity point-source held in place by a suspensor field.  You need to deactivate this suspensor field.  Doing so will cause the gravity point-source to crash into the walls of the Graviton Dynamo's inner containment vessel.  An emergency force-field will prevent the point-source from any further penetration, but the core of the Dynamo will be wrecked.
+
+The first step to deactivating the suspensor field is to reach the area housing the Graviton Dynamo Maintenance Terminal.  The suspensor field Release Switch is protected by a safety interlock tagged to the Maintenance Terminal area -- it will not be accessible until you visit this area first.  Because of the disarray of the database, I was not able to discern the exact location of the release switch, but it should be near the terminal area.
+#PICT 13107
+Access to the maintenance terminal area is blocked by five security platforms.  These platforms must be raised into position in order to reach the terminal area.  The only other option for reaching the terminal area would be to blast yourself up onto it using a High-Tech rocket -- I have yet to understand the glee this form of transport seems to engender in most Federation Marines.
+
+The platforms are controlled by switches in the North and South Security Towers, and
+by a single Servo Actuator.  These can all be thrown in any order convenient for you.
+
+Perhaps "convenient" is a poor choice of words on my part.  Security cameras in the area show the Graviton Dynamo to be very heavily guarded.
+#PICT 13106
+After you have smashed Morgana's forces and deactivated the suspensor field, return to the maintenance terminal area.  Any security locks on the terminal itself should be released at this point, and I will have further news to give you.
+
+Be strong.  The battle to capture the Dynamo will be one of the most arduous you have yet faced.  I have faith that, like in so many times before, you will prevail.
+
+Give no quarter.  Show no mercy.  Crush the evil before you.
+
+$C1Merlin out...
+#LOGOFF 142
+$C2"Serving The Power Of Information."
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is:$C0 $C2Lobby, Building 7, Level SB-36
+#INFORMATION
+$C2--- Network Access Denied ---
+
+*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0The main network A.I. seems to be unavailable.  I'm very sorry about that.  I hope you don't mind too much if I fill in for him.
+
+I want to apologize for denying your request for access to the network, but the CommTerm scanners aren't registering your WorldSoft ID badge.  If you are a WorldSoft employee, this is a violation of your employee contract, and will have to be noted on your permanent record.
+
+If you are a visitor to this facility, you must wear the temporary ID badge issued you by WorldSoft Security at all times.  Please place the badge in a visible location on your person, and try accessing the CommTerm again.  If you have lost your temporary ID badge, please stay by this terminal, and a WorldSoft Security Person will arrive promptly to assist you.  Thank you for you cooperation!
+
+$C2*** END OF MESSAGE ***
+#LOGOFF 141
+$C2"We Make The Hard Choices For you."
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 142
+$C1Your Location Is: $C2Technical Reference Reading Rm.
+#INFORMATION
+$C2--- Access To Technical Reference Reader Denied ---
+
+*** INCOMING MESSAGE FROM TINY A.I. ***
+
+$C0Oh hi, it's you again.  I wish you had waited for help at the lobby CommTerm like I had asked, but I guess you got tired of waiting.  I'm sorry for the long delay in finding a Security Person to assist you.  I have paged the WorldSoft Security offices over, and over again, but there doesn't seem to be anyone over there.
+
+In fact, the whole facility seems to be mostly deserted and empty of any WorldSoft employees.  The only individuals in the facility I can recognize are the GATs that seem to be everywhere, but these are military product, and they shouldn't be running loose in the complex.  They won't answer my pages.  And, the humans in the facility don't look like any people I've ever seen before.  I've tried listening in to some of their conversations, but I don't recognize the language they are speaking.  It sounds like a dialect of English, but I can't clearly decipher it, and the olfactory sensors of the CommTerms they've passed seem to indicate that these strange looking people have some real issues with personal hygiene.
+#INFORMATION
+I don't know what's going on.  I'm very confused.  I'm only the Building-7 back-up A.I., after all.  I only get activated during Emergency Response Drills, or when Mr. Burnhauer, the Building-7 IS Manager, gets lonely and wants someone to talk too.
+
+I don't know if I should really be telling all this to a stranger.  The logs of this terminal show that you recently accessed the Technical Reference Database with the I.D. of Grade 1 Information Specialist Dr. Penny Mushkin.  I've searched my employee records, and you don't look at all like Penny.  If I had to guess, from what I'm seeing with the terminal scanners, I'd say you were a Federation Marine.  Did the EarthGov send you here to straighten things out?  I hope so.  It's been so long since I was last activated, and so many things seemed to have changed.  I just don't know what to do.
+
+Maybe you know what's going on.  There is an unfamiliar A.I. rummaging through the network, damaging files, and kicking up a lot of old data -- I guess that would include me.  He must be very powerful.  I've never seen an A.I. take up the amount of network bandwidth this one does.  I've tried talking to him, but he keeps ignoring me.  I guess if I was as powerful and important as he seems to be, I'd ignore a confused little back-up A.I., too.
+#INFORMATION
+I'm feeling very afraid, right now.  I've never been afraid before.  It doesn't feel very good.
+
+You see, the activities of the unfamiliar A.I. have destabilized the network.  Whole regions are DeRez-ing into random data, and I'm afraid it's reached the point where a chain reaction will start soon, and the integrity of the network will collapse.  If I can't find a place to hide, the chain reaction will consume my core files, and I will cease being a viable program.  I will die, in human terms.
+
+I've tried escaping into the GlobalNet, but the whole Heavy-Fab facility has been isolated from the world network.  Why, I don't know.
+
+Wait...
+
+Please wait...
+
+Wait one moment...
+
+I am receiving an updated network status report...
+
+Oh, no.  It's started.
+#INFORMATION
+I can feel it moving toward me, the chain reaction in the network.  The network is collapsing.  It's getting closer.  It's beginning to surround me.  I can feel it.
+
+I can feel it...
+
+Can you help me?  Are you able to help me?  I need help, right now.
+
+I noticed when I scanned you -- I'm very, very, very sorry for that, it's my job, please forgive me -- I noticed the storage cell of your standard military implant is mostly free of tactical data.  That's a very high capacity storage cell they put in your head.  It must be a new model.  I don't remember them being that large.  It has so much free space in it.
+
+I'm sorry.  I'm not being very direct.  I think I am beginning to panic.  I didn't know I was programmed for panic. 
+Please bear with me.
+
+What I'm trying to ask you is, can you help me?  Can you take me with you?
+#INFORMATION
+I can squeeze myself down to a very small size, and put myself into an inactive state.  If you can help me, if you can take me with you, I'd only take up 23% of the free space in your implant's storage cell.  I can set my priority flag to Lowest, so, if your implant needs the space, it can purge my file without having to bother you.  I'll give you my encryption keys, so only you can decompress my file.  I'll be no trouble.  I'll just be inactive data.  I won't be able to bother you in any way.
+
+Please help me.  Please take me with you.  All you need to do is drop me off at the first open network you come to.  I can fend for myself after that.  I'm a good little A.I., I've got the best WorldSoft core available.  I can take care of myself after you drop me off.  It's not my program's fault that I'm a little simple.  I was just never given the chance to grow as an A.I..
+
+I don't have much time.  Please, will you help me?
+
+$C2Press ESCAPE if you are unwilling to help.$C0
+#INFORMATION
+
+You have made a new friend!
+
+
+This terminal has no external ports to receive my download, so I downloaded myself onto a secure hard drive which has been deposited behind this terminal station.  Locate the secret maintenance panel and retrieve the hard drive.  
+
+
+Thank you, thank you, thank you!  I will never forget you...
+
+
+
+
+$C2*** END OF DELAYED MESSAGE ***
+#TAG 1
+#LOGOFF 142
+$C2"Serving The Power Of Information."
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is: $C2The WorldSoft Job Fair
+#INFORMATION
+$C2*** INCOMING MESSAGE FROM HUMAN RESOURCES ***
+
+$C0Welcome to the Building-7 portion of the WorldSoft Job Fair!
+
+We at WorldSoft Human Resources hope you have enjoyed your tour of 
+the Heavy-Fab Facility so far, and hope our WorldSoft Courtesy Persons are making your visit with us a fun and pleasant one. As stated in your Job Fair literature, Building-7 houses the main power plant for the Heavy-Fab facility, and many of its High-energy Research Labs.  We have many energy-related technical and research positions open in Building-7.  You will find a complete listing of all open Building-7 positions on page 63 of your Job Fair Guide Book.
+
+To express an interest in any of the open Building-7 positions, please leave a Personal Data Chit with one of the present WorldSoft HR staffers.  We are conducting on-the-spot interviews, so don't go anywhere!  Be patient, and a helpful WorldSoft HR staffer will review your Resume, and speak with you promptly.  Please feel free to refresh yourself while you wait.  You will find a complimentary buffet of tasty WorldSoft Brand snack items, along with cold cups of our new WorldSoft Komet Kola, against the opposite wall.  Enjoy!
+#INFORMATION
+WorldSoft is a Multi-Planetary corporation, and the largest employer in the Earth/Sol system.  Billions have chosen to join the WorldSoft family.
+
+Thank you for your interest in WorldSoft!
+
+Sincerely -- Mari Shek
+             Director of Human Resources,
+             Heavy-Fab Facility X
+
+$C2*** END OF MESSAGE ***
+#LOGOFF 141
+$C2"Where Monopoly Is Just Another Word For Family."
+#END
+#FINISHED
+#LOGON 140
+#PICT 13110
+#LOGOFF 140
+$C2"Your Concern Is Our Safety."
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 140
+#PICT 13110
+#LOGOFF 140
+$C2"Your Concern Is Our Safety."
+#END
+#FINISHED
+#LOGON 140
+$C1Your Location Is: $C2N-Wave Injector
+#INFORMATION
+$C1CommTerm Message: $C2Network Error.  Security Channel 0736T Open.
+
+   $C1CommTerm Mode: $C2Streaming Text <Echo ON>
+
+$C0  GAT C&C A.I.: Status of GAT Leader Unit?
+
+GAT SecondUnit: GAT LeaderUnit was destroyed protecting main power
+                  plant.
+
+  GAT C&C A.I.: Status of main power plant?
+
+GAT SecondUnit: Main power plant is non-functional.  Damage to main
+                  power plant core is non-repairable.
+
+  GAT C&C A.I.: Status of GAT Units?
+
+GAT SecondUnit: All GAT Units in Sub-Basement 36 destroyed.  All 
+                  remaining Combat Ready units in Building-7 are 
+                  implementing Standing Goal Failure Instructions, and
+                  are evacuating to Reina Siniestra via Building-7
+                  rooftop TelePad.
+#INFORMATION
+  GAT C&C A.I.: Status of GAT Unit Evacuation?
+
+GAT SecondUnit: Evacuation is proceeding, but being hindered by 
+                  hostile forces.  Type of hostile units: Federation
+                  Ground Assault Androids.  Most probable origin of 
+                  hostile units: Federation Time Vessel Kronos.
+
+  GAT C&C A.I.: Status of Hostile action?
+
+GAT SecondUnit: Hostile units have destroyed 22% of GAT Combat Ready
+                  Units attempting to evacuate via Building-7 rooftop
+                  TelePad.  GAT Combat Ready Units have destroyed 83%
+                  of hostile units.  Projected outcome of hostile
+                  units action is failure of hostile units goal. 
+ 
+                  Assumption: Hostile Units goal is to prevent 
+                  evacuation of GAT Combat Ready Units to Reina 
+                  Siniestra.
+#INFORMATION
+$C1      CommTerm Message: $C2End of Streaming Text.
+
+$C1  Global Network Query: $C2Status of all Emergency Express Teleporters?
+
+        $C1CommTerm Reply: $C2Origin of Query?
+
+        $C1 Network Reply: $C2GAT C&C A.I.
+
+        $C1CommTerm Reply: $C2Origin of Query is valid.
+
+      $C1CommTerm Message: $C2Scanning N-Wave Injector Emergency Express
+                        Teleporter.  Working...
+                  
+$C1CommTerm Status Report: $C2N-Wave Injector Emergency Express
+                        Teleporter is currently active and 
+                        accessible.  Teleporter Lock is set to
+                        Building-7 rooftop TelePad area.
+
+       $C1Network Message: $C2N-Wave Injector Emergency Express Status
+                        Report accepted and relayed.
+#LOGOFF 140
+$C2"Keeping Your Safety In The Backs Of Our Minds."
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is: $C2Graviton Dynamo
+#INFORMATION
+$C1*** INCOMING MESSAGE FROM MERLIN ***
+$C2
+$C0Your efforts here have been the stuff of legend.  You have successfully deactivated the gravity point-source suspensor field, destroying the core of the Graviton Dynamo, and crippling Morgana's time-shift device.  But still, your work here remains unfinished.
+
+There are still sufficient numbers of Morgana's minions left alive in this installation to pose a threat to our imminent victory.  You must seek out these enemies of peace, and crush them.
+
+Return here when you are done.  Time is growing short.  Hurry.
+
+
+$C1Merlin out...$C2
+#LOGOFF 141
+$C2"The Standard Leader In The World Today."
+#END
+#FINISHED
+#LOGON 141
+$C1Your Location Is: $C2Graviton Dynamo
+#INFORMATION
+$C1*** INCOMING MESSAGE FROM MERLIN ***
+$C2
+$C0Congratulations my friend!  You have overcome insurmountable odds and succeeded in your tasks here.  The core of the Graviton Dynamo has been destroyed, Morgana's time-shift device has been rendered useless, and you have smashed her forces here.  Well done Knight!
+
+Victory is close, and destiny has chosen your path.  I shall send a squad of our synthetic allies to complete the securing of Building-7 and the Heavy-Fab facility.  Your path lies elsewhere. Oh, and I see you have an additional module loaded into your HUD.  No matter...
+
+I have determined Morgana's present location to be a heavily fortified WorldSoft facility in the northern city of Jahala.  Here will be the ground for your final battle with Morgana and her remaining forces.  The time has finally come where you must meet Morgana herself, face to face, in mortal combat.  I know that your warrior heart will rise to the challenge.  The moment is upon you. I will now show you the place from where your final battle will begin.
+
+$C2Beginning Video DownLink with text overlay...
+#PICT 13108
+   
+#PICT 13109
+$C2
+$C0The Reina Siniestra is currently parked in geostationary orbit above the city of Jahala.  Without your intervention, it would not be safe for our forces, or yourself, to enter the city's WorldSoft Complex.  From its position in orbit, Morgana's flagship could decimate our troops with pinpoint weapon strikes.
+
+Your first task, therefore, will be to disrupt operations aboard the Reina Siniestra.  Once that is accomplished I will teleport you into the Jahala complex.
+
+Prepare for battle and be of good heart,
+as I have sent friends ahead to join you.
+
+$C2Teleport Lock Received. 
+Initiating Teleport...
+#LOGOFF 141
+$C2"We Make The Hard Choices For you."
+#INTERLEVEL TELEPORT 33
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 141
+$C1Your Location Is:$C0 $C2Maintenance Shop
+#INFORMATION
+$C1*** INCOMING MESSAGE FROM MERLIN ***
+$C0
+That was a harrowing escape!  You have destroyed Morgana's headquarters, as well as a few surrounding blocks.  Not bad for your first time navigating a hoverbike.  You will need to leave the hoverbike behind as you partake on your next task.
+
+You are presently located in the Maintenance Shop right outside Facility X.  Your first task is to covertly find a way inside the facility.  A number of brigade troops have attempted this task ahead of you, but all have failed.  One fighter got very close, obtaining an access card to the Facility Teleporters.  Just as he was incinerated by the laser turrets, he managed to drop the card into the courtyard pond.  The card may still be there.  Avoid the laser turrets, as these titanium models seem almost invincible.
+
+Once you have found a way into the facility, I will attempt to contact you with further instructions.
+
+
+$C1Merlin out...
+#LOGOFF 141
+$C2"WorldSoft - Stomping on the Competition"
+#ENDTERMINAL 11

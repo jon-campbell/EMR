@@ -1,0 +1,219 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 141
+$C6$BWorldSoft Security Station
+#INFORMATION
+$C1$B        WorldSoft Security Station
+             Monitor Panel 3J1
+
+$C5$UPROTOCOL
+$C4$b$uEmergency Lockout of WorldSoft Main Headquarters
+Sector 75.2, Grid Vector 3A - 18F
+$C1$B
+$C5$USYSTEM MONITOR
+$C1$b$uPrimary Field Generator:     $C0ACTIVE$C1
+Primary Power Relay:         $C0ACTIVE$C1
+Primary Oscillator Control:  $C2DISABLED$C1
+Secondary Field Generator:   $C2DISABLED$C1
+Secondary Power Relay:       $C2DISABLED$C1
+
+$C5$B$UACCESS MONITOR
+$C4$b$uPrimary Access Lockdown:$C6           RELEASED
+$C4Hi-Bay Access Lockdown:  $C6          RELEASED
+$C4Satellite Comm Lockdown: $C6          $C3SECURE$C6
+$C4Power Grid Control Lockdown: $C6      $C3SECURE$C6
+$C4Field Generator Control Lockdown:$C6  $C3SECURE$C6
+#LOGOFF 142
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 141
+$C6$BWorldSoft Security Station
+#INFORMATION
+$C1$B        WorldSoft Security Station
+             Monitor Panel 3J1
+
+$C5$UPROTOCOL
+$C4$b$uEmergency Lockout of WorldSoft Main Headquarters
+Sector 75.2, Grid Vector 3A - 18F
+$C1$B
+$C5$USYSTEM MONITOR
+$C1$b$uPrimary Field Generator:     $C0ACTIVE$C1
+Primary Power Relay:         $C0ACTIVE$C1
+Primary Oscillator Control:  $C2DISABLED$C1
+Secondary Field Generator:   $C2DISABLED$C1
+Secondary Power Relay:       $C2DISABLED$C1
+
+$C5$B$UACCESS MONITOR
+$C4$b$uPrimary Access Lockdown:$C6           RELEASED
+$C4Hi-Bay Access Lockdown:  $C6          RELEASED
+$C4Satellite Comm Lockdown: $C6          RELEASED
+$C4Power Grid Control Lockdown: $C6      $C3SECURE$C6
+$C4Field Generator Control Lockdown:$C6  $C3SECURE$C6
+#LOGOFF 142
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 141
+$C6$BWorldSoft Security Station
+#INFORMATION
+$C1$B        WorldSoft Security Station
+             Monitor Panel 3J1
+
+$C5$UPROTOCOL
+$C4$b$uEmergency Lockout of WorldSoft Main Headquarters
+Sector 75.2, Grid Vector 3A - 18F
+$C1$B
+$C5$USYSTEM MONITOR
+$C1$b$uPrimary Field Generator:     $C0ACTIVE$C1
+Primary Power Relay:         $C0ACTIVE$C1
+Primary Oscillator Control:  $C2DISABLED$C1
+Secondary Field Generator:   $C2DISABLED$C1
+Secondary Power Relay:       $C2DISABLED$C1
+
+$C5$B$UACCESS MONITOR
+$C4$b$uPrimary Access Lockdown:$C6           RELEASED
+$C4Hi-Bay Access Lockdown:  $C6          RELEASED
+$C4Satellite Comm Lockdown: $C6          RELEASED
+$C4Power Grid Control Lockdown: $C6      RELEASED
+$C4Field Generator Control Lockdown:$C6  $C3SECURE$C6
+#LOGOFF 142
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 141
+$C6$BWorldSoft Security Station
+#INFORMATION
+$C1$B        WorldSoft Security Station
+             Monitor Panel 3J1
+
+$C5$UPROTOCOL
+$C4$b$uEmergency Lockout of WorldSoft Main Headquarters
+Sector 75.2, Grid Vector 3A - 18F
+$C1$B
+$C5$USYSTEM MONITOR
+$C1$b$uPrimary Field Generator:     $C0ACTIVE$C1
+Primary Power Relay:         $C2DISABLED$C1
+Primary Oscillator Control:  $C2DISABLED$C1
+Secondary Field Generator:   $C2DISABLED$C1
+Secondary Power Relay:       $C2DISABLED$C1
+
+$C5$B$UACCESS MONITOR
+$C4$b$uPrimary Access Lockdown:$C6           RELEASED
+$C4Hi-Bay Access Lockdown:  $C6          RELEASED
+$C4Satellite Comm Lockdown: $C6          RELEASED
+$C4Power Grid Control Lockdown: $C6      RELEASED
+$C4Field Generator Control Lockdown:$C6  RELEASED
+#LOGOFF 142
+#END
+#FINISHED
+#LOGON 141
+$C6$BWorldSoft Security Station
+#INFORMATION
+$C1$B        WorldSoft Security Station
+             Monitor Panel 3J1
+
+$C5$UPROTOCOL
+$C4$b$u<<No Protocol in Effect>>
+
+$C1$B
+$C5$USYSTEM MONITOR
+$C1$b$uPrimary Field Generator:     $C2DISABLED$C1
+Primary Power Relay:         $C2DISABLED$C1
+Primary Oscillator Control:  $C2DISABLED$C1
+Secondary Field Generator:   $C2DISABLED$C1
+Secondary Power Relay:       $C2DISABLED$C1
+
+$C5$B$UACCESS MONITOR
+$C4$b$uPrimary Access Lockdown:$C6           RELEASED
+$C4Hi-Bay Access Lockdown:  $C6          RELEASED
+$C4Satellite Comm Lockdown: $C6          RELEASED
+$C4Power Grid Control Lockdown: $C6      RELEASED
+$C4Field Generator Control Lockdown:$C6  RELEASED
+#INFORMATION
+$C1$B
+$C2** RED ALERT **
+$C1
+** SECURITY SYSTEMS BREACH **
+
+
+$C4$bReverting to Emergency Backup Protocol...
+$C1$B
+$bEMERGENCY SYSTEM:$B  $C0ACTIVATED$C1
+
+
+$C5$UEMERGENCY PROTOCOL
+$C4$b$uGeneral Lockout on Perimeter Boundaries.
+Emergency Lockout on Forraje Way.
+Sector 75.3, Grid Vectors 3A, 18A, 18F, 1F
+
+
+$C2$B** RED ALERT **
+$C1
+$C2** RED ALERT **
+#LOGOFF 142
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 152
+$C3South Central Plaza
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+WorldSoft Security has been disabled!
+
+There is no guarantee that Morgana does not have a backup protocol... or two... but the WorldSoft grid which you just shut down is the primary security system in the area.  
+
+Locate the maintenance drop at the far end of the plaza.  This is your gateway to Morgana's headquarters.  Make your way through the maintenance tunnels below the streets, and penetrate the headquarters building by way of the maintenance elevator.  Battle your way to the top, destroying as many devices and enemy forces as you are able.  
+
+I will try to contact you from within the building with new information as to Morgana's whereabouts.
+
+
+$C1Merlin out...
+#LOGOFF 153
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 141
+$C1Maintenance Channel 23A
+#INFORMATION
+$C5$ULouie de Chamot's Garage$C0$u
+
+$C4We specialize in hoverbike technology!  Whether you're looking for a refurbished Harley-Davidson XT1200, or just need to get your hovercraft back in the air, we have the tools and the talent to meet your needs.  We are the only certified Harley-Davidson Hoverbike repair shop in the city.
+
+Located directly behind WorldSoft Headquarters, our office hours are 10AM to 2PM, opened Tuesday thru Thursday.  Say the word "Airborne", and you'll receive 10% off of any hoverbike repair.
+
+
+"We put the HOVER in HOVERCRAFT"
+
+
+
+$C1-----
+$ITHIS HAS BEEN A PAID ADVERTISEMENT.  WORLDSOFT DOES NOT ENDORSE THE PRODUCT OR SERVICES BEING OFFERED, AND TAKES NO RESPONSIBILITY IN THE ACCURACY OF THE INFORMATION BEING PRESENTED.$i
+#LOGOFF 142
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 141
+$C6Security Maintenance Canal
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+In one way at least, it seems fate shall work in our favor.  Just outside the security control building is a helipad.  Though WorldSoft's security measures are quite advanced, keeping this helipad open makes it possible to teleport supplies down to you.  
+
+Further, although nearby Federation forces have no men to spare, I've spoken with an old friend of mine.  After fully appreciating
+the importance and difficulty of the task at hand, he has offered a 
+squad of Federation marines to assist you.  They are under orders to stay near the helipad so that they may teleport back after clearing the area.
+
+
+
+$C1Merlin out...
+#LOGOFF 142
+#ENDTERMINAL 6

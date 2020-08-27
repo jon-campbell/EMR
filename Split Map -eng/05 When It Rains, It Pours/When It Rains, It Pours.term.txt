@@ -1,0 +1,130 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #1201>
+#PICT 10500
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+You have no time to waste. Morgana is closing in on the crystals, which are located north of your current position.
+
+Lodged in the rock next to the crystals is another future pod which controls a single high-frequency particle beam emitter.  This emitter will create a small cave-in which will bury the crystals. 
+
+The crystals, as well as the future pod, may be unreachable at the moment due to the recent shifting of the earth.  Your task is to find a way to reach the crystals and activate the emitter switch.
+#PICT 10501
+
+These caverns are filled with highly sensitive regions of granite known as Earth nerves. They can trigger chain reactions of rock movements, so be careful of random cave-ins and falling rock. I have calculated the location of four strategic nerves which you can use to your advantage.  Each nerve can be triggered by pushing on a nerve rock. Activating all four nerves should provoke the proper rock slides to create a climbable path to the crystals. Due to the highly unstable nature of these caverns, I cannot trigger the nerves remotely.  You must locate and trigger each one manually.
+
+The current display shows the northern side of the caverns, with the first two sensitive areas highlighted in red.
+#PICT 10502
+
+
+This display shows the southern side of the caverns, with the other two nerve areas highlighted in red.  Push all four of the nerve rocks to establish a climbable path to the crystals and emitter pod.   
+
+It is extremely unsafe down here, so be very careful.  The dreaded Tyrannosaurus rex has accustomed itself to these caverns.  Though slower in speed, its strength is unmatched by any of the other Jurassic beasts. 
+
+$C5** PROCEED WITH EXTREME CAUTION **$C0
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #1202>
+#PICT 134
+$C1
+INCOMING MESSAGE FROM MERLIN...$C0
+
+Things have been very quiet on Kronos.  It may be safe to send you back for ammunition and more training, but I need to investigate this further.  I have not yet received any response from the reinforcements.
+
+Your task at hand is to get to the crystals as fast as you can.  Morgana has discovered the general area of the crystals, but I am uncertain whether she has pinpointed their exact location yet.
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 131
+MMMG Interspacial Access
+#INFORMATION
+$C1Intercept message from USENET...$C0
+ 
+$C4From:$C0 $C5merlin@emr.com$C0
+$C4Organization:$C0 $C5MMMG$C0
+$C4Newsgroups:$C0 $C5alt.games.morgana$C0
+$C4Subject:$C0 $C5Re: Help!  Morgana is goosing me big time!$C0
+$C4Date:$C0 $C5Wed, 1 Apr 2006 20:49:49 -0300$C0
+
+$C5In article <1234921301@wizz.camelot.com>, randy@camelot.com wrote:
+$C4> Merlin, please, I need your help... things are desperate!!!  Morgana 
+> continually gooses me, lets the air out of my tires, and just the
+> other day, she short-sheeted my bed!  What do I do?
+$C0
+$C5Randy, 
+
+Pull the underwear out of your a$$, ride a horse, and sleep in the hay.  For further help, please contact support@emr.com.
+
+Hope this helps!
+
+Maxwell, aide to Merlin (Merlin is out on travel!)
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 135
+$C1<Station #1299>$C0
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+It appears that Morgana has already taken some of the Actinium Crystals!  With these crystals, Morgana's powers are immeasurable.
+
+You have, however, deterred her from searching for more crystals. Sensors indicate that she has left this time period. With the limited supply she retrieved from these caverns, it might still be possible to stop her.  If you do not find her soon, it will be too late.
+#PICT 134
+
+
+
+
+Reports received from Kronos are unclear.  Communications with the ship are currently cut off.  I am delaying your return to Kronos until I can confirm that the ship is secure.
+
+In the meantime, we will attempt to communicate with the Grogs.  I have almost completed establishing their dialect in the Universal Translator.  They have been in contact with Morgana, so they may have information to share with us.
+#INFORMATION
+
+
+Until I complete the Translator upgrade, you should rest.  I am activating the pod sleep chamber now.  The switch behind you opens the chamber.  The chamber monitors your heart rate and provides adequate protection and comfort for a restful sleep.  
+
+Enter the chamber and sleep.  Dream of victory.  Only when you can envision it can it become a reality.
+
+
+
+
+
+
+
+
+
+$C1** SLEEP CHAMBER ACTIVATED **
+#LOGOFF 132
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 135
+$C1<Station #1285>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+This side of the planet does not receive a lot of sun light, but the cold does not appear to bother our Jurassic friends.  Even in the ice tundras of this dark region, the hungry beasts are on the prowl.  Be especially weary of the dimorphodon nests on the high cliffs.  My sensors indicate a nesting area nearby.
+
+There is a cave opening in the area that leads to an underground cavern.  Locate that opening, and explore the caverns below.  
+
+I have activated a number of pods in the caverns to help you along the way.  There is no time to waste, as Morgana's presence has been detected.  You must stop Morgana from reaching the Actinium.
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 4

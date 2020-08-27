@@ -1,0 +1,150 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #289>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+It was not safe to teleport you back to Kronos.  The security crisis there has taken a turn for the worse.  The aft end of the ship has been completely overrun with Morgana's assault troopers.  The situation there is highly unstable, so it would be better to wait for backup.
+
+To make matters worse, Morgana has discovered a second source of Actinium Crystals somewhere on the planet.  Sensors have not yet detected the location of these crystals. 
+
+Once I locate the crystals, I will transport you there.  The volcanic action in this area is creating teleportation interference, preventing me from transporting you from this location.  You must locate a pod on higher ground to allow teleportation.
+#PICT 10403
+
+
+
+
+
+This is the pod you need to reach.  Meet me here and I will transport you out of the area.
+
+The pod is currently blocked by a river of lava from a nearby volcano. There is an unstable cliff that could cause a landslide, thus diverting the lava flow and enabling you to make your way to the time pod.
+#INFORMATION
+
+
+
+
+
+In order to get to this cliff, you will need to travel through the inside of a nearby volcano.  Reach the future pod in the volcano for further instructions...
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #254>
+#PICT 10400
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+You need to traverse the heart of this volcano in order to get to the final future pod.  The switch in this pod will activate an earth shift to allow you access through the volcano.  Once you reach the rock cliff, stand near the edge to break loose the earth.  Use your spear, jump up and down, do anything you can to trigger the landslide.  Once enough rocks have fallen to divert the lava flow, continue your climb to reach the final future pod.
+
+Unfortunately, the lava is not the only obstacle in your way.  There is currently a swarm of beasts on the other side of the volcano.  Once you cross the lava, you will be on your own against these jurassic creatures.
+#PICT 10401
+
+Allow me to acquaint you with the neighborhood...
+
+
+There are several varieties of the velociraptor present in this land.  Each raptor is a cunning, quick and extremely deadly hunter.  The larger the raptor, the greater the speed.  The smaller species is often able to sneak up on its prey without being detected.  The female seems to have strengths that the male lacks.  Of the larger species, the female raptor is quicker and more agile. The small female is capable of spitting a poisonous viscid substance.
+#PICT 10402
+
+
+The dimorphodon, member of the pterosaur family of flying dinosaurs, is a most formidable beast, using its razor sharp claws to attack its prey. It prefers to dwell near water.
+
+
+
+
+Completely eluding the Jurassic studies of your time are the Grogs, so named because of the sound they make.  They appear to be very strong.  Using only bone and rock, the Grogs have survived beasts ten times their size.  I am attempting to learn more about them.
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 135
+$C1<Station #249>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+The land is in violent chaos, as the Earth is still taking form.  What may appear as extreme disarray to you is actually a well balanced environment on course to a matured world of peace and harmony.  Morgana is attempting to use all of her powers to change that, but that is to be expected.  You are an integral part of the balance; you must do everything you can to stop Morgana.  There is no room for failure.
+
+Never underestimate Morgana's cunning... even now she has found a second source of the Actinium Crystals.  On the cold side of the planet, located deep beneath the Earth's surface are crystalline caverns where a few Actinium Crystals remain exposed for the taking.  Morgana has already teleported herself down there.
+#INFORMATION
+
+I have locked on coordinates to a pod in that region.  Once you are in the region, I should be able to establish some pods in the caverns below the surface.
+
+You must be speedy in your hunt, as the caverns are unstable, and the beasts are running in large packs. 
+
+
+
+
+
+
+
+$C7- TELEPORTATION SEQUENCER -
+$C1Destination Code: Jurassic
+Coordinates: 953,087 <55.01>
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 5
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 131
+$C6MMMG Interspacial Access
+#INFORMATION
+$C1$BIntercept message from MMMG
+$C4$b 
+Greetings from the entire gang here at the Marathon Map Makers Guild.  
+
+This signal is being transmitted from somewhere in the future as a token of support and encouragement for you on your current mission.  You are halfway through the Jurassic period... that's the good news!  The not-so-good news is that you have a long way to go.  Don't worry, though, because there is light at the end of the tunnel... Well, I think that is a light...
+
+Is that a light?
+#INFORMATION
+
+
+
+$C4
+
+
+That's no light!  
+
+In fact, that's not even a tunnel!  
+
+
+
+
+It's Morgana's flagship paying you a visit...
+#PICT 129
+
+
+$C2I warned you about taking sides with Merlin!  You've made your choice, and you shall pay the price!  You cannot stop me, and in time, you will pay dearly for taking sides against me.  
+  
+
+
+
+          $I-Morgana
+#INFORMATION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$C7$I- TELEPORTATION SEQUENCER -
+$C1Destination Code: Jurassic
+Pod Coordinates: 953,087 <55.01>
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 5
+#ENDTERMINAL 3

@@ -1,0 +1,143 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 137
+#INFORMATION
+$C3
+$C5Salutations.
+
+My name is Ceridwen.
+
+I am here to help you see the pattern.
+    The pattern in what you must do.
+
+To correct the flow of time.
+    To set things right.
+
+To help you understand the symbols and spells,
+     that can help you make the corrections.
+
+     And you are here to sleep
+     And dream the Dreams of Magic.
+     And learn the wisdom I will teach you.
+#CHECKPOINT 0
+$C3$B
+$C5$b
+This realm is located in some magic
+field of mists, much like my earthly
+home of Avalon. It is hidden to all those who have not learned the secret.
+
+However, this Creature seems to need a
+physical form of energy to keep the
+illusion in place. It bids you to go 
+here and "break some windows?" 
+
+Once you have the machine running, return here and we will continue your lessons.
+
+
+The creature also suggests you 
+might like to do some fishing?
+#LOGOFF 137
+#END
+#FINISHED
+#LOGON 137
+#PICT 10600
+$C5
+
+
+I have known The Merlin of Britain since the beginning of time.
+
+Deep within the waters lies the ruins of a city from your future.
+
+Look upon it, for this is what will be if you do not stop Morgana.
+
+Within the caves of darkness you will find a message. Seek it.
+
+... And you must hurry, before Morgana's 
+troops find a way onto this plane.
+#LOGOFF 137
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 137
+#INFORMATION
+$C4
+I catch the wind, and the wise one speaks to me across time and space. He raises his sword in victory, smiles and disappears into the water of the lake.
+
+And Merlin is there by my side - his eyes burning like the stones in the hilt of my sword.
+
+"Do you know him?" Merlin asks.
+
+"Yes," I reply. "Together, we have had many adventures."
+
+"What kind of magician is he?" 
+
+"Very much like you. He lives in the computers, too."
+
+"How do I get out of here?" I ask my guide, for I am weary and there is much left to do.
+
+"You must wake up," Merlin replies.
+#LOGOFF 137
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 137
+#PICT 10601
+$C1
+$C5
+
+Cannot open the lock?
+
+Satisfy your appetite for Sushi... that is the key.
+
+
+Many have been to this ballroom
+To dance the Dance of Life
+To dance the Dance of Death  
+
+What's this?
+
+There is another presence here... one that should not be... one that... no, it cannot be!
+#PICT 145
+$C1
+*** SIGNAL INTERCEPT ***
+$C0
+
+$C2In profondità dentro dai vostri sogni, nay, lasciarlo provenire i vostri incubi. Sono la bestia e li brucerò fino a che non ci sia niente a sinistra di voi! In tutti i vostri foes mi brucio brillantemente ed all'interno di voi il devour di I voi gradisce un cancro. Da me, non ci è fuga! 
+
+
+
+       $C6$B$UL a   B e s t i a$u
+#LOGOFF 137
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 137
+#PICT 229
+
+$C5Merlin?  Is that you?
+
+I am trying to contact the Merlin of Britain.
+
+Creature? How do I use this thing? 
+
+Merlin, it is I, Ceridwen.
+
+I fear greatly for the fate of the universe. Our hero is not ready for this fight. It is not courage that is lacking, but I fear he will give up and leave the earthly plane before the job is done.
+#PICT 134
+$C4
+
+These fears are understandable, my dear Ceridwen. Do not be hasty in judgment.  Do you not remember when you came face to face with the Beast?  It was courage, and the power of truth which pulled you through.  It is when all seems lost that the true nature of a being makes its appearance.  
+
+With potion, with wisdom, with all that we have to share, we must share.  
+
+This is more than a dream, Ceridwen.
+
+So much more.
+
+Have you heard from Hazelle?
+#LOGOFF 137
+#ENDTERMINAL 3

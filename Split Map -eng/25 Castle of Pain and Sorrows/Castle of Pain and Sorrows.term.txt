@@ -1,0 +1,118 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #2480>
+#PICT 136
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+Mordred is near.  This is not a reading from sensors... I can feel it!  Mordred is very near.
+
+You are currently located on the west wall of the Castle of Sorrows, the home of Mordred.  Screams of torture echo from these blood drenched walls.  Mordred and his black knights have captured most of the Quest Knights, and those who have survived the torture are still being held captive in the lower dungeon cells.
+#CHECKPOINT 8
+
+The blood of Mordred is not all that I sense here. There is an eerie yet familiar energy that emanates from the walls of the castle.  As you infiltrate the castle walls, I hope to discover the source of this energy.  Proceed with caution.
+
+The good news is that the incantation of the Giant Stomp was created in the Castle of Sorrows.  The cliffs surrounding this area are rich with the spirit of the Giants that once roamed the desolate lands of Curania.  It takes some powerful magic to conjure up the spell, but the reward is worth the effort.
+
+Reach the wand chamber, located here, just south of the inner courtyard.  With all of those magic scrolls you have collected, I think we can create a few Staffs.
+#PICT 12501
+
+
+
+Find your way through the castle and free as many Quest Knights as you can.  They will help you in your battles against Mordred's army of darkness. 
+
+There are several switches scattered throughout the castle.  Use these switches to gain access to secured areas.  
+
+After freeing the Quest Knights, locate the future pod in the inner courtyard for further instructions.
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #2480>
+#PICT 12500
+$C1
+INCOMING MESSAGE FROM MERLIN...
+
+$C0The Black Knights of Morgana have been lurking in the shadows of this land for countless years.  The people have lived in fear... nightmares filled with visions of the Black Knight guarding every path to freedom.  Death and destruction have been the rule of the land.
+
+I have discovered the source of the darkness that envelopes the castle.  At the heart of this darkness is the Minister of Evil, Argantan.  Argantan is the cruelest, and the most powerful of all the clerics.  He has made the Black Knights nearly invincible to mortal man, and continually fortifies the evil within their hearts.
+#PICT 12502
+Argantan performs daily chants of evil to conjure up the dark forces.  The secrets of these chants are contained within the Scroll of Diablo located in his shrine, the Temple of Evil.  Locate this scroll to unlock Argantan's power, thus giving the Quest Knights a greater chance of fighting off Morgana's evil forces.  Be wary of Argantan, as he is immune to all magic, including the enchanted powers of Excalibur.  
+
+The key to the Minister's shrine is located in the Hidden Keep of Graeden.  Further, you will need a second key to enter the throne room preceding the shrine. After revealing the Scroll of Diablo, I should be able to teleport you to the upper towers where your hunt for Mordred will begin.
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#INFORMATION
+$C5
+
+-- U N K N O W N   T R A N S L A T I O N --
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 162
+#TAG 15
+#INFORMATION
+$C1
+                   ** Scroll of Stomp **$C0
+
+
+$C6    Feel the shaking of the earth
+    Feel the thunder of the sky
+
+       Over the oceans vast and deep
+       The dark forests and mountains high
+ 
+           The Giant is summoned from Python Swamp
+
+$C0
+$C3    $C6The spirit of the Giant strong
+    Through your veins shall right all wrong
+   
+        The thunder rolls and lightning strikes
+        All those near shall run in fright 
+
+            Behold the power of the Giant's Stomp
+#LOGOFF 162
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#INFORMATION
+$C4
+Be still, for you have nothing to fear from me.  I've been watching you closely, from your approach at the tower, through you infiltration of the castle.  Not since I served under King Arthur have I seen such courage!
+
+My name is Richard Gabriel, and part of my story you've no doubt read.  Once stationed on the Cliffs of Graeden, I held off the forces of Mordred for as long as I could.  In the end, the tower and the castle fell.  
+
+Soon after the fall of Castle Graeden, Morgana began a campaign of terror, capturing all of Arthur's knights that had not already fallen at Mannenhaum.  With those that broke under her torture, she strengthened her legion of dark knights.  Alas, as I witnessed the torture, I felt I had no choice but to join the legion before her dark spell was cast upon me. It was that, or lay to rot in the dungeons of the castle.
+#INFORMATION
+$C4
+For years my heart has laid dormant.  I have embarked with these wretched ghouls in their unholy and cowardly attacks on the people of this land.  My soul cries for the horrors done.  I have been sickened by my inaction, overwhelmed with hopelessness, overcome with powers that seemed unstoppable... until now.  
+
+Gallant knight, from whence you came I do not know, but I do know this.  You have awakened me.  Your courage has ignited my will, and I must now do what is long overdue.
+
+Many of the dark knights have gathered below, and now is the time to strike a blow to Morgana's forces.  I must do this alone. 
+
+Stay here, brave knight, until it is safe to move on.  You must save the Quest knights in the dungeon, and you must seek out and destroy Mordred.  I only ask one more favor of you.  If you see Arthur in your travels, please let him know that I died fighting for Camelot.  I die today, so that my soul shall live again...
+#TAG 14
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#PICT 12503
+#INTERLEVEL TELEPORT 26
+#ENDTERMINAL 5

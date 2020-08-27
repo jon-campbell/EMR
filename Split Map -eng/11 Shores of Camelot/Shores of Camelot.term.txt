@@ -1,0 +1,275 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #877>
+#PICT 11102
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+It is unclear to me why the King's sorcerers have abandoned the truth and are now joining forces with Morgana.  There is dark treachery at work here, and I will find the root of this disorder.  
+
+Things may be worse than I imagined, but do not despair.  Soon you will be united with the sword of power, and with Excalibur you will have a fighting chance.
+#INFORMATION
+
+Draw strength from within and follow your heart.  I foresee many battles ahead... battles that would scare the bravest of knights back across the sea.  You must forge ahead and follow the path of truth.  It is truth, and truth alone, which stands as the greatest quality of knighthood.  With it, you will surmount overwhelming odds and succeed where others have failed.  Each faltering from that path feeds the darkness of Morgana's evil, increasing her chances of success.
+
+Your task here is to clear the area of all the dark forces and to free the Quest Knights held in the dungeon.  Upon successfully clearing the area and freeing the knights, follow the path from this cavern to reach the rampart of the castle.  You will find another pod within the rampart walls.
+
+The most difficult part of your task may be locating the rogue sorcerers.  Most of them are in hiding.  Turn every stone and climb every rock until you find and eradicate these evil sorcerers.  Learning the Scroll of Deliverance in the Sorcerer's Study may prove quite helpful in discovering their whereabouts.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #877>
+#PICT 11102
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+It is unclear to me why the King's sorcerers have abandoned the truth and are now joining forces with Morgana.  There is dark treachery at work here, and I will find out the root of this disorder.  
+
+Things may be worse than I imagined, but do not despair.  Soon you will be united with the sword of power, and with Excalibur you will have a fighting chance.
+#PICT 136
+
+The castle courtyard has been cleared!
+
+The Quest Knights have been freed!
+
+Draw strength from within and follow your heart.  I foresee many battles ahead... battles that would scare the bravest of knights back across the sea.  You must forge ahead and follow the path of truth.  It is truth, and truth alone, which stands as the greatest quality of knighthood.  With it, you will surmount overwhelming odds and succeed where others have failed.  Each faltering from that path feeds the darkness of Morgana's evil, increasing her chances of success.
+#PICT 11101
+
+
+
+
+
+
+There is too much interference to teleport you from here.  There is a time pod inserted within the rampart wall.  Find your way to the castle rampart and locate the pod.  From there I will teleport you into the inner sanctum of Camelot.
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #878>
+#PICT 11101
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+
+
+Look upon Camelot as the domain of all goodness.  Within these castle walls, the greatest of knights gathered.  Camelot is perhaps my greatest masterpiece.  I built it for Arthur after he led his knights to victory over all the lands.  While King Uther was brave, yet foolhardy and selfish, Arthur used Excalibur to unite the people and defend freedom.  It is a time never to be forgotten, and a time which you must fight to bring back.
+#PICT 11100
+
+
+
+
+
+You are currently in the castle's southern courtyard.  The gate is controlled from the inside.  If the gate is locked, you can find another passageway in from the Sorcerer's Cavern.
+#PICT 136
+
+
+
+
+Enter the Enchanted Forest and you will discover a path which leads to the perimeter dungeon.  Free the prisoners and they will lead you to a secret sorcerer's chamber where vital potions can be used to your advantage.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #878>
+#PICT 11101
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+
+
+Look upon Camelot as the domain of all goodness.  Within these castle walls, the greatest of knights gathered.  Camelot is perhaps my greatest masterpiece.  I built it for Arthur after he led his knights to victory over all the lands.  While King Uther was brave, yet foolhardy and selfish, Arthur used Excalibur to unite the people and defend freedom.  It is a time never to be forgotten, and a time which you must fight to bring back.
+#PICT 136
+
+The castle courtyard has been cleared!
+
+The Quest Knights have been freed!
+
+Draw strength from within and follow your heart.  There will be many more battles ahead.  You must forge ahead and follow the path of truth.  It is truth, and truth alone, which stands as the greatest quality of knighthood.  With it, you will surmount overwhelming odds and succeed where others have failed.  
+
+There is a time pod inserted within the rampart wall.  Find your way to the castle rampart and locate the pod.  From there I will teleport you into the inner sanctum of Camelot.
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 162
+#INFORMATION
+
+$C1                   ** Scroll of Invisibility **$C0
+$B
+$C2        Without a touch
+        Nay a whisper
+        Wither inward now
+$C7
+$C2$b        Hold thy structure
+        Hold thy strength
+        Allude to having neither
+$C7$B
+$C6$b        Then strike with vengeance
+        And strike with wrath
+        From directions all unknown
+$C7$B
+$C6$b        Your foes will never see you
+        But they will feel you through and through
+#INFORMATION
+
+
+
+
+
+
+$C6 D r i n k   t h e   P o t i o n   o f   I n v i s i b i l i t y
+#LOGOFF 162
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 162
+#INFORMATION
+$C1
+                   ** Scroll of Deliverance **$C0
+
+
+        $C2Roaring mountain and storming sea
+           When good and evil collide
+
+        Sorcerers lost, sorcerers flee
+           In darkness they will hide
+
+
+                         Search far and wide, free their souls
+                                End their painful cry
+
+                         In Merlin find the key to freedom
+                                 Exit dots the eye
+#INFORMATION
+$C6
+
+
+
+      Y o u   n o w   h a v e   a c c e s s   t o   t h e   
+   
+                C a v e s   o f   M e r l i n !   
+
+
+
+
+     G o   n o w   -   d e l i v e r   j u s t i c e !
+#TAG 4
+#LOGOFF 162
+#END
+#FINISHED
+#LOGON 162
+#INFORMATION
+$C1
+                   ** Scroll of Deliverance **$C0
+
+
+
+
+
+ $C5       You have already achieved deliverance!
+
+
+        Go now to the ramparts!
+#LOGOFF 162
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 162
+#TAG 10
+#INFORMATION
+$C1
+                   ** Scroll of Fire **$C0
+
+
+$C6  Burning all that touch her
+  Warming all that respect her
+
+      In the mountain she erupts
+      In the sea she will rest
+
+           To the damned she burns in lust
+           To the blessed she burns eternal
+$C0
+$C2  $C6             Let her veins rush through the staff of life
+               Let her strength erupt in a flash of might
+               Let her energy soar to distant sights
+               Let her power burst free into the night
+#INFORMATION
+
+
+
+
+
+
+$C3              $C1Behold the spell of $C2FIREBALL$C1!$C0
+#LOGOFF 162
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 135
+$C1<Station #870>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+You are located on the tranquil shores of Camelot.  Use the switch in this pod to gain access to the castle courtyard, and proceed to the future pods there for further information.
+
+These waters are magical! My physical sensory perception continues to increase. I am now having trouble discerning the difference between the computer sensors and my own.  I am receiving a strong signal from this area, but I cannot be sure from where it comes.  
+
+Long ago, students of mine carved out an elaborate structure of caves on these shores in my honor.  The signal I am receiving seems to be coming from these caves, the Caves of Merlin.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #870>
+#PICT 11103
+$C1
+INCOMING MESSAGE FROM MERLIN...
+
+$C0
+Several students of mine in the days of old constructed the Caves of Merlin, both to demonstrate their abilities and to honor me. It is to my dismay that we discovered this treacherous band of evil sorcerers using these sacred caves for all things wicked.
+
+You have fought bravely, and the area is now clear of Morgana's guardians.  I beseech you, quickly find your way back to the rampart over the castle gate.
+#LOGOFF 132
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 135
+$C1<Station #870>
+#TAG 3
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+There are still too many evil minions in the area.  Hunt down more of these malcontents, then return here to prepare for your next task. 
+
+Sensors have designated a number of locations hot with enemies.  Use the in-pod hyperporter to quickly move to one of these locations.  
+
+The hyperporter is a marvel of Kronos technology.  It is programmed with a number of coordinates, and then it randomly teleports you to one of those locations.  It also charges your HUD with a locality sensor, thereafter displaying the direction of enemies in your HUD radar.  
+
+$C1Merlin out...$C0
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #870>
+#TAG 3
+#TAG 2
+#PICT 136
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+Well done!  The dungeons have been unlocked, and the area has been cleared.  You are now ready to embark on your next task.  
+
+When you are ready, I will teleport you within the confines of Camelot, where the Knights of Arthur convened at the round table, where Arthur once ruled the land, and hopefully from whence he shall rule again.
+
+Step out onto the rampart when you are ready to start your search for Excalibur.
+
+$C1Merlin out...$C0
+#LOGOFF 132
+#ENDTERMINAL 6

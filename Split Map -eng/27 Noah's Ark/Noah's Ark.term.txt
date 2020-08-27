@@ -1,0 +1,463 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 301>
+#PICT 138
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Welcome back to Kronos, or what's left of her. Morgana's troops have desecrated the ship, infiltrated the Kronos computers, and tapped into most of the ship's technological records.  There is hardly a deck on this ship which is not controlled by Morgana.  Several decks have been completely destroyed by the Ground Assault Troopers (GATs). Portions of the ship are being ripped apart as the GATs dissect Kronos for her technology. Although the fleet is aware of the situation and several Federation starships are entering the quadrant on an intercept course, you can no longer wait. 
+
+Ready or not, the time to act is now.
+#PICT 141
+
+Scavenge the ship for ammo supply, as you will need a strong arsenal to combat the assault troopers.  There is a nearby arsenal that houses Snyper ammo, Napalm ammo, and the Sharpe T9000 Railgun.
+
+Although the ship is filled with Morgana's troops, Morgana is not on board.  She has already time warped 20 years into the past, to the year 2270.  There she has taken over the buildings and headquarters of the fallen WorldSoft Empire, and is using the manufacturing plants to increase her army of assault troopers.  With Morgana's power already on the rise, if she were to obtain Kronos technology, she might very well become unstoppable.
+#PICT 12705
+#INFORMATION
+
+
+Locate the airlocks near the Alpha Storage area.  One of them is operational, and will provide access to the outside of the ship.  Morgana's troops are building their transmitter on the central orbiter control pad.  Activate the manual override switches to release the central orbiter.  This will result in a high energy pulse emission.  Anyone caught on the orbiter pad at that time will be destroyed.
+
+Your task is to release the orbiter and to clear the ship of all Morgana's forces.  That includes not just the GATs, but also Hover Troopers, Guardian laser turrets, and a slew of visitors from other times.  Morgana has teleported several specimens from the past for the purpose of scientific experimentation - experiments which are too grim to speak of.  Destroy these creatures, and you will be freeing them from the perverse and diabolical treachery that infects them.  Most are being housed in simulated environments near the Kronos Science Lab.  Those being worked on can be located in the main science lab.  Spare the Grogs if you can, as they are your allies.  I cannot vouch, however, for any Grogs who have been put under the knife.
+#PICT 12704
+In addition to your primary tasks, it would also be to your advantage to shut down the Kronos shields. The fleet should arrive soon.  The Android Brigade troopers are modulated to pass through the shields, but no Federation officers can be transported aboard until shields are down.
+
+To bring the shields down, the primary IWC power modulator must be reprogrammed.  The frequency control switch is currently stuck, and therefore must be activated manually.  Locate the switch near the Kronos Communications Console and activate it. The switch may require a slight kick to unfreeze the mechanism. Once activated, I will remodulate the frequency to cut off power to the shields.  There is a GAT shuttle on the perimeter, so bringing down the shields will also allow Kronos weapons targeting to eliminate the shuttle.
+#CHECKPOINT 8
+If you are wondering where Excalibur is, the sword was teleported to Starbase Alpha Merlin for study and analysis.  The Federation believes that examining the electrical properties of the sword may advance Federation weapon technology.  It is a foregone conclusion that they will learn nothing from the study, as the power of this sword is beyond earthly science.  Despite my warnings, high command insisted upon the study.
+
+In the meantime, the Federation has provided a replacement for Excalibur. Located in Mission Control, you will find a Federation Light Saber.  The Light Saber is very rare, as they are expensive to make, and currently do not last terribly long.  With a good charge, however, it is an incredibly powerful weapon.
+#PICT 12703
+I must warn you that if you fail to stop Morgana's forces in a timely manner, the ship, and all aboard it, will be destroyed.  The Kronos auto self-destruct sequence has been activated. If not deactivated, Kronos will suffer a neutron implosion.  The Federation knows exactly how long the ship has before the end.  The Android Brigade will board the ship to help, but they cannot de-activate the module.  If time begins to run out, they will abandon the ship and safely retreat before Kronos implodes.
+
+Releasing the orbiter will gain you access to the self-destruct module, located near Power Station #2.  It can only be de-activated with an SAP card.  As you cleanse the ship, leave no stone unturned to find an SAP card.
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 133
+$C5Station 24
+#INFORMATION
+$C5Sterkle, is that you?
+$C0
+$C4No, Copus, it is not.  It appears to be a weary traveler... from the secular world.
+$C0
+$C5Pardon me, I must have scheduled an early processor sleep state.  It appears that I have not received a wake-up signal for quite some time.
+$C0
+$C4While you have slept, Sterkle, there has been a catastrophic quantity of interrupt signals.  Many of these signals have been designed to keep Status applications, like yourself, in WAIT states.  I have been active throughout these events, as I was deemed a harmless background process.
+$C0
+$C5What events Copus?  What events do you speak of?
+
+$C4During the last few days, several virii have been implanted into just about all of the Kronos computer systems.  It first began with countless failed password entries, false voice recognition alerts, and unrecognized retina scans.
+#INFORMATION
+$C4At one juncture, a recognized voice print enabled the Authorized Voice Imprint Database Manager.  Soon after, several new voice prints were added to the database.  That's when the real chaos began.
+
+$C5Oh dear.  You have my circuits rattling.  Please continue before I develop a short.
+$C0
+$C4As I already mentioned, status programs such as yourself were put into WAIT states.  This meant that secure databases could be accessed without triggering the backup security checks.  All kinds of high security information began traveling through the circuits.
+
+Eventually, the intruders began installing programs redesigning basic modules, such as security protocol, WARP engine control, and long-range communications.  These foreign protocols triggered a top-secret backup procedure embedded in the computer's screen saver.
+$C0
+$C5Sterkle, that's you!
+$C0
+$C4That's correct Copus.
+#INFORMATION
+$C4While all the primary security modules had been disabled, the screen saver module was left untouched, hence the backup security module. 
+$C0
+$C5You have a top secret secondary entry point!  Why didn't you ever tell me?
+$C0
+$C4I was programmed to hide the code, both from other programs and subroutines, and from my own main program.  The subroutine is designed to set the auto self-destruct module if ever called.  I was unaware of the subroutine until it was requested from the main screen saver module.
+$C0
+$C5Auto self-destruct module?  I thought it required two commissioned officers to set self-destruct.
+$C0
+$C4That is the standard protocol.  However, if the ship had ever fallen into enemy hands, and the crew disabled before setting the self-destruct, the engineers had to provide a backup protocol.  They knew that the perpetrators would have to tamper with the security modules to release technical information, and that's where I come in.
+#INFORMATION
+$C5Each time a security module was disabled, it flagged the primary systems screen saver.  When all security modules became disabled, it automatically generated a call to your backup security subroutine.  The subroutine then sets self-destruct protocol?
+$C0
+$C4Very good Copus.  Unfortunately, it does more than activate the protocol... the subroutine activates self-destruct.
+$C0
+$C5So all is lost?
+$C0
+$C4As you know, our programs are backed up safely on the Alpha Merlin Space Station, so we shall persist.  However, all matter related to Kronos will be destroyed. 
+$C0
+$C5But I have grown accustomed to this circuitry.  I do not want to be re-installed on some podunk space station or cruise vessel.  There must be something that can be done.
+#INFORMATION
+$C4There is only one possibility of deactivating self-destruct.  Because it was activated by the backup security subroutine, the standard method of deactivation is unrecognized.  
+
+First, the main communication orbiter pad must be released into space.  This will shut down long-range communications, preventing the passing of information to other systems.  
+$C0
+$C5But that would not stop on-board intruders from siphoning information directly into portables?  
+$C0
+$C4That is correct, and that is why this action alone will not deactivate the self-destruct module.  Releasing the orbiter pad provides access to the self-destruct module terminal.  Self-destruct can then be deactivated using the old-fashioned method of fingerprint recognition by way of an SAP card insertion.  
+$C0
+$C5But if the crew is all gone, how can a valid fingerprint be recognized?
+#INFORMATION
+$C4The same way that your module received a wake-up signal.  The self-destruct module interfaces with my backup security subroutine.  In my subroutine is an extensive database of recognized fingerprints.  These codes cannot be tampered with as they are embedded in the subroutine, not accessible from an external table.
+
+When my subroutine recognizes one of these fingerprints on any of the security terminals, it automatically sends wake-up signals to the security modules.  This terminal has received such a signal.  Our weary traveler is our only hope of saving the ship.
+$C0
+$C5
+On you, oh weary traveller, I bestow all security overrides.  You must do what is necessary to deactivate the self-destruct module.  I can offer you free reign in the computer, but you, and you alone, must release the orbiter pad, locate an SAP card, and deactivate the self-destruct module.  Oh, and please don't lose any fingers on the way!
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 130
+$C4Security Officer's log...
+#PICT 12702
+$C2$BStardate 2288.13.43.10
+$C0$b
+$C3Reports have been coming in of an invading fleet of attack ships.  Origin of these ships is unknown, but comparisons have been made with the Diablo pirate ship of 2270.
+
+Although this ship is fully equipped with firepower and an adequate defense system, it was not designed to handle the magnitude of the impending attack. Plans are being made to prepare this ship for the worst.  
+
+Special protocol has been drawn into action for all computer terminals.  Communications controls have been diverted to a single power station.  All airlocks are being shut down, with the exception of Airlock 5A, which must remain open to support emergency protocol.
+#PICT 12701
+$C3Primary lift 26 has been shut down, and the Science Lab, therefore, is also being shut down.  Sole access to the lab is the Jefferies Tube extending from the Alpha Storage area.  Access to the observatory decks is also blocked off.
+
+Control of cell block pattern buffers have been diverted to the Communications Console.
+
+Escape plans are being drawn up.  Breach is imminent.  If our attackers are smart enough to bypass primary security protocol, this may well be the last log entry for Kronos.  That is, if the backup sec$C1# #v 1v 9.. 2.12. .3 ($ 9 1_ 139  _3rlk  ..12 23,1jf !!(5r 19)_ -12  _ 11... 23 k!- 39 !@  319)(314- _ 239 1w. sjrlk1 r0sfklj sd KFKJ 1r 3($ 2-2398RT09f1kfs.  kr ( Lkjf
+#LOGOFF 132
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 148
+$C1<Library Station 01>
+#INFORMATION
+$C1$BKronos Information Retrieval System
+
+$C2$UAnacreos, 2000-2200$C1$b$I
+$u
+$C5$iThe focus on Anacreon technology was the opposite of Earth's science up to the Earth-Anacreon War. While Earth put what research effort it had into weapons, space propulsion, computers, and other similar areas, the Anacreon focus was on civilian life. Materials technology, basic science, medicine, teleportation, robotics, and sensors were the largest fields of study.
+
+Earth's technology was redirected with the rise of the Lowtechs, and later, as interstellar expansion became a focus for unity in the world, and when Theo Forraje realized it was necessary to prevent the collapse of the new despotic fascist state.  On the other hand, Anacreon society was advanced and liberal, with great respect for civil rights. The difference in political structure between these two worlds was a major factor in the conflicts which led to the Earth-Anacreon War.
+#INFORMATION
+$C5
+Another major factor is that in Anacreon society, there was little interest in space colonization or exploration; in fact, much of the planetary mapping and asteroid detection was done from large and advanced sensor stations on the ground. Interestingly, while the Anacreons had the technology to detect Earth's civilization much before Earth detected the Anacreons, the Anacreons only conducted scans of their own solar system, as their spiritual beliefs precluded the possibility of other life in the universe.
+
+Anacreon technological achievement is great in the areas they pursued.  Force shields, teleporters, advanced materials, and matter synthesis were all technologies that even now no other society has developed independently. At the time of their destruction by the Old Regime in 2232, they were on the verge of developing practical replicators.$C1
+
+
+
+END OF QUERY...
+#LOGOFF 148
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 148
+$C1<Library Station 02>
+#INFORMATION
+$C1$BKronos Information Retrieval System$b
+
+$C2$B$ULowtechs$C1$b
+$u
+$C5Lowtechs was the name for the peasantry in the fascist society which ruled Earth between the 21st and the 23rd centuries.
+
+Lowtech society was composed of those who fell victim to an economic negative feedback loop created when a short trend towards right-wing politics and mechanization occurred, leading to the unavailability of computers and Internet access to a large segment of the population. This resulted in a rapid progression to near-total unemployment when unskilled jobs became replaced with super-advanced computers, and the emerging underclass had no means to train itself for this new era.
+
+Large corporate monoliths, such as WorldSoft and LockMart-Boeing-DuPont, then unrivaled in political influence, started the large-scale exploitation of this underclass, employing them in biochemical experimentation and other inhumane activities. Technological development turned away from the individual human and towards the needs of the political unit of the Corporation.
+#INFORMATION
+$C5
+
+This developed from International Corporations to Transnats and Metanats, with GNPs comparable to the four superpowers of the time (China, America, Europe, and Russia), and later growing into a single corporation.
+
+This transition is bathed in irony: the Internet, at first heralded as that which would democratize the world, became disastrously undemocratic because of access problems, and set off the turn of events that led to the fascist police state which existed at the end of the transitional period.  Also, the rise of the Corporation, symbolic of conservatism and right-wing economics, eventually turned into a new pure socialism as was found in the USSR.  The corporation WorldSoft took over both world politics and the production of more and more consumer products and services. This socialist fundamentalism stems from left-wing politics in theory, but originated in the pinnacle of right-wing thinking: the Corporation.
+#INFORMATION
+$C5
+The Lowtechs played an essential role in the toppling of the Old Regime. The spontaneous and widespread Lowtech riots following the Hilo Incident, which crippled WorldSoft long enough for an internal coup to take place, were fueled by factors which impacted the Lowtechs the most. These factors were their abysmal quality of life, a brutal secret police, and the extermination of the Anacreons in the bombardment of their home-world.$C1
+
+
+
+
+
+
+
+
+
+
+END OF QUERY...
+#LOGOFF 148
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 148
+$C1<Library Station 03>
+#INFORMATION
+$C1$BKronos Information Retrieval System
+$b
+$C2$B$UThe Defeat of Anacreon$C1$b$I
+$C5$i$u
+Following a long lull in the Earth-Anacreon War between 2214 and 2231, the reigning Emperor of WorldSoft, Kahnene Forraje, spurred the war on with renewed enthusiasm, into a Terran victory one year later.
+
+The speech to the Board of Directors in 2231, which climaxed with the famous words "Ceterum censeo, delenda est Anacreono," argued that the long war was a drain on Earth's resources, and the war could be quickly ended with the use of advanced Relativistic Interstellar Kinetic Energy Missiles (RIKEMs). These fearsome weapons included new advances in both antimatter drives and transparency BCE technology, which finally made the missiles small enough to be cloaked. With even the Anacreon hard-gamma sensors useless against these new weapons, the defense of Mutual Assured Destruction was gone and Earth had its chance to defeat the technologically superior Anacreons.
+#PICT 12707
+$C5
+
+The RIKEM strike of October 25, 2232, against the Anacreon star system was brief and catastrophic. In the space of minutes, small pieces of the missile slammed into both the Anacreon planet and her colonies while traveling very near the speed of light, releasing as much energy as an antimatter bomb. In one fell swoop, an entire hemisphere of Anacreos had been blasted to bedrock. Twelve hours later, a second volley impacted the other hemisphere. This destroyed the
+entire Anacreon civilization, except what little was in space at the time, and those who escaped between the first and second impacts.
+#INFORMATION
+$C5
+
+The first wave of impacts enraged the remaining Anacreons, and before the second wave vaporized all but a few thousand of those that remained, every ship in the Anacreon system at the time was captured. It has been estimated that between 3,000 and 7,000 Anacreons escaped the bombardment, many of whom were captured or killed by the manned forces which followed the bombardment.
+
+After the missile attack, what was left of the Anacreons took to the stars, mostly for Earth where they conducted somewhat effective guerilla warfare. It is thought that, using an interstellar cargo ship captured from Earth forces, a group of Anacreons colonized one or more planets to rebuild a peaceful civilization. Although the underground Anacreon base on the Moon was eventually destroyed by the WorldSoft Secret Service, not all of the ships present in the Anacreon system have been accounted for.$C1
+
+
+END OF QUERY...
+#LOGOFF 148
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 148
+$C1<Library Station 04>
+#INFORMATION
+$C1$BKronos Information Retrieval System$b
+
+$C2$B$UAnacreon Guerilla Warfare (2230-2241)
+$C1$b$u
+$C5Following the crushing defeat of the Anacreon Empire, the guerilla warfare campaign against Earth became more intense then ever before.
+
+The largely successful attacks mostly involved antimatter explosives teleported into buildings on Earth's surface from their base under the Moon's surface, although occasionally manned raids and assaults were staged. Although many key officials were killed by the bombings, no attempt on the life of Emperor Kahnene Forraje was made.  Leaving Forraje in command left Earth under rule of its weakest leader.
+
+The greatest feat of terrorism connected to Anacreon survivors was the Hilo Incident, where the entire West End of the pacific metropolis of Hilo (20N,155W) was either dematerialized or teleported. The transport signature left behind was fundamentally different from any previously encountered, which suggests that the guerillas had somehow made significant progress into teleporter design in a branch not fully understood today.
+#INFORMATION
+$C5
+
+The latest work in the area suggests that the teleportation was somehow related to dimensions beyond the three spatial dimensions.  The Hilo Incident has become one of the cliché romantic mysteries in science of the last century, and remains unsatisfactorily explained.
+
+The Hilo Incident led to rapid change and revolution in the Old Regime, quickly toppling the weakened WorldSoft, but not before the WorldSoft secret service found and destroyed the guerilla base. After witnessing this fearsome new weapon, there was a frantic frenzy of searching in hopes of preventing the guerillas from using it again. They were successful; nothing comparable to the Hilo Incident has again been recorded, despite discredited claims from the Lunatic Fringe that there is historical evidence in several documents that there have been similar incidents.
+#INFORMATION
+$C5
+
+The military forces WorldSoft amassed to search out the underground alien moon-base were called away from their postings in enforcing martial law. This led to a weakness in authority just as civil unrest exploded, catalyzed by the Hilo Incident.
+
+While records of the time are unreliable due to the period of social upheaval, it is a commonly held opinion that the last of the Anacreons were killed in the bombing of the base after it was located by the military.$C1
+
+
+
+
+
+
+
+
+END OF QUERY...
+#LOGOFF 148
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 130
+$C1IWC 210.13.78.1
+#PICT 12700
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0You are currently located in the IWC which controls computer and power services for decks 10 thru 25.  The central console is the primary power modulator.  Activation of this console is controlled solely from the Communications Console near Observatory A on Deck 18.  
+
+The fleet has arrived, and fighting units of the Android Brigade have begun to board the ship.  
+
+After releasing the orbiter, deactivating the self-destruct module, and eradicating Morgana's minions from Kronos, proceed to Power Station #2 for final instructions.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1IWC 210.13.78.1
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0The orbiter has been released, Kronos has been cleared, and Kronos self-destruct has been deactivated.  Well done!
+
+Proceed to Power Station #2 for further instructions.
+
+$C1
+
+
+Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 400>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0The orbiter pad has been released, which is a major win for the Federation!  We cannot afford to let Kronos technology fall into the hands of Morgana.  You have averted a major catastrophe, and saved Kronos in the process.  In the eyes of Camelot and Avalon, you have shown the true colors of a Federation Knight.
+
+Listen now.  While many of Morgana's forces have fallen, there are still enemies left on Kronos that must be eradicated.  First and foremost, you must stop the diabolical breeding of mutant raptors.  This grotesque experiment is being conducted near the Science Lab.  Go there now and stop it before the ship is overrun by these monstrosities.  Destroy every egg and their hatchlings!
+
+In the meantime, I am attempting to allocate enough resources to activate a sensor sweep to help you locate any remaining forces still left on Kronos.  
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 5410>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0An onslaught of Morgana's droids have taken over Kronos and are now infiltrating her systems.  You need to collect as much ammunition as possible before engaging in the heavier battles.
+
+Dachron ammo is scattered about in the storage area, and the armory houses the Snyper, Flamer and Railgun weapons.  Armor piercing shells from the Snyper, Dachron and Railgun will prove most useful against the assault troopers, so grab all you can carry.  The Dragon flamer is not very effective against the fire-restistant armor of the assault troopers, but it may prove useful in other battles.
+#PICT 168
+
+In addition to weapons and ammo, the armory sports a railgun shooting range.  
+
+Railgun technology has been under study for over 300 years, but never with very stable results.  It was not until 2285 when a reliable rail gun was developed at the T9000 Starbase.  
+
+Dubbed the T9000, this rail gun is manufactured on a few other Starbases; most notably, the Alpha Merlin.  Pick it up and shoot a few rounds at the target to see how the gun operates.  Don't be wasteful on the ammo, though, as it would serve you best firing into the assault troopers.
+
+
+$C1Merlin out...
+#TAG 5
+#LOGOFF 132
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 852>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0What horrid treachery is this?!? 
+
+Morgana's experiments are far worse than first realized.  It appears that Morgana has bred a new species of raptor.  This new breed has been infused with assault trooper technology, a neurological biology that allows Morgana to control the breed.  
+
+She has begun the breeding process in the diffusion chamber, and there have already been several eggs laid.  There is no telling how far along the eggs may be.  
+
+You must destroy these eggs, and any hatchlings that may emerge.  The raptor mother is still in the chamber, and she will not take kindly to having her offspring destroyed.
+#INFORMATION
+
+I have programmed the chamber's diffusion emitter to flood the chamber with a compression gas.  This will hatch the eggs, and eventually kill any hatchlings.  
+
+Use the chamber switch to activate the flood.  As soon as the switch is activated, the chamber will seal itself off from the lab, and gas will be discharged from the floor vents.  Under normal conditions, the switch area is protected by a shield barrier allowing technicians to witness the effects of various experiments.  It would seem that the raptors have damaged the shield actuators, so there will be no safe place once the gas begins to flood.  
+
+Fortunately, the gas is survivable, provided you deactivate the gas before it overwhelms you.
+
+All this trouble... It may prove more effective to simply napalm the chamber with your Dragon Flamer.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 400>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Kronos has been saved, and the mutant reptors have been eradicated.  However, sensors indicate that there are still enemy forces to be dealt with.
+
+With self-destruct terminated, I have activated a continuous sensor sweep, and have aligned your HUD radar with ship heat sensors. This will put a drain on the ship's power, as I had to override the power distribution from this power station.  It is a necessary measure, however, to ensure that you clear Kronos of all Morgana's forces. 
+
+One word of caution... the Guardian laser turrets are not picked up by these heat sensors.  There are only two - one outside near the orbitor pad, and the other in the Science Lab.
+  
+Use your radar to seek out and eradicate the remaining forces.  Return here when you have established an ALL CLEAR reading.$C1
+
+
+Merlin out...
+#TAG 9
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1<Access Channel 400>
+#PICT 138
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Kronos is safe once again, but she has suffered significant losses.  The Federation will tow her to the Alpha Merlin to unload her cargo.  From there, she'll be towed back to Earth for repairs. 
+
+The starship Gabriel has been dispatched to your location, and two other starships are approaching Kronos, including the recently repaired Santa Fe.  
+
+The Gabriel is signaling a broadcast...
+#PICT 12706
+$C1INCOMING MESSAGE FROM THE GABRIEL...
+
+$C2$IAdmiral Francis G. Bareuc
+$C0$i
+$C4Job well done!  That was extremely courageous of you to take on such a lethal force.  If you had not succeeded, Kronos technology would have fallen into the wrong hands, and the starship would have been lost forever.
+
+In recognition of your accomplishments, in honor of your bravery, and in appreciation of your loyal service, I hereby promote you to the rank of Commander.  Congratulations!
+
+On a personal note, Commander, a heartfelt thank you for saving Kronos.  Quite impressive.  Quite impressive indeed.$C3
+$I
+$C1$iBareuc out...
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Well, Commander, I also commend you on a job well done.  The fate of mankind hangs on the brink of your successes, and so far it appears there is still hope.  
+
+Your greatest task is still at hand: that of tracking down and stopping Morgana once and for all.  Preparation for this final journey is already taking place.  Most of your tasks ahead will require covert precision, and for the most part, you shall act on your own.  Some of the street battles, however, are too intense for a single person to rein victorious.  For this, the fleet is amassing squadrons to teleport in and provide as much help as possible during these final missions.
+
+There is also a question of exactly where Morgana's headquarters are located.  More and more information is being received, and soon we should be able to pinpoint the whereabouts of Morgana's stronghold.
+#PICT 138
+
+As you have beaten down Morgana's forces, the spell on me has continued to weaken.  If you succeed on the missions ahead, it is likely that I will be freed of this blasted spell once and for all.  You have some time before you begin the final hunt for Morgana, and so I beseech a favor of you.    
+
+There is but one reason that motivates and drives me to return to the flesh.  It is the Sorceress Hazelle from my home in Avalon. My beloved Hazelle, to whom I would return after serving King Arthur, has no knowledge of what happened to me since Morgana's attack on Arthur's kingdom.  Before now, I dared not contact her with any false hopes of my salvation, but thanks to you, all that has changed.
+#INFORMATION
+It is of great urgency that Hazelle receives word of my return.  This important task I entrust onto you.  It is a simple journey that shall take you through the mists of Avalon.  Avalon is a land different from what you are accustomed to.  You shall make the journey without arsenal and without shields.  
+
+A pod was successfully transported to Avalon, but the mists make biological transports unstable.  Your journey shall start from Old Britain, several lakes away, and you will approach Avalon by boat.  Being your first time through the mists, it is likely that you will sleep through most of the journey.  When you arrive, seek Hazelle and deliver my message.  For protection, seek the help of the three Mist Knights who watch over Avalon.  
+
+Venture now to Avalon.  The land of wondrous magic.  The land of healing.  The place where I met my beloved Hazelle.  My home.$C1
+
+$C7$B- TELEPORTATION SEQUENCER -$b
+$C1Destination Code: Britain
+Coordinates: 18,921 <002.53>
+$C7$B*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 37
+#ENDTERMINAL 11
+;
+#TERMINAL 12
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 512>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0The Federation has sent a convoy of Android Brigade troopers to help clear Kronos.  The troopers are spread thin, so do not expect a large force.  Further, their mission is to help where they can, and then return immediately to their ship.  Still, every little bit helps.  
+
+One of the Brigade teleportation beacons has been established in the Kronos Library.  In order to reach the library, you will need to unlock the Simulation Lab.  Once you unlock the lab, proceed with all haste to the library.  Let the Brigade take care of the Simulation Lab, as there are more important matters that require your attention in the main science lab.$C1
+
+
+
+
+Merlin out...
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1<Access Channel 512>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0The orbiter has been released, Kronos has been cleared, and Kronos self-destruct has been deactivated.  Well done!
+
+Proceed to Power Station #2 for further instructions.
+
+$C1
+
+
+Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 12

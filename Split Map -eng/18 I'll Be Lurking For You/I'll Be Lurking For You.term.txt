@@ -1,0 +1,61 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #1021>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C3
+$C0It is time to cut deeper into Morgana's domain.  We have little time to lose, as she has already begun to use her time gates to transport her forces from one time period to another.  
+
+I have teleported you far and away from the sorcerers' guild, Camelot, and the Enchanted Forest.  You are now located on the dark side of the planet where none but the bravest of quest knights have dared to venture.  Hidden in the forest near here is one of Morgana's castles.  Guarded by her magical beasts, this castle is the primary meeting place where most of her diabolical plots are devised.  Sensors indicate that Morgana is in the area, so beware.  You must locate the castle, fight your way in, and battle the forces which await you. 
+
+This is an important battle, for with it you will send Morgana a message. Never again will she ignore your threat.  She will have no choice but to focus her efforts on stopping you.  The sorcerers' guild has chosen to help you, but they are far removed from here.  You cannot depend on their help at this time. But help may be available...
+#PICT 11801
+There are magic staffs within Morgana's castle which are enchanted with the spell of Raise the Dead.  Find a staff, and use it to spawn ghouls to fight by your side.
+
+You are currently located in the perimeter of the castle.  The shield recharger in this pod is the only one in the area.  Be sure to enter the castle with a full charge.
+
+There is one more future pod located in the vicinity.  In it you will find additional ammunition as well as a save beacon.
+
+Do as much damage as you can!  When you reach the top of the castle, I will teleport you to safety.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #1035>
+#PICT 136
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+Be well prepared before entering Morgana's castle.  Once you have crossed her drawbridge, I can be of no further help to you.  I will be unable to communicate with you, and can only teleport you once you have reached the top of the castle.
+#PICT 11800
+
+Revealing the passage to the top of the castle may prove to be very tricky.  You will need to explore the castle in order to solve the puzzle of switches Morgana has devised.  
+
+Good luck!
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#PICT 129
+
+
+
+$C2$BNo one invades my castle and gets away alive!
+
+
+NO ONE!!!
+#ENDTERMINAL 2

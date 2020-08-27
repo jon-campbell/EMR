@@ -1,0 +1,191 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 12105
+Ready Room - UESC Santa Fe
+#PICT 12106
+$C1Personal Log Entry:
+  Captain Janet Vanderdecken$C0
+
+$C4This will be my final entry in this log.  I swear to God, this ship is jinxed.
+
+First there was the disaster off Inferno, which wiped out the Atchison and the Topeka, and nearly got this ship destroyed.  Then the Diablo pirates disabled her, and that solitary marine had to come pull our cojones out of the fire.  Now this.
+
+As per our orders (vague and cryptic as usual), we reported to this sector to render aid to Kronos.  I'd never even heard of the Kronos before now, and neither had anyone else in my crew.
+#INFORMATION
+$C4No sooner had we gotten a docking tube and elevator attached when 
+
+    *BAM*  
+
+...this thing de-cloaks outside our hull and begins banging on it - and other things start pouring through the docking elevator.  I can hear them right outside this room.
+
+From here, I'm setting our tertiary forward turrets to automatic.  While they're probably not even powerful enough to scratch the paint of that enemy ship, they might take out any of them dumb enough to go EVA.
+
+Uh-oh.  The noises are louder outside.
+
+Damn.  Guess I'm not going to get to try the holosuite program Paul said he'd customized for me.  A nice forest setting, and plenty of half-naked hunks if it merged properly.
+
+Hang on... something is
+#LOGOFF 12105
+Recording Interrupted at: 02.86.71.55
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 12101
+
+$C1Extensions Loading....
+#PICT 12102
+$C1Merge Log:
+  Personal Holosuite program "Picnic Woods"
+$C0
+$C5Poly #32,885,217 out of range!
+Poly #32,885,218 out of range!
+Poly #32,885,219 out of range!
+ .
+ .
+ .
+ .
+Poly #82,617,011 out of range!
+
+Texture files 900,901,902,903...967 not found!
+
+Merge interrupted.  Several important files are missing or corrupted.
+
+Program may be run, but will be incomplete.
+
+Activate desk switch and enter when ready.
+#LOGOFF 12101
+$C2$BIt is now safe to shut down your computer.$C0$b
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 12105
+$C1UESC Santa Fe Operations Console
+#INFORMATION
+$C1$BSANTA FE SYSTEMS:$b
+
+$C3Primary Weapons:  $C1         $C2Destroyed
+$C3Secondary Weapons:$C1         $C2Badly damaged, inoperative
+$C3Tertiary Weapons:$C1          $C2Intact, operative
+$C3Main Drive:  $C1              $C2Badly damaged, inoperative
+$C3Impulse Drive:$C1             $C2Intact, operative
+$C3Transporter: $C1              $C2Operative, inaccessible
+$C3Communications(external):$C1  $C2Destroyed
+$C3Communications(internal):$C1  $C2Operative
+#LOGOFF 12105
+$C2$Bconsole failure
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 12105
+$C1UESC Santa Fe Bridge
+Weapons Console
+#PICT 136
+$C1** INTERRUPT SIGNAL **
+
+Incoming Message from Merlin...
+$C0
+The Santa Fe's computer system is badly damaged.  We know who to blame for that, do we not?
+
+I appreciate nostalgia as much as anyone else... and I regret the deaths here, of course... but you have work to do.  None of Mauvair's minions are on board the Santa Fe; you are not needed here.
+
+Return to the task at hand, quickly.  Even now, Mauvair is preparing for you.
+
+
+
+$C1Merlin out...
+#LOGOFF 12105
+$C1$I*** Unexpected EOF: logoff ***
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 131
+$C4Access Granted
+#PICT 12103
+$C5Persevered a bit, eh?  I'm surprised, I figured the weapons cache in that crate would satisfy you, and that you'd feel no need to check the crate's back wall!
+
+Either that, or you've used Forge or Durandal Terminal Browser to find this terminal.  :)  Don't be embarrassed - everybody does it, right?
+
+Thanks to:
+
+$BBill$b for offering me a place on the project
+$BMike Trinder$b, without whom the Santa Fe
+  would never have docked with the Kronos
+$BRich$b for his Mauvair terminal artwork
+$BChris$b for his "not enough differential
+  lighting" macro
+$BTelf$b for captaining the Santa Fe for me
+$BEveryone$b who's had kind words about my
+  amateurish Forge work
+#PICT 11202
+
+
+
+
+
+$C5And of course, $BRain$b gets most of the rest of the thanks.  She gives me a reason to wake up every morning.  :)
+#LOGOFF 131
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#FINISHED
+#LOGON 135
+$C1<Station #666>
+#TAG 13
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C3
+
+$C0What perverse magic has Mauvair been up to now?  Meddling in the technology of man, and using his power for evil, he has forsaken his oath of sorcery.  He has become an abomination.  Beware of his spell of teleportation.  At any time he can raise the dead in his shadow, and arise elsewhere.  Watch your back.  
+
+Mauvair has replicated a Kronos future pod, enhancing its size to suit his needs.  The technology is almost identical to the Kronos pods.  There is no telling how much more Kronos technology has been stolen.  
+
+You must ready yourself to join the Brigade reinforcements to take back Kronos before Morgana discovers all of her secrets and destroys the ship.  I have readied a shuttle for you at the top of the mountain.  Use the elevator shaft across the way to reach the top.  You may need to locate an access card to get to the shaft.  Look for Mauvair's Crypt, as that is a likely place where he would stow away the card.
+#PICT 228
+
+
+
+
+
+Sensors show a highly unstable rift in the space time continuum.  I am fairly certain that Mauvair has been using this rift for time traveling.  Has he taken his teleportation spell to the next level?
+#PICT 136
+
+
+There is much to do, so much to do.  
+Kronos is under attack, and Morgana threatens to steal her technology.  Yet, while we are in this time period, it would be a heroic deed and a blow to Mordred to free the Quest Knights he holds captive in the Castle of Sorrows.  If you can locate and destroy Mordred in this time period before he returns to the future to join Morgana, it would steal you the upper hand.
+#INFORMATION
+
+Although it is still unsafe on Kronos, a return visit is needed for ammunition and recharging.  I am currently retrieving status data from Kronos.  
+
+While I complete my analysis, you must rest once again. Take the shuttle at the top of the shaft.  The shuttle coordinates have already been programmed for a remote outpost.  A sleep chamber on that outpost has been readied for you.  Rest is a critical component of your preparation for the battles ahead.  Your dreams may unlock that which you never thought possible.  
+
+Upon awakening, I will teleport you to the safest possible location on Kronos.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 135
+$C1Connect: contacting host...
+#LOGON 135
+$C1Connect: contacting host....
+#LOGON 135
+$C1Connect: contacting host.....
+#LOGON 135
+$C1Connect: contacting host......
+#PICT 136
+
+
+Is that you?  I didn't expect you on this channel... oh, I see.  Mauvair's wizards have been playing with one of our future pods.  Captured, no doubt, from elsewhere in the Jurassic time period.
+
+Once you return to Kronos, I shall send a surge of power through this
+system, destroying it utterly.  Let Morgana's forces learn what they can
+from a puddle of molten metal!
+#LOGOFF 132
+#ENDTERMINAL 6

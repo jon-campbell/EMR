@@ -1,0 +1,184 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #3122>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Welcome to the Cliffs of Graeden, the gateway to what was once known as the Castle Graeden.  This castle once hosted banquets for the greatest knights in the land.  During Morgana's campaign, however, all was lost.  Mordred seized control of the castle and constructed torture chambers in the old banquet halls.  In the quest for the Holy Grail, many of the knights fell captive to Mordred, and those not immediately strung from the hanging trees were held in these torture chambers.  
+
+Mordred put the castle under his own name, and made his home in the high towers.  As the years passed on, the screams which echoed from the castle walls led to the locals giving Mordred's castle a different name: The Castle of Sorrows.
+#PICT 12400
+
+There are only two ways to reach the Castle of Sorrows: by way of Eagle Chasm on the east side, or by way of Gabriel Tower on the west side.  
+
+Eagle Chasm was once filled with the waters of Avalon, and a beautiful bridge extended passage from one side to the other.  When Mordred seized control, however, the chasm was dried up, and the bridge was destroyed.  Even if you could penetrate the heavily guarded east entrance, there is no way to cross the chasm.
+#PICT 12403
+Gabriel Tower rests upon the Cliffs of Graeden.  Long ago, Sir Richard Gabriel, for whom the tower was named, fortified the tower against an immeasurable onslaught of Morgana's forces.  Gabriel knew from the start that there was no hope of winning the battle, but he succeeded in holding off the attackers long enough for the people of Graeden to safely evacuate the castle. 
+
+After Gabriel's capture, the tower was fortified with a great number of Mordred's black knights.  Gabriel was reported to have escaped, but no one has ever heard from him.  
+
+Thanks to your recent victory in the Temple, most of the black knights have fled the tower.  This gives you a timely opportunity to use the tower to approach the Castle of Sorrows from the west.
+#INFORMATION
+
+The tower is divided into two sections: The North Wing and the South Wing.  You are currently located below the entrance to the South Wing.  Make your way through the South Wing and into the tower courtyard. Follow the passage through the forest to the North Wing, and from there you must unlock the underground gates which lead to the Castle of Sorrows.
+
+You should not meet too much resistance from the black knights, but the area does appear to be heavily infested with many of Morgana's evil creations.  Watch out for skull snakes and piranha, but most of all, beware of Morgana's scouts.  These oversized spiders can scale the highest cliffs and be at your throat faster than you can unsheathe your sword.
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 11908
+$C1Gabriel's Journal
+#PICT 12401
+$C1$IJournal Entry$i
+$C5$B14 January, Year of our Lord 857
+$C0$b
+$C4The sea is beautiful this morning.  It is difficult to believe that so much evil can be at work on such a glorious day. 
+
+Reports of the massacre at the Mannenhaum tower has struck fear throughout the land.  I fear my tower will soon be invaded as well. 
+
+This tower provides the main access to the Castle of Graeden, so whomever controls this tower, controls the castle.  I vow to protect this tower with my last drop of blood.
+
+The waiting is the hardest part.  For now, I'll watch over the sea.  Today her waters seem to stretch out to infinity.
+#LOGOFF 11910
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 11908
+$C1Gabriel's Journal
+#PICT 12402
+$C1$IJournal Entry$i
+$C5$B5 February, Year of our Lord 857
+$C0$b
+$C4The fighting continues.  I have but three knights left, and minimal supplies.  Unless reinforcements arrive soon, we will not survive more than four days.
+
+We are fighting more than Morgana's black knights.  There are all kinds of unholy beasts being unleashed upon us.  Large winged creatures hurling balls of fire, snakes cloaked with the face of death, and wicked spider-like creatures able to scale our highest walls...
+#INFORMATION
+$C4
+It appears our troubles have worsened.  Over the past few nights, a new force appears to be unleashed upon us at midnight.  Each time the bell tolls 12, dread now runs through our hearts.  There is a dark and powerful magic that has fallen upon us.
+
+Earlier this morning I sent a sentry to the Castle of Graeden to order an immediate evacuation.  They do not have the strength to fend off this attack.  I only hope our sentry gets there in time to save them.
+#LOGOFF 11910
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 11908
+$C1Gabriel's Journal
+#INFORMATION
+$C1$IJournal Entry$i
+$C5$BDecember?  January?
+Year of our Lord 857? 858?
+$C0$b
+$C4Imprisoned almost a year now, I have no idea what the day is.  I can only guess at the month based upon the season.  Only myself and Sir Ustaela survived the attack, but Ustaela passed on two days ago from starvation.  He lost his will to live several weeks before that.  We have been kept prisoner while Mordred's forces have been slaughtering those remaining in the Castle of Graeden.  
+
+Mordred's army was forced to scale the jagged rocks separating the tower from the castle.  This delayed their attack by at least a month. I hid the keys to the underground gate in the secret fire vault. 
+
+It has been months since my previous entry, and this may be my last.  I can no longer stay here, and plan on attempting an escape early tomorrow.  My chances are not good.  I will take one key, and will leave the other in the vault.  God willing, I will escape and find help.  If I fail, I pray that those who find my journal will use the remaining key to stop Mordred.
+#LOGOFF 11910
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 135
+$C1<Station #2950>
+#INFORMATION
+
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+
+Gabriel's journal reveals the secret location of the key to the underground gate which leads to the Castle of Sorrows.  You must locate this key, and then proceed to the North Wing of the tower to unlock the gate.
+
+You will discover the passage to the North Wing by carefully exploring the forest.  A complete exploration of the forest will also reveal another future pod in which you will find valuable ammunition.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #2950>
+#INFORMATION
+
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You found the key which unlocks the gate to the underground passage!
+
+Proceed to the North Wing of the tower to unlock the gate. You will discover the passage to the North Wing by carefully exploring the forest.  A complete exploration of the forest will also reveal another future pod in which you may find valuable ammunition.
+#LOGOFF 132
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 135
+$C1<Station #3602>
+#INFORMATION
+
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+
+Gather as much of the ammunition found here as you can.  Design a careful attack on Morgana's scouts, and conserve your ammo wisely.  A heavy supply of ammo will be needed to battle your way into the Castle of Sorrows.
+
+The underground tunnel to the Castle of Sorrows can be found in the cliffs of the North Wing.  The passage to the North Wing is hidden here in the forest, but you must first return to the South Wing to locate the key to the underground gate.  The location of this key is revealed in Gabriel's journal.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #3602>
+#INFORMATION
+
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Gather as much of the ammunition found here as you can.  Plan a careful attack on Morgana's scouts, and conserve your ammo wisely.  A heavy supply of ammo will be needed to battle your way into the Castle of Sorrows.
+
+Use the key you found to unlock the North Wing underground gate.  The underground passage leads to Mordred's castle.  The switch for the gate is located in the upper level of the North Wing, and the underground passage can be found somewhere in the rock cliffs.
+#LOGOFF 132
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 135
+$C1<Station #3602>
+#INFORMATION
+
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+
+You have not yet retrieved the key to the underground gate!  You must return to the South Wing of Gabriel Tower and locate the key.  Be sure to read Gabriel's journal to determine the secret location of the key.  
+
+Once you have the key, you can open the gate, and follow the underground passage to the Castle of Sorrows.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #3602>
+#INFORMATION
+
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Good work!  You have discovered the secret fire vault and retrieved the key.  You must now unlock the gate which opens up the underground passage to the Castle of Sorrows.  The switch for the gate is located in the upper level of the North Wing.
+#LOGOFF 132
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#FINISHED
+#LOGON 135
+$C1<Station #3602>
+#INFORMATION
+
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+The key you retrieved has successfully unlocked the underground gate to the Castle of Sorrows.  Use the underground passage to reach the castle and to begin your hunt for Mordred.  
+
+Do not proceed in haste.  Even if you can infiltrate the castle, confronting Mordred is not something to rush into.  Do not underestimate the magic that Morgana has used to protect Mordred.  Striking a lethal blow to this bastard son requires both great strength and magic.  Many say that it cannot be done.
+
+Your task is to do what cannot be done.
+#LOGOFF 132
+#ENDTERMINAL 7

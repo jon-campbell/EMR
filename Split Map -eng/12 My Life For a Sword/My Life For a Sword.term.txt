@@ -1,0 +1,125 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #812>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Arthur and his valiant knights have left Camelot in search of the Holy Grail.  In their absence, Morgana's black knights laid siege to the castle and now control it.  The archers and soldiers of the Dark Forest have joined Morgana's knights, establishing an immense force.  Never before have I seen such chaos rule the land.
+#PICT 11001
+
+
+Camelot is a crucial stronghold for Mordred and Morgana.  Fight off the intruders to win back the castle and you will have struck a mighty blow to Morgana's empire.  The first task is to locate the sword of power, Excalibur.  You may not be able to obtain it from within the castle.  The main objective now is to determine its whereabouts.
+#PICT 11200
+When you have discovered the location of Excalibur, return here to the courtyard fountain.  The teleportation signals are weak in the castle.  I am working on strengthening the signal driver, but for now I need you in a clearing.  From there I will teleport you to a different section of the castle.
+
+$C1
+Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #820>
+#INFORMATION
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+Although most of the sorcerers appear to be working for Morgana, my sources indicate they do so with much discontent.  Demonstrate your bravery and might, and you shall win their respect and their favor.  You may have to do battle with a few of them in the process.
+
+The castle chapel is very near your current location.  You should be able to find a shield recharger in the vicinity.
+
+Beware of prying eyes... when it comes to Morgana's black knights, the bolts from such eyes can strike you dead.
+#PICT 11201
+You are currently located here, in the chapel washroom.  If you are ready for some danger, I have set up a teleportation beacon in the bath behind you.  This will take you to the south gate where you can stock up on crossbow bolts.  Be cautious or you may get more bolts than you bargained for.
+
+$C1
+Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 139
+#INFORMATION
+Greetings to you who hath found the resting place of my soul.  
+
+Soul of O'Brien, a once valiant Knight of the Round Table.
+
+No other knew as many of Camelot's secrets as I, save Merlin.  So many of the stones around you were laid by my hand, under his direction.
+
+Morgana's forces desired those secrets; I would not supply them.
+
+$C2They then turned to another method of persuasion.  And so the dripping of my blood eternally echoes in these chambers.
+#PICT 11202
+My lady lies in peace behind you.  They leave me alive, mocking my integrity and what it has cost.  Still, without supplying the lore they desire, I will not remain a part of this world much longer.
+
+To you who hath found this crypt, I declare: only one of strength and honor could move the stones protecting my lady.  I ask only that you attempt to bring some justice to her murderers.
+#INFORMATION
+The candle nearby shall burn, untended, everlasting... a small trick shown me by Merlin.  It is a symbol of my lady, and a hope that somewhere she lives on.
+
+Please honor her small shrine before you move on.
+
+God speed you.
+#LOGOFF 139
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 131
+#INFORMATION
+$C1$B
+
+
+
+
+
+           Hail Arturus! Rex Futurs... Rexque Futurs!
+#PICT 11200
+Knowest thou that this hold hath been constructed as a sanctuary for honor, decency, bravery, and chivalry.
+
+Many have given of their hours and some of their lives to raise these walls.
+
+Honor them and respect their creation.
+
+By order of the King, now and forever.
+
+       - Sir William of the Bay of Catam
+#LOGOFF 131
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 140
+$C1Finding mailhost.morgana.worldsoft.com...$C0
+#PICT 129
+$C1***RECORDED MESSAGE BEGINS***$C2
+
+You are doing well, my minions.  Continue your efforts... you know the price for failure.
+
+The teleporter behind you will provide you access to Camelot's water system.  My spies suggest they are unready for attack from that direction.
+
+Should you need immediate reinforcements, throw the switch across from this terminal.  The energy thus released will summon fast assistance while stronger forces mobilize.
+#INFORMATION
+$C2An unwary meddler duped by Merlin's lies may well be in the area.  Though no serious threat, he is proving troublesome.
+
+Proof of his elimination will be rewarded richly.
+#PICT 129
+
+
+
+
+
+
+
+
+$C2$IYou have your orders.
+
+
+
+
+$C1$i****MESSAGE ENDS***
+#LOGOFF 140
+#ENDTERMINAL 4

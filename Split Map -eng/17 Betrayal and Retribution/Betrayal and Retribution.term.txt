@@ -1,0 +1,66 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #109>
+#INFORMATION
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+
+In the Tower of Malhechor, always expect the unexpected.  In every dark corner of this castle lurks danger.  Although this area appears to be vacant, I suspect that the rogue sorcerers are aware of your presence here.  
+
+
+Reach the roof of the tower and locate the Meditation Room at the edge of the Mandrel Garden.  Pass through the gate, and if the tower is cleared of the rogue sorcerers, you will be teleported back to Kronos.
+#PICT 11700
+The Tower of Malhechor was originally constructed as a guard tower for Arthur's court.  From the top of the tower, you can see the land in all directions.  Since the dark days of Morgana's first assault, the tower has been fortified as a stronghold for the evil sorcerers.  Secret passages have been carefully devised to confuse and contain intruders. It is not enough to ask you to survive the castle and escape.  Your task here is to unlock the secrets of the tower and seek out and destroy the entire clan of evil sorcerers.  
+
+High atop the tower in the Mandrel Garden, the sorcerers keep the key to the Meditation Room.  Retrieve the key from the sorcerers, then use it to enter the Meditation Room.
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #117>
+#INFORMATION
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+
+
+Once again, I have been in contact with the sorcerers' guild.  They are in your debt for your winning back their castle, but they greatly fear a reprisal of the rogue sorcerers.   Complete your mission here, and then be ready to strike deeper into Morgana's empire.
+#PICT 11701
+
+
+I must also tell you of other things that have transpired during your recent battles.  I do not intend to alarm you, but you must be informed.  Morgana has unlocked the powers of the Actinium Crystals.  Working with her wizard and my old nemesis, the master sorcerer Mauvair, Morgana has learned to use the crystals to establish time gates between worlds which she has previously traveled.  These gates are similar in nature to the phase gates commonly used on the holodecks.  The impact these portals could have on mankind is devastating.
+#PICT 138
+
+While Morgana continues to increase her power for time travel, my sense of being in this time period grows stronger.  The future is taking root in the past.
+
+During my last encounter with the guild sorcerers, I experienced a transcendental connection with physical matter.  I am convinced now that the Charm of Making spell which Morgana had used against me so long ago can be reversed.  
+
+It is possible that I may be freed.
+
+The possibility... that... I may be freed... freed of... free...
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#INFORMATION
+
+
+
+
+
+
+
+
+
+           $C4The Scroll of Time Beacon has been exhausted!
+#ENDTERMINAL 2

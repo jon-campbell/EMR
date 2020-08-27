@@ -1,0 +1,203 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #2583>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0During your last transport, Morgana intercepted your teleportation signal and temporarily disrupted your pattern, scattering your particles in a thousand different places. I was able to regain control of the signal and brought you to the nearest shielded area, Morgana's monster breeding grounds.
+
+As you know from your Academy training, it is extremely dangerous to allow pattern manipulation during teleportation. The interference could have caused permanent damage to your biochemistry. I am currently remodulating the frequency distribution to prevent any further tampering.
+ 
+The good news is that due to the energy fields present in this region, I am able to enchant your staff with the Teleportation Spell.  These powers will only work while in this area, so use the spell wisely.  Take care not to teleport into dangerous situations.
+#PICT 11902
+
+
+Morgana's breeding grounds are infested with several unearthly creatures, including Skull Snakes and Fire Beasts.
+
+
+
+The Skull Snakes are very deceptive creatures. Idly waiting for their victims, they take on the appearance of a harmless skull post. Once they sense their prey, they transform into snake beasts and emit plasma bursts as they slither towards their victim.
+#PICT 11901
+The Fire Beast is a massive winged creature that spews hell's wrath. It can withstand a large amount of damage before its magic is worn down, and is completely immune to fire. This creature is a perverse manifestation of the Dragon's offspring.  Your greatest defense against this beast is Excalibur.
+
+Considering the importance of the Skull Snakes and Fire Beasts to Morgana's forces, the Skull Snakes being incredibly plentiful and the Fire Beasts very powerful, destroying their nests would prove a worthy achievement.
+
+Beware, however, for these are not the only dangerous creatures which lurk here.
+#CHECKPOINT 3
+You are currently located here, in Morgana's breeding ground maze. You will find two switches in this maze, both of strategic importance.
+#CHECKPOINT 0
+This switch will activate a nearby rock platform giving you immediate access to the Skull Snake nest.
+#CHECKPOINT 1
+
+
+This switch activates a land shift near the North end of the lava chasm. It will close off the tunnel leading to the chasm while opening up passage to the Fire Beast nest.
+#PICT 11906
+
+
+This is the land of the Beast, the Beast which lives within the darkest corners of our imaginations. Morgana conjures up her magical creatures by drawing from the evil power of the Beast.  
+
+
+
+$BThe Beast has awakened!
+$b
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #2387>
+#PICT 11907
+$C1INCOMING MESSAGE FROM MERLIN...$C2
+
+$C0I have been in contact with the sorcerers' guild and have informed them of your whereabouts. Help is on the way, if not already there.
+
+We are getting extremely close to the heart of Morgana's empire. The magic of Morgana's master wizard, Mauvair, is drawing near.  Mauvair, the mastermind behind the rogue sorcerers, lives in a stronghold tower very near this land.
+#PICT 11900
+
+
+
+
+
+The Fire Beast nest is located here.  
+
+Once you find the nest, look for a passage which leads into a dense nearby forest.  Find your way through the forest and locate the secret hideout of the ranger Kirin.
+#PICT 11903
+
+
+
+
+Be on the lookout for Morgana's Scouts. It appears as though this area is used for breeding these venomous spider-like creatures as well.
+#PICT 11911
+
+
+
+
+Your objective is to destroy the nests of the Fire Beast and the Skull Snake, and to locate Kirin's hideout.  Within her hideout are pages from her journal which you must read. 
+
+Upon success, a time gate shall appear in the maze cell where you teleported in.
+#PICT 11912
+
+
+
+
+
+If you find yourself low on ammunition, return to the pod in Morgana's
+maze.  I have activated a replicator programmed for Dachron and Snyper ammunition.
+#PICT 11904
+
+One more thing. There are caves in this region where you may find more weapons and potions, and another future pod.  Be prepared, however, to meet with great resistance.  In fact, you may be better off avoiding the caves altogether.  They are not crucial to your mission.
+
+Besides being infested with blood sucking bats, they are also inhabited by Will-O-Wisps.  Will-O-Wisps are the spirits of the dead in this land of darkness.   You may notice a few of them rising from the lava.    
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 135
+$C1<Station #2666>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C2
+
+$C0Apparently Morgana has been conducting horrible experiments in these caves.  Somehow she transported a handful of Grogs from the Jurassic time period back with her, and has performed several mind altering spells on the hapless cave dwellers.  If you encounter any, be careful. They may not be as friendly as they once were.
+#LOGOFF 132
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 226
+#PICT 145
+$C6Ignorant fool!  You are now entangled in my lair, from which there is no escape! 
+
+Merlin may have a few tricks still up his sleeve, but his rustic knowledge of magic will do you no good against what I have in store for you.
+
+The Beast lives in everything in this land, and you will soon painfully discover the horrors that await you.
+
+Trudge on, pathetic knight of misfortune, trudge on...
+$B
+
+
+$C2$b
+        $BThe Beast$b
+#LOGOFF 226
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 135
+$C1<Station #2402>
+#PICT 136
+$C1
+
+
+
+INCOMING MESSAGE FROM MERLIN...$C2
+
+$C0This time pod has not fared well being so near the nest of the Fire Beast.  I have managed to activate a teleporter in what remains of it.  Use this teleporter to return to the future pod in Morgana's maze.
+#LOGOFF 132
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 11908
+Memoirs of Kirin
+#PICT 135
+$C1
+
+<< EMERGENCY SIGNAL INTERRUPT >>
+
+$C0I apologize for this intrusion, but I must insist that you visit the two nests before reading Kirin's journal. Sensors indicate that you may have skipped one or both of the nests.
+
+Return to Kirin's hut after you are certain that the nests have been fully explored.
+$C1
+
+Merlin out...
+#LOGOFF 132
+#END
+#FINISHED
+#TAG 7
+#LOGON 11908
+Memoirs of Kirin
+#PICT 11905
+$C1Page 3
+
+$Ibut could not locate the rest.  I fear the worst.  The great beasts of fire have devastated all that appear before them, and most that have avoided them have met their end at the mercy of the snake creatures.
+
+They have not yet discovered my location, but it is not safe here.  I must continue my search for survivors before I go.  I have stumbled upon the nests of these unholy beasts in the high rocks.  The Mannenhaum stronghold is still controlled by Morgana's forces, although it would appear that they lack the strength and power of Morgana and Mauvair.  If only reinforcements would arrive, we might have a chance.  I must keep looking.  I cannot give up hope.  It is difficult though. The power of the Beast thrives here, and it is
+#PICT 11909
+$C1$IPage 6
+
+such a creature.  He looks almost ape like, but he must be human.  He does not listen to reason.  Unable to thwart his rock throwing frenzy, my only recourse was to retreat.  They dwell with the bats in the dark caves of despair.
+
+Today I encountered a rogue sorcerer, but he did not attack me.  He spoke of a brave hero working with Merlin.  Merlin?  We have not seen or heard from Merlin in ages.  I am not certain whether this is trickery or  whether this sorcerer's offer to help was made in earnest.  He spoke of other sorcerers being on their way, but then he vanished.
+
+The red rock path from here offers a great vantage point for taking out the
+#LOGOFF 11910
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#INFORMATION
+$C1HUD TRANSMISSION FROM MERLIN...
+$C2
+$C0Behold the Spell of Teleportation!  
+
+Utilizing the energy sources in this region, your staff is now enchanted to teleport you to almost any location in sight.  
+
+The staff emits an energy projectile in the direction it is pointed.  Once the energy projectile lands, if the location is capable of holding your mass, you will be instantly teleported to that location.
+
+This spell can be used to your advantage, but it is potentially the most dangerous spell ever to come out of the Sorcerers Guild. Many a novice sorcerers have perished due to unwise use of the spell.
+
+  
+$C1Merlin out...
+#ENDTERMINAL 6

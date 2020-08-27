@@ -1,0 +1,11 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 159
+Off Limits$C1
+#INFORMATION
+$C1$I
+This area was designated to be an off-limits zone for a CTF match.
+#PICT 10001
+#LOGOFF 160
+#ENDTERMINAL 0

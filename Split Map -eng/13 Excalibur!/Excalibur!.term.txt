@@ -1,0 +1,448 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #851>
+#INFORMATION
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+
+While you were battling Morgana's forces, I have been engaged in experimentation with a higher level of communication.  I believe I have discovered a means to reach beyond the technology of Kronos future pods.  I am not certain where the signals are coming from, but I suspect it is from this time period.  Mysticism has taken root in the future, and I am now able to travel outside the computer in spirit form.  I will use this to our advantage as I try to convince the sorcerers to favor you.
+
+Your task is to explore Camelot...
+#PICT 11302
+
+Here in this gathering hall, Arthur's knights once met on a regular basis.  Victories were celebrated, and stories of chivalry were shared.  The camaraderie of human spirit has never reached as high as in the days of Camelot.  
+
+It is the table of true knighthood, of bravery, of strength, of honor; nay, but most of all, it is the table of truth.  
+
+For just as it was truth that built the likes of Camelot and the Round Table...
+#PICT 11303
+
+
+... it was deceit that tore it down.
+
+From the lies that Morgana spread, to the lies that even great men find themselves trapped in during times of comfort, evil grew strong, and goodness faded.
+
+With a deadly blow, Camelot was swallowed up by this evil.
+
+Blast!  How many times I warned Arthur!  
+
+Let us not suffer this tragedy in vain,  for his spirit still lives, as does the spirit of all good men.  Do not forget the lesson: Beware of evil.  Always!  For it strikes most often from places you least expect.
+#PICT 11301
+
+In the halls of Camelot, in the veins of these castle walls, beats the heart of the sword of power: Excalibur.  From the enchanted waters, Excalibur will rise again.  
+
+Only one who is of true spirit can free Excalibur from the waters which hold it.  Let your heart be true, and the Lady of the Lake shall reward you with the sword.
+
+Do not be careless, however, for as certain as the sword will rise, so too will the shadow sorcerers of Morgana's minions be guarding its waters.  Although the sword is infinitely beyond their grasp, they have dedicated their lives to keeping it out of the reach of all others.
+#CHECKPOINT 1
+
+
+
+Excalibur derives its strength from the enchanted waters of this land.  To use Excalibur effectively, you need enchanted water.  Several vials of enchanted water can be found resting on top of the Round Table.
+#PICT 11300
+
+
+While you explore Camelot, try to clear the castle of as many enemies as you can.  Winning back the castle will persuade the Sorcerers' Guild to side with us.  Before leaving, be sure to retrieve Excalibur, and locate the scrolls of Camelot.  
+
+Your exit from Camelot is embedded in the Crystal Room.
+#CHECKPOINT 0
+
+
+
+You are currently located here.  A switch which opens a passage to the Crystal Room is located near here.
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You're almost there!  You have acquired the wisdom of Passage and of Darkness, and you have been to the Round Table. 
+
+But I cannot send you forth without you first obtaining the sword of power, Excalibur.  You know where it is, now go get it.
+
+ 
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 107
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #852>
+#INFORMATION
+$C1*** NODAL LIBRARY ACCESS ***$C0
+
+$C4SEARCH STRING:$C0 $C2SAO 71292541$C0
+
+$C1Searching..........$C0
+
+$C4Article Title:$C0 $C1$BSAO 71292541$C0$b  $C3 (Page 14 of 98)$C0
+
+$C1Computer Generated Report on Astronomical Observations of Sector 431068 by Lunar Farside Observatory AI #53
+$C0
+$C3Hits  1  since 4/11/2204
+$C0
+$C4SAO 71292541 is a small red dwarf star of exact mass unknown. While gravitometric analysis suggests between 0.26 and 0.45 solar masses, stellar absolute magnitude is uncharacteristically low for a star of that size in that mass range. Analysis suggests a large cloud of debris and low-temperature gasses are scattering the light to a previously-unrivaled extent.
+#INFORMATION
+$C4Spectral analysis of this dust cloud indicates unusual levels of Actinium decay spectra.
+
+As the estimated age of this dwarf star is 1.53 billion years, there is significant evidence of clumping of matter in the debris field surrounding the star, including circumstantial evidence of at least one planetary body radius (1000-1500 km) within 20 million kilometers of the star, in a slightly elliptical orbit.
+
+During allotted observation time, there were 62 instances of modulated tachyon pulses. Probabilistic analysis indicates this is most likely the result of large traffic levels of warp-capable vehicles of unknown advanced warp propulsion design.
+$C0
+$C2Prioritization:$C0
+$C3Further observation time is ranked 420185. Estimated time until next observation: 43.18 years.
+Report review is ranked 31910. Estimated time of review: 12.51 years.
+$C0
+
+$C1** END OF LIBRARY ENTRY **$C0
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+
+You have fought gallantly and beaten back the forces which had once held Camelot.  This feat will help greatly in winning the sorcerers to our side.  There are those in the guild who still hold out against you.  I am certain that they represent the minority.  Many of the sorcerers have confided to me that they follow these rogue leaders out of fear, not respect.  I will report more on this subject later.
+#INFORMATION
+
+Given the battles you have fought, it is time for you to rest. You must prepare for an all out war on the wicked archers of the Dark Forest.  I will now prepare the sleep chamber for you.
+
+Access to the sleep chamber is shielded with magic bars.  This precaution is taken to ensure that you do not leave without Excalibur.  It is the magic of the sword which will gain you access to the chamber.
+
+Upon awakening from the sleep chamber, your next challenge will be to explore the Dark Forest, discover the stronghold of the evil archers, and eradicate them in battle.  There is no other way to break the spell which Morgana has placed on them.  
+
+
+
+$C1- SLEEP CHAMBER ACTIVATED -$C0
+#TAG 1
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 162
+#INFORMATION
+
+
+
+
+$C1        ** Scroll of Passage **$C0
+$B
+$C2        $C4$bFor those who do and dare
+        Glory they will share
+
+        For that which burns bright
+        And lights up the night
+
+        Conceals the passage beware!
+#LOGOFF 162
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 162
+#TAG 2
+#INFORMATION
+$C1
+           ** Scroll of Darkness **$C0
+
+        $C6When the sun has left you
+            and the lights are turned out
+
+        And you find yourself lost
+            wandering about
+
+        Remember in the heart
+            of even good souls
+
+        Lies the untouched regions
+            where darkness controls
+
+        Be one with the darkness
+            and you will discover
+            
+        What once was unseeable
+            sights now uncover$C2
+#LOGOFF 162
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Go forth and seek that which guides us.  You lack the wisdom of the Scroll of Passage.  
+
+Further, I cannot send you forth without you first obtaining the sword of power, Excalibur.  Visit the enchanted lake in the forest beyond the courtyard.
+ 
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 205
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You have accomplished nearly everything required, but you lack the wisdom of the Scroll of Passage.  Locate the scroll which will endow you with the ability to find it.
+
+
+
+ 
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 205
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+I cannot send you forth without the sword of power, Excalibur.  It is crucial for future missions!    
+
+Although you have gained much wisdom by way of magical scrolls, you still have not paid a visit to the Round Table.  This is a spiritual room, and experiencing it firsthand enriches the soul.  Every advantage helps!  
+
+If you are low on enchanted water, you may find a number of extra water vials there as well.
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 87
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You are one task shy of what you need to accomplish here.  
+
+With sword and wisdom, you still have not paid a visit to the Round Table.  This is a spiritual room, and experiencing it firsthand enriches the soul.  Every advantage helps!  
+
+If you are low on enchanted water, you may find a number of extra water vials there as well.
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 87
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You know your way around, but alas, you are still but a novice in the dark.  You need to study the Scroll of Darkness before I can teleport you to the Dark Forest.  
+
+Further, I cannot send you forth without you first obtaining the sword of power, Excalibur.  Without it, Mordred will crush you without mercy.
+ 
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 41
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You know your way around, but alas, you are still but a novice in the dark.  You need to study the Scroll of Darkness before I can teleport you to the Dark Forest.  
+
+
+
+
+
+ 
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 41
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+It serves you well to have been to the Round Table, but there is still much for you to learn.  You need to discover both the Scroll of Darkness and the Scroll of Passage, and I cannot send you forth without you first obtaining the sword of power, Excalibur.  
+
+Return here upon accomplishing these tasks.
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 33
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+It serves you well to have been to the Round Table, but there is still much for you to learn.  You need to discover both the Scroll of Darkness and the Scroll of Passage before I will send you on.  One scroll leads to the other, so go now and discover the wisdom of the ancients.  
+
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 33
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Discovering the Scroll of Darkness before the Scroll of Passage is an unusual feat, but nevertheless, you must now back track and locate the Scroll of Passage.  
+
+Further, you still have not paid a visit to the Round Table.  This is a spiritual room, and experiencing it firsthand enriches the soul.  Every advantage helps!  
+
+If you are low on enchanted water, you may find a number of extra water vials there as well.
+
+Return here when you are done.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 33
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Before Passage, Darkness?
+Before Thunder, Rain?
+Before the Dawn of Time, The End?
+
+It matters not the order, but it is important that you continue your exploration of Camelot and discover the Scroll of Passage.  
+
+Further, you still have not paid a visit to the Round Table.  This is a spiritual room, and experiencing it firsthand will serve to your advantage.  You may find a number of extra water vials there as well.
+
+Return here when you are done.
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 33
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+It is a terrible waste to study, but not to learn.  Take careful heed of the Scroll of Passage, as it will lead you to the Scroll of Darkness.  
+
+You still have quite a bit more exploration to do before I can send you on.  Locate the Scroll of Darkness, the Round Table, and Excalibur, then return here.
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 33
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+It is a terrible waste to study, but not to learn.  Take careful heed of the Scroll of Passage, as it will lead you to the Scroll of Darkness.  
+
+It would appear that you have yet to visit the Round Table, where the gallant knights of Camelot once gathered.  Upon the table, you should find an ample supply of enchanted water to revitalize Excalibur.
+
+Go now, and return here when you are finished.
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 33
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Did you think you could flip a switch and then make a hasty exit?  What fool's elixir have you taken drink of?  
+
+Do not jest about the tasks before you, as they are quite important.  You have yet to explore any vital areas of Camelot, so do not return here until you have done so.
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 99
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #852>
+#PICT 136
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+The foolhardy warrior stands with sword in hand, devoid of wisdom.   What a great deed you have accomplished in visiting the enchanted lake, but there is much still to explore in Camelot!
+
+Search for the two scrolls of Camelot, then approach the Round Table with care.  A successful campaign will land you with a good supply of enchanted water vials, a crucial drink for the sword of power.
+
+Explore, then return.
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#INTRALEVEL TELEPORT 99
+#ENDTERMINAL 10

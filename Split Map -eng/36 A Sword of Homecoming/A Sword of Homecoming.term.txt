@@ -1,0 +1,908 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#INFORMATION
+$C6$I
+
+
+The old method of exiting this level used to be by way of this terminal.  However, that has been changed.  You should now exit immediately after opening the door, and then a final movie should play.  This text should be unreachable from within the game.
+#INTERLEVEL TELEPORT 256
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 157
+$C1FHQ Channel 19A
+#INFORMATION
+$C4Welcome home Commander.  We hope your stay here at Fleet Headquarters has not been too much of an inconvenience. I apologize for the long and tedious interviews we put your through over the last week, but as you might ascertain, it is of the utmost importance that we collect and archive as much intelligence as possible to thwart any future attacks through the space-time continuum. 
+
+The weapons and ammunition left over from your adventures have been collected and stored into the anti-contamination chambers in this building.  Our scientists will be inspecting them to explore the effects of time travel.
+
+The AI Merlin left instructions on the criticality of returning the sword, Excalibur, to its proper time period.  We have therefore programmed the computer lab's teleporter to send you on one last journey through time.  Take Excalibur and return it to Avalon.  Once this task is complete, you will be granted access to the upper floors, where you may proceed to the roof.  We are having a helicopter flown in to take you home.  
+
+$I- Admiral Lance T. Johnston
+#TAG 8
+#LOGOFF 158
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 138
+#INFORMATION
+$C1HUD TRANSMISSION...
+
+$C3> Run "Merlin Residual"
+$C5Loading Module 1...$C3
+$C2
+$C0This message was recorded and programmed into your HUD, to be activated once you approached the waters of Avalon.  During your return trip on Kronos, I began the process of re-materializing.  I shall need your help in completing the transformation.  My energy and essence were severed from the electronic state in which I have existed for the last few years.  I have re-entered my frozen body that lay in the ice caverns below Avalon.  With your help, I shall awaken and begin my transformation back into a living being.
+
+I need you to perform three tasks here on Avalon.
+#PICT 11001
+Excalibur has served you well, but it is time to return her to the enchanted waters of Avalon.  There she will rest, quietly in the still waters of Avalon.  
+
+This is the first of your three tasks.  Once Excalibur is received by the lake, my being shall begin transformation back into the living flesh.  You may witness my materialization in the cottage near the lake.
+
+Be sure to toss the sword into the deepest waters of the lake.  Only then will the Lady of the Lake receive it. 
+
+Seek me at the cottage for further instructions.
+
+$C1** END PROGRAM **
+#LOGOFF 138
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 138
+#INFORMATION
+$C1Merlin speaks...
+
+$C4
+One day, Excalibur shall rise again, and a new hero will wield her in battle.  Until that day comes, the sword shall rest in the arms of the Dragon.
+
+My transformation has begun.  Your next task is to seek out the Crystal of Enlightenment.  This magical sphere holds a special energy.  In the presence of this crystal, those of good spirit are enchanted with its energy.  Those of bad spirit are destroyed.  Enter the chamber in good faith, then return to the cottage once enchanted.  The energy charge will further my transformation into the flesh.
+
+Return to me upon completion of this second task.
+#LOGOFF 138
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 138
+#INFORMATION
+$C1Merlin speaks...
+
+$C4My transformation is nearly complete.  I have been freed from the frozen curse that Morgana cast on me so many years ago.  
+
+There is a special magical staff in the Hall of Avalon.  The key to the hall is kept in the chamber of the Lady of the Lake.  Retrieve the key to unlock the Hall, then obtain the staff.  Use the staff to cast the Shadow of Life onto the ethereal being before you.  This final spell shall complete my transformation.
+
+The staff will not work until the Lady of the Lake has received Excalibur, and that may take some time.  Once the sword descends, that is when you may use the Staff of Life.  If all goes well, my next communication with you will be from the living Merlin.
+#TAG 2
+#LOGOFF 138
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 138
+#INFORMATION
+$C4$IMy transformation is complete. I am free, free to travel the land, and after so long... too long... Finally, I shall see my beloved Hazelle. I dearly hope she has received my message. I shall soon find out.
+
+For you, my friend, my gratitude is eternal.
+
+Take this. It will return you to your own time.  You are returning as a hero, having freed mankind from the evil clutches of Morgana's dark magic.  Always look back on these times with great pride; and remember, always remember... for it is the doom of man that he should forget.
+
+Understand that evil is never really destroyed, only laid dormant, waiting for opportunities.  Follow the path of true knighthood and continue to fight the evil which arises from the seeds of darkness.  Live by the truth, and the power of Excalibur will always shine from within you.
+
+It has been an honor, brave knight.
+
+- Merlin
+#LOGOFF 138
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 157
+$C1FHQ Channel 19A
+#INFORMATION
+$C1
+$C5You may now proceed to the upper floors.  You have been granted access to the Federation Library, as well as all turbo elevators.  A Federation helicopter is currently on approach.  The pilot has been instructed to take you to the place of your choosing.  Please proceed to the roof when you are ready.  
+
+$C1
+Daisy, AI 
+Federation Executive Assistant
+#LOGOFF 158
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 159
+$C1Federation Library - Kiosk 001
+#PICT 13602
+$C4Excalibur: Morgana's Revenge (EMR) was brought to you by the Marathon Map Makers Guild.  Be sure to send your feedback to $Uhttp://excaliburworld.com/support.html$u, and let us know what you thought of the game.
+
+EMR 3.0 for Aleph One was a major upgrade to EMR 2.0 for Infinity, and couldn't have been done without the hard work of several people.  Please spend a few moments in the library to explore the magic behind EMR. 
+
+This kiosk will highlight contributions directly to EMR 3.0. Visit the other kiosks to see details of contributions, as well as contributors to EMR 1.0 and EMR 2.0.
+
+
+Bill Catambay
+EMR's Sworded Creator
+#PICT 13602
+$C1
+
+$C4Produced and Directed by
+$C5Bill Catambay
+
+
+
+$C4Texture "Champions"
+$C5Rich Bushey
+Bill Catambay$C4
+
+Texture "Knights"
+$C5Candace Sherriff
+Bob Chamot
+#PICT 131
+$C1
+$C4Graphics "Champions"
+$C5Rich Bushey
+Bill Catambay$C4
+
+Graphics "Knights"
+$C5Bob Chamot$C4
+$C5Robert "Tycho" Kreps
+Diane Love
+
+$C4
+Rich is the man!  He created the majority of new graphics for EMR 3.  Bill was your basic Photoshop work horse, photo manipulator and graphics coordinator.
+
+Tycho did contrail and explosion graphics for Radon Grenades and the EMR icons.
+
+Diane created the Graeden movie.
+#PICT 131
+$C1
+$C4Sounds "Champion"
+$C5Bill Catambay$C4
+
+Sounds "Knights"
+$C5Glen Ditchfield
+Bob Chamot
+Chris Veres
+
+$C4
+Bill converted all of EMR's sounds to 16-bit, replaced several sounds, and added several new sounds. 
+
+Glen helped with sounds on Linux, and did some conversions. Bob did narrations. Chris provided 16-bit versions of the sounds he contributed to EMR 2.0.
+#PICT 131
+$C1
+$C4Music "Champion"
+$C5James Bisset$C4
+
+Music "Knights"
+$C5Bill Catambay
+Dane Smith
+Robert Stever
+Solra Bizna$C4
+
+James is the Maestro of EMR music, creating several original scores. 
+
+Bill fired up GarageBand and created a few original tracks.  Dane Smith did a few original scores of his own.  Robert provided a number of MIDI's, and Solra sent in a few of his original works.
+#PICT 131
+$C1
+$C4Maps "Champion"
+$C5Bill Catambay$C4
+
+Maps "Knights"
+$C5Bob Chamot
+Battle Cat
+$C4
+
+Bill revamped all of the EMR levels to incorporate new Aleph One features, and in many cases, expand the map and revise the story.  He also added a few new levels.
+
+Bob came along towards the end, and decided that EMR needed a level where the player could pilot a hoverbike.  GATs out of Hell was all his doing.  
+
+Battle Cat provided permission to use his Berlin net map architecture.
+#PICT 131
+$C1
+$C4Windows version - "Champions"
+$C5Robert Stever
+Glen Ditchfield
+
+$C4Beta Testers - "Champions"
+$C5Bill Catambay
+Glen Ditchfield
+John Sumner
+Bob Chamot
+
+$C4Beta Testers - "Knights"
+$C5Michael O'Brien
+Chris Veres
+$C4
+Robert created the Windows installer for EMR 3.0. Glen performed sound conversions.
+
+Many thanks to the beta testers!  All feedback has been greatly appreciated!
+#PICT 131
+$C1
+$C4Scripting "Champions"
+$C5Bill Catambay
+Jon Irons
+Bob Chamot
+Solra Bizna
+
+$C4Scripting "Knights"
+$C5Loren Petrich
+Glen Ditchfield
+$C4
+Bill implemented the bulk of the Lua coding, and all of the MML scripting.
+
+Jon, Solra, and Bob provided critical help in bringing Bill up to speed on Lua, as well as contributing some scripts of their own.  Loren and Glen established much of the initial MML to get EMR 3.0 "off the ground".
+#PICT 131
+$C4
+
+$B$UA L E P H   O N E   D E V E L O P E R S$b$u
+
+I would like to thank all of the Aleph One programmers who have volunteered their time to make the Aleph One open source project such a success.  Without their efforts, there would be no EMR 3.0.  Several of the developers, such as Alexei, Gregory, James, and Solra, responded to direct requests that allowed some critical features in EMR.  Thanks also to Mike Benonis for help editing Aleph One resources and for Cranberry.
+
+Visit the Aleph One web site at:
+$Uhttp://source.bungie.org/$u.
+#LOGOFF 160
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#LOGON 159
+$C1Federation Library - Kiosk 002
+#PICT 128
+$C4
+EMR 1.0 was originally released for the original Marathon engine in 1997.  EMR 2.0, released in 2000, was an upgrade that worked with the Marathon Infinity engine, and included new textures, weapons, maps and sounds.  EMR 3.0 is a further upgrade running under the Aleph One engine, and includes new textures, weapons, maps, sounds, and special features.  
+
+This kiosk is dedicated to EMR graphics contributors, past and present, for sprites, weapons and chapter screens.
+
+
+
+
+Bill Catambay
+EMR's Sworded Creator
+#PICT 10401
+$C1$B$U
+$C4$b$uT-rex
+$C5Original T-rex was done by David Twist, Bill Catambay and Candace Sherriff.  Rich Bushey created an all new hi-res T-rex with extra walk frames for EMR 3.0.
+$C4
+Raptors and Dimorphodons
+$C5These beasts were created by Chilton Webb.
+
+$C4Cavebobs and Archers
+$C5Candace Sherriff is the creator of both of these characters.
+
+$C4Knights
+$C5Quanah Harjo created the Knights, and Jeremy Dale added bloody effects to the dying sequences.
+#PICT 11901
+$C1$B$U
+$C4$b$uSorcerers
+$C5The sorcerers were created by Mark Conahan.
+$C4
+Cleric
+$C5The original cleric was created by David Twist.  Bill Catambay made a revision of the cleric to create Merlin in EMR 3.
+
+$C4Skull Snake and Winged Firebeast
+$C5These magical creatures were concocted by Chilton Webb.
+
+$C4Morgana
+$C5The original "Southpark" style Morgana was an effort by Chilton Webb, Avi Selk, and Bill Catambay.  Rich Bushey created an all new multi-view Morgana sprite for EMR 3.
+#PICT 12800
+$C1$B$U
+$C4$b$uGATs and SPAMs
+$C5These mechanical bad boys were all created by Quanah Harjo.  Bill Catambay created the SPAM death frames.
+$C4
+FutureBob and Maintenance Man
+$C5These Federation employees were created by Jeremy Dale.
+
+$C4Hightech Clones
+$C5The Forraje clone was created by Mark Conahan.
+
+$C4Spewie
+$C5These Super Prolific Environmental Waste Ingestion Eliminators were created by Richard Bushey.
+#PICT 11302
+$C1$B$U
+$C4$b$uPlayer and Marines
+$C5EMR's valiant hero was created by Jeremy Dale.
+$C4
+Wooden Chair
+$C5The original wooden chair was done by David Twist.  He also provided a hi-res version of the chair for EMR 3.  Bill Catambay created the dying and death frames of the chair.
+
+$C4Throne and Table
+$C5What's a Kingdom without a throne?  Thanks to Jason Parsons, we had a kingdom, as well as a table to eat on.
+
+$C4Wooden Barrels
+$C5The exploding barrels were created by Stephen Ritchie. Bill Catambay created the collapsing version of the barrel.$I
+#PICT 11600
+$C1$I$B$U
+$C4$b$uSkeleton Ghoul
+$C5Borrowed from Mill2 with permission of Hamish Sanderson.
+$C4
+Spider
+$C5Also known as Morgana's scout, the spider was created by Richard Bushey.
+
+$C4Kronos Barrel
+$C5A metal version of the exploding barrel was created by Bill Catambay.
+
+$C4Piranha
+$C5This slippery flesh eater was created by Richard Bushey, and revised for EMR 3.
+
+$C4Fire
+$C5Animated fire, whether by itself, on a torch, or on a skull, was crafted by Bill Catambay.
+#PICT 163
+$C1$I$B$U
+$C4$b$uBlade Knuckles, Revised Spear, Revised Magic Staff, Excalibur, Railgun, Revised Hightech 
+$C5Rich Bushey
+$C4
+Snyper Pistol, Dachron Rifle, Crossbow, Hightech, Magic Staff
+$C5David Twist
+
+$C4Axe
+$C5Bill Catambay and Rich Bushey
+
+$C4Phaser
+$C5Chris Ashton
+
+$C4Time Bomb
+$C5Bill Catambay
+#PICT 131
+$C1$I$B$U
+$C4$b$uSPLASH SCREENS:
+
+EMR Menu, Mission, Jurassic, 
+Morgana's Lair, Knightmare,
+Valour, Droids, Showdown
+$C5Richard Bushey
+$C4
+Expedition, Deliverance
+$C5Rik Asseily
+
+$C4Knighthood
+$C5David Twist
+
+$C4$iInfiltration
+$C5Jeremy Dale
+#LOGOFF 160
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 159
+$C1Federation Library - Kiosk 003
+#PICT 13602
+$C4
+EMR is rich in maps, both in the solo levels and net maps.  We have had a lot of hands in the mix over the years, with the original map makers of EMR 1.0, new maps and map editors for EMR 2.0, and even more new maps and additions in EMR 3.0.  
+
+This kiosk gives honors to all map makers, past and present, who have contributed to EMR.
+
+
+
+
+
+Bill Catambay
+EMR's Sworded Creator
+#PICT 10000
+$C1
+$C4Prologue
+$C5This level was originally called the Whips and Scorns of Time in EMR 1.0.  It was completely redone for EMR 2.0.  For EMR 3.0, the training area was removed, with the focus being on the holodeck that sets up the story background. All revisions by Bill Catambay.
+$C4
+Merlin Unplugged
+$C5The very first level of the scenario was created by Bill Catambay, with some add-ons by Claude Errera.
+
+$C4Oh ##(*$@(*!@!
+$C5The first Jurassic level is by Jeremy Parsons (aka, Br'fin).  The original title was Oh #$(@#$!!, but it was renamed for EMR 1.0 as Run For Your Life! The original title was restored for EMR 2.0 and EMR 3.0.
+#PICT 10701
+$C1
+$C4A River Runs Through It
+$C5This was originally done by Russel Fleming, with edits by Bill Catambay.
+$C4
+Unstable Terrain
+$C5This level is by David Twist.  You go Grog!
+
+$C4When It Rains, It Pours
+$C5Originally by Russel Fleming, this map was reworked by Bill Catambay for EMR 2.0, and again for EMR 3.0.
+
+$C4Ceridwen's Dreams
+$C5First Dreams level, by Candace Sherriff.
+
+$C4Unnatural Selection / 
+When the Raptors Come Home
+$C5These overlapping levels were originally created by Mike Masinter, and then reworked by Bill Catambay.
+#PICT 11101
+$C1
+$C4No Time For Coffee
+$C5This quickie brought to you by Bill Catambay.
+$C4
+Bend Sinister
+$C5Level design by Greg Ewing, with modifications by Bill Catambay.
+
+$C4The Return
+$C5Brand new for EMR 3.0, this visit back to the Mannenhaum massacre was created by Bill Catambay.
+
+$C4Shores of Camelot
+$C5Approaching Camelot in search of Excalibur, designed by Bill Catambay.
+
+$C4My Life for a Sword
+$C5First peek at Excalibur, originally by Steve Juliana, revised by Michael O'Brien.
+#PICT 11303
+$C1
+$C4Excalibur!
+$C5The level where you finally wield the magical sword, by Steve Juliana and Bill Catambay.
+$C4
+Bread Crumbs
+$C5Another Dream level by Candace Sherriff, with edits by Bill Catambay.
+
+$C4Over the River and Through the Woods
+$C5Original design by Dave Santoro, with additions by Bill Catambay.
+
+$C4Siege Perilous
+$C5Original design by David Twist, with additions by Bill Catambay.
+
+$C4Betrayal and Retribution
+$C5This towering map (a real bitch to edit) was originally designed by Dave Santoro.
+#PICT 11907
+$C4I'll Be Lurking For You
+$C5Original design by Steve Wilder, with additions by Bill Catambay.
+$C4
+Le Mort de Tous
+$C5Original design by Evan Knopp, with edits by Bill Catambay.
+
+$C4Tower of Mauvair
+$C5Created by Bill Catambay.
+
+$C4Mr. Wizard! Mr. Wizard!
+$C5Created by Bill Catambay.
+
+$C4Knightmare
+$C5The final dream sequence, by Candace Sherriff.
+
+$C4The Audience is Listening
+$C5A return to Kronos, Ben Matasar, edits by Bill Catambay.
+#PICT 12600
+$C4
+I Don't Like Spiders & Snakes
+$C5Introduced in EMR 2.0, created by Bill Catambay.
+$C4
+Castle of Pain and Sorrows
+$C5Original design by STef Bondier, with edits by Bill Catambay.
+
+$C4For the Love of Mother
+$C5Original design by Jeremy Dale, with edits by Bill Catambay.
+
+$C4Noah's Ark
+$C5The final Kronos battle, by Bill Catambay.
+
+$C4World of Hazelle
+$C5Brand new to EMR 3.0, this magical visit to the Mists of Avalon was created by Bill Catambay.
+#PICT 12800
+$C4
+Where Did All My Weapons Go?
+$C5Also new to EMR 3.0, the Alpha Merlin Starbase, by Bill Catambay.
+$C4
+Staying Up Late
+$C5Original design by Neil Justusson, with edits by Bill Catambay.
+
+$C4Slime Raider II
+$C5Introduced in EMR 2.0, created by Bill Catambay.
+
+$C4Down Under
+$C5Original design by Sriranga Veeraraghavan, with edits by Bill Catambay.
+
+$C4HQ Storm
+$C5Created by Bill Catambay.
+#PICT 13402
+$C4
+Like a GAT Out of Hell
+$C5New to EMR 3.0, a hoverbike special level by Bob Chamot.
+$C4
+Double Vision
+$C5Original design by Robert Deininger, with additions by Chris Veres, and further edits by Bill Catambay.
+
+$C4The Keep
+$C5The spooky rock golem outpost, by Bill Catambay.
+
+$C4Anahl Nathraq
+$C5Boarding Morgana's ship, and the fierce battle on Jahala, original design by Mark Conahan, additions and edits by Bill Catambay.
+#PICT 11903
+$C4
+Back to the Future IV
+$C5Reboard the Kronos on your return trip to Federation Headquarters, and enjoy the holodeck programs, by Bill Catambay, with some additions by Claude Errera.  Did you save Tiny? 
+$C4
+A Sword of Homecoming
+$C5Originally called Epilogue, hugely expanded for EMR 3.0 and renamed. This level has you returning Excalibur to its home land, and helping Merlin return to life. Created by Bill Catambay.
+#LOGOFF 160
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 159
+$C1Federation Library - Kiosk 004
+#PICT 128
+$C4EMR 2.0, predecessor to EMR 3.0, was released under the Marathon Infinity engine back in 2000.  It was a huge undertaking to port EMR from the M1 engine to the Infinity engine.  Our map editor of choice changed from Pfhorte to Forge.  
+
+EMR 2.0 brought new texture sets, new weapons, new sounds, and much more. This kiosk pays homage to those brave souls that participated in the production of EMR 2.0. 
+
+
+
+
+
+Bill Catambay
+EMR's Sworded Creator
+#INFORMATION
+$C4$B$U
+M A R A T H O N   I N F I N I T Y   C O N V E R S I O N$b$u
+
+A lot of new graphics were introduced in EMR 2.0, including new sprites, and the new Phaser weapon.  The following are the graphics contributors.
+$C0
+        $C5Richard Bushey       Candace Sherriff
+$C0        $C5Chris Ashton         Stephen Ritchie
+$C0        $C5Bill M Catambay      Claude Errera
+$C0        $C5Solomon Shorser      Tony Ritchie
+$C0        $C5Antonio de Llamas    Hamish Sanderson$C4
+#INFORMATION
+$C4$B$U
+M A R A T H O N   I N F I N I T Y   C O N V E R S I O N$b$u
+
+There were a number of key map makers who put in a lot of diligent work to port the original EMR 1.0 maps to the Marathon Infinity engine.  This effort includes re-texturing, adjusting sounds, enemies, and objects, and adding features to take advantage of Marathon Infinity features.
+$C0
+            $C5Bill M Catambay     Jason Parsons
+$C0            $C5Candace Sherriff    Michael O'Brien
+$C0            $C5Gareth Wood         Christopher Veres
+$C0            $C5STef Bondier        Dave Santoro
+$C0            $C5Jason Miller        Gabe Rosenkoetter
+$C0            $C5Richard Bushey      Gregory Bloom
+$C0            $C5Brendan Ebner       Neil Justusson
+$C0            $C5Tim Thomas          Ben Matasar
+$C0            $C5Eric Case           David Twist
+$C0            $C5Claude Errera$C4
+#INFORMATION
+$C4$B$U
+M A R A T H O N   I N F I N I T Y   C O N V E R S I O N$b$u
+
+In addition to map editing, many of the original terminal text was updated for Marathon Infinity.  The following were key players in updating those terminals.
+
+$C0            $C5Bill M Catambay
+$C0            $C5Michael O'Brien
+$C0            $C5Gregory Bloom
+$C0            $C5Christopher Veres
+$C0            $C5Candace Sherriff
+$C0            $C5Richard Bushey
+$C0            $C5Esther Bisset
+$C0            $C5Adam Weinstein
+$C0            $C5Claude Errera
+$C0            $C5Simon Rowland$C4
+#INFORMATION
+$C4$B$U
+M A R A T H O N   I N F I N I T Y   C O N V E R S I O N$b$u
+
+The following list constitutes the other key players and roles in the conversion of EMR 1.0 to EMR 2.0.
+
+$C5        Directed by              Bill M Catambay
+        Original Music by        James Bisset
+        Texture Factory by       Candace Sherriff
+ 
+        Title Screens by         Richard Bushey
+        Installer by             Charles Lechasseur
+        Terminal Graphics by     Richard Bushey
+  
+        Physics Models by        Bill M Catambay
+        Story Editor             Bill M Catambay
+ 
+        Sound Editors            Bill M Catambay
+                                 Christopher Veres
+#INFORMATION
+$C4$B$U
+M A R A T H O N   I N F I N I T Y   C O N V E R S I O N$b$u
+
+Finally, this list contains those who helped beta test EMR 2.0, paving the way for EMR 3.0.
+
+$C0        $C5Christopher Veres         Alex Feingold
+$C0        $C5Adam Weinstein            Michael O'Brien
+$C0        $C5Gareth Wood               Claude Errera
+$C0        $C5Solomon Shorser           Chris Casey
+$C0        $C5James Bisset              Aaron Davies
+$C0        $C5Antonio de Llamas         Brett Dixon
+$C0        $C5Candace Sherriff          Julie K Newsome
+$C0        $C5Bill M Catambay           Richard Bushey
+$C0        $C5Andrew Ramin              Hromada Nathan Ainsworth
+$C0        $C5Stephen Ritchie           STef Bondier
+$C0        $C5Charles Lechasseur        Jason Parsons
+$C0        $C5Lee Heida                 David Twist
+$C0        $C5Jamie White               Doug Black
+$C0        $C5Dale Critchley            T.J. Elliott$C4
+#LOGOFF 160
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 159
+$C1Federation Library - Kiosk 004
+#PICT 128
+$C4Although the focus of EMR was on the story line and integrated solo levels, EMR would not have been complete without its host of net maps.  During the production of EMR 2.0, local MMMGers would often be over my house to work on testing and improving our net maps, living off of M&M's and Root Beer, and thriving on carnage until the wee hours of the morning.   
+
+This kiosk depicts the EMR net maps and their creators.
+
+
+
+
+Bill Catambay
+EMR's Sworded Creator
+#PICT 131
+$C1
+$C4Da Bomb!! 
+$C5Original design by Jason Parsons, additions by Bill Catambay.
+
+$C4Dinosaur Teeth
+$C5Original design by Mark Conahan.
+
+$C4Lava Float Trip
+$C5Original design by Gabe Rosenkoetter.
+
+$C4Rock, Paper, Scissors
+$C5Added new for EMR 2.0, created by Bill Catambay.
+
+$C4Fire Pit
+$C5Added new for EMR 2.0, created by Bill Catambay.
+#PICT 131
+$C1
+$C4Raptor Pit
+$C5Added new for EMR 2.0, created by Bill Catambay.
+
+$C4Mordred's Gulch
+$C5Added new for EMR 3.0, created by Bill Catambay.
+
+$C4Camelot 66
+$C5Added new for EMR 2.0, created by Bill Catambay.
+
+$C4Food Fight!
+$C5Originally designed by John Vizcarra.
+
+$C4Castle Island
+$C5Originally designed by Eric Venet and Bill Catambay.
+#PICT 131
+$C1
+$C4Morgana's Arena
+$C5Originally designed by Bill Catambay.
+
+$C4Merlin's Arena
+$C5Originally designed by Bill Catambay.
+
+$C4Mauvair's Arena
+$C5Originally designed by Bill Catambay.
+
+$C4Knight Feud
+$C5Added new for EMR 2.0, created by Bill Catambay.
+
+$C4Jousting for Fun and Profit
+$C5Originally designed by Jason Parsons.
+
+$C4Drop In Anytime!
+$C5Originally designed by Mike Elness.
+#PICT 131
+$C1
+$C4Casa de Tortura
+$C5Added new for EMR 2.0, created by Bill Catambay.
+
+$C4Roof Rats
+$C5Originally designed by Bill Catambay.
+
+$C4City of Screaming Angels
+$C5Added new for EMR 2.0, created by Candace Sherriff.
+
+$C4Private Property
+$C5Originally designed by Mark Conahan.
+
+$C4Infinity
+$C5Originally designed by Ben Matasar.
+
+$C4Pedestrian Walkway
+$C5Originally designed by Gabe Rosenkoetter.
+#PICT 131
+$C1
+$C4Trunk Full of Funk
+$C5Originally designed by Eric Case.
+
+$C4Ice Palace
+$C5Added new for EMR 2.0, created by Bill Catambay.
+
+$C4Full Court Duress
+$C5Added new for EMR 3.0, created by Bill Catambay.
+
+$C4Berlin II
+$C5Added new for EMR 3.0, based upon a map by Battle Cat, and textured and revised for EMR by Bill Catambay.
+
+$C4Wizard 2258
+$C5Added new for EMR 3.0, created by Bill Catambay, based upon Halo's Wizard and the year of the Worldsoft coup.
+#LOGOFF 160
+#ENDTERMINAL 11
+;
+#TERMINAL 12
+#UNFINISHED
+#LOGON 159
+$C1Federation Library - Kiosk 005
+#PICT 161
+$C4
+EMR first hit the Marathon scene in 1997 when the MMMG released EMR 1.0.  Without this beginning, there probably would have never been an EMR 2 or EMR 3.
+
+This kiosk pays homage to the original EMR contributors.
+
+
+
+
+
+
+
+
+
+Bill Catambay
+EMR's Sworded Creator
+#INFORMATION
+$C4$B$U
+O R I G I N A L   E M R   C R E W$b$u
+
+Below is a list of the original EMR map makers.
+
+$C0 $C5     STef Bondier        Eric Case
+$C0 $C5     Bill Catambay       Mark Conahan
+$C0 $C5     Jeremy Dale         Robert Deininger
+$C0 $C5     Mike Elness         Greg Ewing
+$C0 $C5     Russel Fleming      Steve Juliana
+$C0 $C5     Neil Justusson      Evan Knop
+$C0 $C5     Michael Masinter    Ben Matasar
+$C0 $C5     Jeremy Parsons      Jason Parsons
+$C0 $C5     Gabe Rosenkoetter   Dave Santoro
+$C0 $C5     David Twist         Sriranga Veeraraghavan
+      Eric Venet          John Vizcarra
+      Steve Wilder$C4
+#INFORMATION
+$C4$B$U
+O R I G I N A L   E M R   C R E W$b$u
+
+Below is a list of the original EMR graphics contributors.
+
+$C0 $C5     Rik Asseily         STef Bondier
+$C0 $C5     Richard Bushey      Cory Bystrom
+$C0 $C5     Bill Catambay       Mark Conahan
+$C0 $C5     Jeremy Dale         Mason Gup
+$C0 $C5     Quanah S Harjo      Jason Parsons
+$C0 $C5     Stephen Ritchie     Tony Ritchie
+$C0 $C5     Avi Selk            Candace Sherriff
+$C0 $C5     David Twist         Chilton Webb
+$C0 $C5     Edmund Zavada$C4
+#INFORMATION
+$C4$B$U
+O R I G I N A L   E M R   C R E W$b$u
+
+Below is a list of the original EMR contributors for miscellaneous support.
+
+$C5      Directed by           Bill Catambay
+      Music by              James Bisset
+      Sounds by  
+         Rik Asseily        Bill Catambay
+         Jeremy Dale        Simon Rowland
+         Candace Sherriff   Bob Sinclair
+         David Twist
+      Physics               Bill Catambay
+                            Evan Knopp
+      Terminal Text         Bill Catambay
+                            Simon Rowland
+      French Text by        STef Bondier
+      Editor-in-Chief       Bill Catambay
+      EMR Installer         Charles Lechasseur
+#INFORMATION
+$C4$B$U
+O R I G I N A L   E M R   C R E W$b$u
+
+Below is a list of the original EMR beta testers.
+
+$C0 $C5      Evan Knop             Nigel Stanger 
+$C0 $C5      Jason Parsons         Phil Pandrus 
+$C0 $C5      Eric B Venet          Bill Catambay 
+$C0 $C5      Simon Rowland         Candace Sherriff 
+$C0 $C5      Claude Errera         John Wood 
+$C0 $C5      Cory                  Nick Lewis 
+$C0 $C5      Russel Fleming        John M. Vizcarra 
+$C0 $C5      Dan "Face"            Neil Justusson 
+$C0 $C5      Ed Zavada             Matt Liebhold 
+$C0 $C5      Michael O'Brien       Wendy Mortensen 
+$C0 $C5      Gabe Rosenkoetter     STef Bondier 
+$C0 $C5      Courtney Evans        James Bisset 
+$C0 $C5      Charles Lechasseur    David Twist 
+$C0 $C5      Jack Miller           Jeff Webb 
+$C0 $C5      Andreas Ronning       Daniel Wheland 
+$C0 $C5      Adrian Bourke
+#LOGOFF 160
+#ENDTERMINAL 12
+;
+#TERMINAL 13
+#UNFINISHED
+#LOGON 159
+$C1SECRET TERMINAL 0001-A
+#PICT 13602
+$C3Excalibur: Morgana's Revenge has been a true labor of love.  This scenario came together from persistent effort and countless late nights of laboring on maps, graphics, physics, sounds, music, Lua, and MML.  All the while, fighting countless limitations and bugs in the game editors.
+
+EMR has been quite a journey, from the early Marathon days when it was such a thrill to be able to create our own maps, through the Marathon Infinity days of Anvil and Forge, and up to the Aleph One engine with all of its cool new features.  What has always amazed me the most, however, is the tremendous amount of creative help generously offered from the Marathon community, from across the US to around the world.  The people involved in this scenario are awesome.
+#PICT 13603
+$C3James Bisset wrote several original scores for EMR, as well as the ambient music tracks.  The music scores include:
+
+$C1The Return - "Kirin's Lament"
+Shores of Camelot	- "Camelot Remix"
+I'll Be Lurking For You	- "Morgana Reprise" Spiders & Snakes - "Wishing Remix"
+Love of Mother - "Morgana's Lament"
+Down Under - "Morgana Dance Remix"
+Double Vision - "Future Chase Remix"
+
+$C3
+From his web biography:
+
+  $I "When I was younger, I would go 
+    into the hills at night and talk 
+    quite seriously to the moon, or 
+    write impossibly righteous songs 
+    which put the world to rights."
+#INFORMATION
+$C5$I
+Hello? Testing... Wun... Wun... Wun Choo... Wun Choo... OK?
+
+OK. Excuse me for interrupting - quiet in the horn section please -   
+this studio is costing an arm and a leg, we're over budget, we've still to record the final overture and that bloody fiddle player has gone missing! So, has anyone seen the annoying Scottish $%*^!? He was last seen chatting to a rather delightfully put together extra with a very short skirt and a very long bow.
+
+Can I have some volunteers to track him down please? Yes - the double bass, Fraser? OK. The percussion guy... yes you. Andy. Right. One more, OK the singer with the hair. Rory? Sorry - Ruaridh. Right, that's three of you. You've got ten minutes to find the bugger, grab him by his sound post and GET HIM BACK HERE!
+
+Red light in ten minutes everyone. Thank you.
+
+
+- James Bisset, Manchester, United Kingdom
+  $Uhttp://jamesbisset.com/$u
+#PICT 13604
+$C4$INever say never.  Don't ever say no to a reasonable invitation to do something that might be fun. 
+
+The greatest enjoyment I had playing Marathon was the unfolding story that revealed itself starting in Marathon 1, continuing throughout M2 and left open in M3... and seeing the game really explode visually with the amazing artwork by Craig Mullins, that stoked my desire to explore that world with the tools that were released with Marathon Infinity.
+
+Many thanks to those folks that inspired me to stick it out and add to the expanding universe. I hope you share that excitement with our adventure.
+
+ - Rich Bushey
+#PICT 13609
+
+
+$C6$I"Does anyone besides me find translucent lava ... odd?  And have I complained enough about the brick ceilings?"
+
+  $C3 - Glen Ditchfield
+     Beta Tester, Nit Inspector
+
+$C6
+"Lorak, the audio chat's broken again."
+   $C3- :sigma.SB
+     Solra Bizna, Lua functions
+
+$C6"I hope you enjoyed the game as much as we did creating it."$C3
+   - Robert Stevers, Windows Installer
+$C6
+"They who wait (and watch) also serve." 
+$C3   - Jesse Giles, Jacksonville Tester$C6
+#PICT 13608
+$C4$I
+Imbria looked at me, seeing what I was doing, and laughed.
+
+"Is there a single one of those glowing boxes on which you haven't placed the record of that brave knight's adventure with Merlin and Morgana?"
+
+I replied with a smile, "I was privileged and proud to be part of the team that recorded that tale. Besides, my job is to repair and improve these people's machines, and placing EMR upon them is always an improvement!"
+
+  -- from a true story
+
+Michael O'Brien, writer, designer, beta-tester, and procrastinator
+#PICT 13610
+#PICT 13606
+#PICT 13607
+$C4$IIn this adventure, no doubt you've seen majestic sceneries, fought scary adversaries, evaded devious traps, listened to soothing or edgy music and read intricate pieces of storylines.  Many people contributed their artistic, literary or architectural talents to this effort.
+
+No matter how hard I try, my sceneries are never majestic, my monsters never scary, my traps never devious, and my music never soothing.  However, I did write programs and tools to empower those with talents and to enable them to create even bolder adventures like EMR. 
+
+To every wizard his wand.  And they all need a wandmaker.
+
+- Charles Lechasseur, software developer 
+  and part-time wandmaker
+#PICT 13605
+#LOGOFF 160
+#ENDTERMINAL 13

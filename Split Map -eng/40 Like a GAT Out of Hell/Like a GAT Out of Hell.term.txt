@@ -1,0 +1,242 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 141
+#PICT 13402
+$C1Harley-Davidson Motor Company
+Model XT1200
+"The Best Ride in Town!"
+
+$C4Thank you for choosing Harley-Davidson for your hovercraft needs.  The XT1200 hoverbike has an airspeed of over 150 mph before loading, a flight ceiling of 20 feet, and gets 230 mpg.  Its distinctive styling and unsurpassed engineering are legendary.  And the XT1200 is highly customizable.  So try one of our aftermarket kits, like the popular racing package, or the military package complete with armored chassis, minigun, and dual grenade launchers.  Whether hoverbiking is your job or just a hobby, we're confident that the XT1200 can satisfy your needs for years to come.
+
+$C1*** NEXT: Navigation
+#LOGOFF 142
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 141
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0This is a small garage specializing in hovercraft repair and maintenance.  It was assimilated by the WorldSoft corporation long ago, but according to records, the owner was never entirely cooperative with his new superiors.
+
+By patching into passive sensors around the WorldSoft campus, I've been able to confirm that the self-destruct system is fully armed and operational.  You have successfully activated the uplink to the detonation controls, you have deactivated the security lockout, you have activated the self-destruct primary control, and you have left the troops within the headquarters in complete disarray.  Job well done.
+
+The chaos inflicted within Morgana's headquarters is soon to be dwarfed by the total annihilation of the building.  
+
+There is just one slight problem.
+#INFORMATION
+Although the self-destruct on Morgana's HQ building has been activated, the timer mechanism cannot be trusted.  The timer signal readings from the passive sensors are fluctuating.  The self-destruct system is aged and has not been maintained, so the possibility of mechanical failure must be considered.  
+
+You have already done most of the work.  However, in order to ensure the timer activates, I must attempt an override connection to the timer.  By re-routing network packets from the security channel to this garage, I should be able to establish a secured link to the destruct timer.  The timer remote link will be networked by a secured radio frequency to a Harley Davidson XT1200 Hoverbike parked in this garage.  This will allow us to monitor the timer, and if need be, override the timer to detonate the charges.  It is likely that once the network packets are re-routed, however, I will no longer be able to communicate with you.  
+
+Once the timer is activated, you must get as far away as possible.  Use the hoverbike to make good your escape.  South of this district is a highway you can take all the way to your next destination: the GAT manufacturing plants.
+#CHECKPOINT 3
+Sensor scans indicate that escaping may not be so easy.  A containment forcefield has been put up all around the city to limit the blast radius of the explosion.  It also cuts off access to the highway as well as any other safe area.
+
+When the new Hooke, Lyne, and Zincre law office building south of here was constructed, the aging containment forcefield wasn't updated to accommodate it.  The forcefield is not penetrating the walls on the 6th floor, which makes it your best chance of escape.
+
+We don't have time to defeat security measures in that building, and I suspect the hoverbike would get stuck even if you could get in the ground floor.  You will have to crash through the 6th floor windows and exit through the other side.
+#CHECKPOINT 1
+
+My concern with this approach is achieving sufficient height.  The hoverbike has a limited flight ceiling, and will top out at about 3 stories from street level.  The warehouse shown here has a slanted roof.  If you can get onto the warehouse, you should be able to glide across onto the next building.  From there you will have to plot a path from rooftop to rooftop to reach the office building.  Crossing the gaps between buildings will require carefully timed application of lift, followed by forward thrust.
+
+By my best calculations, the XT1200 may not provide enough lift to reach the 6th floor, even jumping from the roof of the recycling center across the street.  
+
+Give me a moment...
+#CHECKPOINT 2
+Interesting.  The recycling center utilizes a high-capacity ventilation system.  Perhaps it would be worth searching the building's interior to activate the ventilation fans.  Using the fans could provide the last boost you need to complete your escape.
+
+When you're ready, press RETURN and I will trigger the timer countdown and open the door to the hoverbike.  Once the timer starts, this terminal and the adjacent pattern buffer will deactivate, so if you have yet to use the latter, exit this terminal now to do so.  I have taken the other terminals in this garage off the network, so they should stay intact.
+
+   $C1RETURN...$C0 $C2Activate Destruct Timer$C0
+   $C1ESC......$C0 $C2Exit Terminal, Delay Timer
+#TAG 2
+#INFORMATION
+$C1
+
+$C0Access the garage electronic documentation system for further details on Hoverbike technology and navigational controls.  This communications terminal will soon deactivate, so I have also updated the documentation to reflect your mission.  Allow some time for these updates to upload to the main system.  As soon as the upload is completed, these should show up as insertion notes in the hoverbike documentation.  
+
+
+The timer has been activated, and the Santa Rinascita communication network is shutting down.  If you escape with time to spare, you may trigger the explosion early from the hoverbike.  Remember to  $C5Lq$C0     $C1#pr   $C0ugh s $C3s$C0 s      ute a $C1:45$C0erb$Boos$bt        h     a      $C3\$C0ldi          $C1s$Ieg$imen$C3ta$C0       ble                   $C5*$C0
+             m   $C5{[$C1[x56A$C0                    $C3tion$C0 nng$C5.7.326.84$C0
+    $C3FF$C0
+#LOGOFF 10200
+$C5Err    $C1/$C5e$C0TWO$C5  $C1$#$C3nne$C5cti   $C0~~:
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 141
+#INFORMATION
+$C1Harley-Davidson Motor Company
+Model XT1200
+Operations Manual
+
+$C4$B$UNavigation$b$u
+The XT1200 utilizes two drive systems: thrusters that provide forward and reverse acceleration, and a hover pad that independently provides upward lift.
+
+    $C5[forward-key]  --  Forward acceleration
+    [backward-key] --  Backward acceleration
+    [swim-key]     --  Upward thrust
+$C4
+Release the upward thrust key to lower the bike's hover height.
+Use the standard navigation keys to turn left and right. 
+The XT1200 hoverbike's drive systems do not allow for side-to-side movement, nor explicit braking.
+
+The XT1200 hoverbike is capable of a maximum forward speed of 150 MPH, and a maximum reverse speed of 90 MPH.  Maximum hover height is relative to the surface under the vehicle, and ranges from 10 to 30 feet.
+#INFORMATION
+$C1Harley-Davidson Motor Company
+Model XT1200
+Operations Manual
+
+$C4$B$UWeapons$b$u
+The XT1200 is equipped with two weapon systems.  A rapid-fire machine gun provides primary suppressive fire.  This is supported by two 40mm grenade launchers, which fire rounds in pairs.
+
+    $C5[primary-weapon-key]   --  Machine gun fire
+
+    [secondary-weapon-key] --  Assault grenades
+$C4
+
+
+
+$C1<< Document Page Command: %JUMP "APPENDIX" >>
+#INFORMATION
+$C1Harley-Davidson Motor Company
+Model XT1200
+Operations Manual
+
+$C4$B$UAppendix A: Hoverbike Repairs$b$u
+Your XT1200 was built at one of the Harley-Davidson plants using a patented nano-technology assembly line process.  Tiny particles called nanites do everything from reinforcing the integrity of the metal frame to making the paint job spotless.
+
+Nano-technology is also employed at all accredited Harley-Davidson garages.  We sell booth-style repair cells filled with nanites that can perform diagnostics and enact repairs on even the most damaged vehicles.  Pilot a damaged XT1200 Hoverbike into a garage repair cell, and millions of nanites begin repairing the unit automatically.  You never even have to leave the hoverbike!
+
+$C2NOTE: Repair nanites are dangerous to those with synthetic implants, such as titanium heart pumps.  For owners with synthetic implants, please disembark the hovercraft before engaging in nano-repair.
+#INFORMATION
+$C1
+** INTERRUPT **
+
+** UPLINK IN PROGRESS **
+
+The documentation system is currently being updated.  
+Please try again later.
+#LOGOFF 142
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 141
+#INFORMATION
+$C1XTREME SPORTZ Magazine
+$C6Archive: April 2273$C1
+
+$UCATCHING AIRWAVES$u
+$C4Our Interview with Professional Hoversurfer Lance Feinman
+
+It didn't take long for the motorcycle sport community to adopt hoverbikes, and the sport popularly known as hoversurfing is here to stay.  Enthusiasts gathered unorganized races and challenges before the formation of the National Competitive Hoversurfing League 13 years ago.  This month we interviewed three-time NCHL champion Lance Feinman about what's hot in this extreme sport.
+$C1
+XS: $C4$ILance, you've been one of the most successful hoversurfers of all time and helped pioneer the techniques seen today.  What's the biggest thrill for you?$C1$i
+
+LF: $C5$IWell, screaming down the speedway at a hundred fifty is pretty righteous, but what gives me the big rush is scoring major air, seeing how big a jump I can make.  There's nothing like launching your bike straight over a gaping river bed or chasm.$C1$i
+#INFORMATION
+$C1XS: $C4$IFor sure, lots of fans love hoversurfing off-road.  We've also been hearing a lot recently about the variant style performed in urban settings.$C1$i
+
+LF: $C5$IYeah, a lot of guys I know have been 'surfing up on top of buildings.  The principles are pretty much the same:  you back up far enough to build up speed, then lift up as high as you can and hit the gas.  Even amateurs are crossing, you know, normal downtown streets, jumping across the rooftops on their bikes.  It's actually pretty safe because the bike cushions you if you fall, but it's still illegal almost everywhere.$C1$i
+
+XS: $C4$IAt last year's tournament, Tim Fosberry surprised us all with a new technique.$C1  
+$i
+LF: $C5$IYeah, I remember watching that.  I was thinking, dude, why didn't I think of that! (laughs)  That tournament was set up downtown.  All Tim did was, he found this warehouse that had this slanted roof.  He could get his bike up to the lowest part of the roof, and shoot up the side, using it like a ramp.  He jumped across the street and landed on the first checkpoint on the other side. The rest of the 'surfers were
+#INFORMATION
+$C5$Itopping out their bikes, trying to get up on that building just from the ground.  He almost stole the tournament with that trick.$C1
+$i
+XS: $C4$ISo do you have any tricks up your sleeve?  Can you take the sport to the next level?$C1$i
+
+LF: $C5$II probably shouldn't share this with everybody, but I've been experimenting with a little something back home in Nevada.  There are these natural air vents that'll spew out gas with a lot of force.  The smell is pretty gnarly, but if you can fly over a vent as it's going off, it can push you even higher than you could otherwise.  I'm thinking you could do the same in an urban 'surfing match, if you could find a building with big blowers on the roof.  Y'know, like a radical air conditioner system or something.$C1$i
+
+XS: $C4$ILance, you sure know how to please a crowd.  Good luck at the Miami invitational coming up.$C1$i
+
+LF: $C5$IThanks!$C1$i
+
+
+<< END OF INTERVIEW >>
+#LOGOFF 142
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 141
+#INFORMATION
+$C1Harley-Davidson Motor Company
+Model XT1200
+Operations Manual
+
+$C4$B$UNavigation$b$u
+The XT1200 utilizes two drive systems: thrusters that provide forward and reverse acceleration, and a hover pad that independently provides upward lift.
+
+    $C5[forward-key]  --  Forward acceleration
+    [backward-key] --  Backward acceleration
+    [swim-key]     --  Upward thrust
+$C4
+Release the upward thrust key to lower the bike's hover height.
+Use the standard navigation keys to turn left and right. 
+The XT1200 hoverbike's drive systems do not allow for side-to-side movement, nor explicit braking.
+
+The XT1200 hoverbike is capable of a maximum forward speed of 150 MPH, and a maximum reverse speed of 90 MPH.  Maximum hover height is relative to the surface under the vehicle, and ranges from 10 to 30 feet.
+#INFORMATION
+$C1Harley-Davidson Motor Company
+Model XT1200
+Operations Manual
+
+$C4$B$UWeapons$b$u
+The XT1200 is equipped with two weapon systems.  A rapid-fire machine gun provides primary suppressive fire.  This is supported by two 40mm grenade launchers, which fire rounds in pairs.
+
+    $C5[primary-weapon-key]   --  Machine gun fire
+
+    [secondary-weapon-key] --  Assault grenades
+$C4
+
+
+
+$C1<< Document Page Command: %JUMP "APPENDIX" >>
+#INFORMATION
+$C1Harley-Davidson Motor Company
+Model XT1200
+Operations Manual
+
+$C4$B$UAppendix A: Hoverbike Repairs$b$u
+Your XT1200 was built at one of the Harley-Davidson plants using a patented nano-technology assembly line process.  Tiny particles called nanites do everything from reinforcing the integrity of the metal frame to making the paint job spotless.
+
+Nano-technology is also employed at all accredited Harley-Davidson garages.  We sell booth-style repair cells filled with nanites that can perform diagnostics and enact repairs on even the most damaged vehicles.  Pilot a damaged XT1200 Hoverbike into a garage repair cell, and millions of nanites begin repairing the unit automatically.  You never even have to leave the hoverbike!
+
+$C2NOTE: Repair nanites are dangerous to those with synthetic implants, such as titanium heart pumps.  For owners with synthetic implants, please disembark the hovercraft before engaging in nano-repair.
+#CHECKPOINT 1
+$C1Harley-Davidson Motor Company
+Model XT1200
+Operations Manual
+
+$C4$B$UAppendix B - Roof Jumping$b$u
+If you are unable to reach a desired roof height, you can surpass idle hover thrust by building momentum from a ramped area that starts at a reachable height. 
+
+$C1[$IInsertion-Note-Merlin.203.192$i]
+$C4
+$C5$UExample 1:
+$uNavigate the hoverbike to the lower roof edge of the WorldSoft Warehouse, and use forward thrust to gain momentum up to the top of the roof.  By establishing momentum, the hoverbike can fly up to the roof of the adjacent building.
+$C4
+$C1[$IEnd-Insertion-Note$i]
+#CHECKPOINT 3
+$C1Harley-Davidson Motor Company
+Model XT1200
+Operations Manual
+
+$C4$B$UAppendix C - Alternative Roof Jumping$b$u
+If there are no physical structures available to build momentum to reach a desired roof height, you should consider utilizing external boost aids. 
+
+$C1[$IInsertion-Note-Merlin.934.182$i]
+$C4
+$C5$UExample 2:
+$uTo reach the 6th floor of Hooke, Lyne, and Zincre law offices, first activate the roof blowers of the WorldSoft Recycling Center.  Then gain access to the Recycling Center roof, and jump across the blowers towards the law offices.  
+
+$C1[$IEnd-Insertion-Note$i]
+#LOGOFF 142
+#ENDTERMINAL 4

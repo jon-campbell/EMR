@@ -1,0 +1,61 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #490>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Deep in the Dark Forest lurk the soldiers and archers of Morgana's legions.  Your task is to clear the forest of as many of these creatures as you can.  You must first decode the maze of switches which will eventually unlock the gate leading across the chasm.  Locate the archers' stronghold on the other side.  There you must be quick and smart in battle, otherwise you will be perforated by an onslaught of arrows.  
+
+Locate the other future pod when you are done, and I will brief you on the progress I am making with the sorcerers' guild.  Our talks are going well, and discussions of old times are reviving their spirits.  More on that later...
+#CHECKPOINT 0
+
+
+
+
+
+
+          You are currently located here.
+#CHECKPOINT 1
+
+
+Morgana has devised a complex puzzle of switches to activate in order to cross the chasm and gain access to the strongholds in this area.  The only piece of the puzzle I am able to detect is that the hidden switch located here opens the door in the cross-bridge directly above it.  There must be other switches which reveal the hidden switch.  I'm relying on you to find them.
+#CHECKPOINT 2
+
+
+
+
+
+     The other future pod is located here.
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #457>
+#PICT 11500
+$C1*** LIBRARY ACCESS ***$C0
+
+$C4SEARCH STRING:$C0 $C2HEALING 8392819$C0
+
+$C1Searching..........$C0
+
+$C4Article Title: $C1CLERIC ALTAR OF HEALING$C0
+
+$C4Very little is known about these altars, except that the Cleric's power for healing is unmatched by any known science or medicine.  It is theorized that the Clerics used the special properties of the crystalline waters to expedite the healing process.  What makes up these properties is unknown.
+
+$C0
+
+$C1** END OF LIBRARY ENTRY **$C0
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+While you were in battle, a secret meeting of the sorcerers' guild was held.  The sorcerers have been impressed by your courage in battle and are convinced that you are both true of heart and worthy of knighthood.  There is a horde of evil sorcerers who have intimidated them into following Morgana.  They have agreed to break away from her if you can seek out and end the reign of these false sorcerers.
+
+Before taking on the evil sorcerers, you must win back the castle belonging to the sorcerers' guild.  It has been overtaken by more of Morgana's archers and soldiers.  I also have received reports of master clerics working for Morgana.  Once in battle, these clerics will maintain the health of your enemies, making them seem invincible.  It is wise to seek out the clerics first and destroy them before the strength of your enemy becomes too great to overcome.  
+
+To complete your mission here, flip the switch behind you to gain access to the archers' temple.  There is a teleportation beacon in the center of the temple.  From there you will be teleported to the Enchanted Forest.
+#LOGOFF 132
+#ENDTERMINAL 1

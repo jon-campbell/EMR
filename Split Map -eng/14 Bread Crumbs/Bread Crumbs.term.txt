@@ -1,0 +1,185 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 137
+#PICT 11400
+
+$C3Ceridwen Speaks
+
+
+I see you decided to take another nap.  Good thing, too.  You will awake far stronger than when you chose to sleep. 
+I have much to share with you. 
+
+
+This is a very strange reality. The Creature says it is from your subconscious, but I think it is his creation.
+
+To find my secrets and learn the sacred knowledge, 
+
+     Follow the path.
+
+     Follow the arrows.
+#PICT 11405
+
+
+$C3Find Laboratory XV. There is a Ranger here who may be able to help you find your way.
+#LOGOFF 137
+#END
+#FINISHED
+#LOGON 137
+#PICT 136
+
+
+$C4$UMerlin Speaks$u
+
+You must wake up. I need you now.  Morgana's troops are on the move. 
+$I
+$iThe Evil Archers of the Dark Forest are preparing an all-out assault on Camelot.  
+
+
+
+YOU MUST WAKE UP NOW!
+#LOGOFF 137
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 137
+#PICT 11404
+
+$C3Do you not think that sometimes you know what is about to happen?
+
+Do you not see Morgana as she plots your demise?
+
+Do you not know the ultimate outcome?
+
+Hold Excalibur high above your head, close your eyes and you will see, it will all come to pass, it will all be.
+#PICT 11406
+
+
+$C3Seek the green crystals of time, 
+     Burning with fire.
+
+
+
+And this time, stay away from the fish.
+#LOGOFF 137
+#END
+#FINISHED
+#LOGON 137
+#PICT 136
+
+
+$C4$UMerlin Speaks$u
+
+You must wake up. I need you now.  Morgana's troops are on the move. 
+$I
+$iThe Evil Archers of the Dark Forest are preparing an all-out assault on Camelot.  
+
+
+
+YOU MUST WAKE UP NOW!
+#LOGOFF 137
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 137
+#CHECKPOINT 0
+
+
+
+
+
+
+$C3While you were off following your dreams, I  created a magical spell to help protect you in your battle with Morgana. 
+
+
+Find this place.
+
+
+
+The spell and potions will make you feel disoriented and perhaps a little dizzy, so be extremely careful.
+#LOGOFF 137
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 137
+#PICT 11403
+
+
+$C1$UThe Creature speaks:$u
+
+
+I have left a little gift for you too.
+
+In the pump house pool.
+
+
+
+
+
+$C3I would be very wary of any gifts that the Creature comes bearing.
+#PICT 229
+
+
+$C3 
+
+Merlin would not have chosen you for this task had he not thought you possessed at least a bit of The Sight. With training you will be able to see beyond this time and place. Or perhaps just dream beyond this time. 
+
+Look into the crystals. They may give you visions of things to come.
+#LOGOFF 137
+#END
+#FINISHED
+#LOGON 137
+#PICT 136
+
+
+$C4$UMerlin Speaks$u
+
+You must wake up. I need you now.  Morgana's troops are on the move. 
+$I
+$iThe Evil Archers of the Dark Forest are preparing an all-out assault on Camelot.  
+
+
+
+YOU MUST WAKE UP NOW!
+#LOGOFF 137
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 137
+#INFORMATION
+
+$C4$UMerlin speaks:$u
+
+The dreamer's time is not now to awake.
+
+Seek out Ceridwen's wisdom, she will help you in our battle 
+with the the Evil that is Morgana.
+
+
+She has magic to protect both of us. You must learn.$C3
+#LOGOFF 137
+#END
+#FINISHED
+#LOGON 137
+#PICT 136
+
+
+$C4$UMerlin Speaks$u
+
+Finally you stir!  I was beginning to wonder if you would ever wake up.  
+$I
+$iIt is now time to confront the Evil Archers of the Dark Forest.  Prepare to be transported there now.  
+
+$B
+
+
+$C7- TELEPORTATION SEQUENCER -
+$C1$bDestination Code: Dark Forest
+Pod Coordinates: 54,4E <54.70>
+$C7$B*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 15
+#ENDTERMINAL 4

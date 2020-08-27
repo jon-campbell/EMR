@@ -1,0 +1,174 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Remote Beacon #23>
+#PICT 12600
+$C1SIGNAL INTERCEPT FROM MERLIN...
+$C0
+Here, in the highest tower of the castle, lurk Mordred and his private guards.  He has chosen the fastest, strongest, and meanest of all Morgana's minions to keep unwanted visitors from approaching.
+
+The Dark Archers of Death move like lightning as they hack their victims to shreds.  Shadow Warlocks, who guard the lava stairway, will suck the life energy out of your soul, and then finish you off with one swift stab to your heart.
+
+Only rumors tell of the horrors of Mordred's Henchmen, the most treacherous dark knights ever to walk the Earth.  Never has a man encountered these knights and survived.
+#PICT 136
+
+
+These are the darkest creatures in the land, all willing to spill their blood to protect their master, Mordred, son to Morgana.  Tread carefully through the castle corridors, for the walls have eyes.  Mordred is surely expecting you.
+
+The towers also ward off the incantation of the Giant Stomp.  However, there is a wand chamber located in the towers for supercharging the spell of Fire and Ice.  
+
+Look for the crystals.  The crystals mark the way!
+
+
+$C1Merlin out...
+#LOGOFF 132
+$C1Remote Disconnect...
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 147
+#PICT 146
+$C6$B
+
+What scoundrel dares to enter the 
+domain of Mordred!?!  I will see 
+you in hell before you leave this 
+place alive!
+
+
+You are lost, without a clue!  
+
+You have amused me greatly, but it 
+will soon be time to end our game.
+Come forth and meet your fate.  
+
+I shall make all preparations for 
+your visit.  You need only prepare 
+for death!
+
+ 
+                $I- Mordred$i
+#LOGOFF 147
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 135
+$C1<Remote Beacon #78>
+#PICT 136
+$C1SIGNAL INTERCEPT FROM MERLIN...
+
+$C0You have discovered Mordred's secret domain.  It appears, however, that he has lured you here on purpose.  Morgana's visits to the future have added technology to Mordred's lair, including these communications devices.  Mordred has followed your every step, so there is no telling what treachery he has in store for you. The Holy Grail is near.  This is the very grail for which so many Quest Knights have given their lives in seeking.  To free the Holy Grail, you must kill Mordred.  
+
+Remember that Mordred is immune to modern weaponry and most magic.  Only the power of Excalibur will win you victory.  
+
+If you are successful in defeating Mordred, then search the area for the Grail.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Remote Beacon #78>
+#PICT 136
+$C1
+SIGNAL INTERCEPT FROM MERLIN...
+
+$C0You have accomplished a vital task!  Mordred and his guardians have been destroyed!  
+
+The Holy Grail is locked up in Mordred's quarters located within a nearby lava cavern.  Once the Holy Grail has been freed, this battle-scarred land can finally begin to heal!
+
+I have successfully connected to Mordred's network, and have detected a portal terminal located in his quarters. Free the Grail, and then access the terminal for further instructions.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 147
+$C4$BMemoirs
+#INFORMATION
+$C4$B$IMemoirs of Mordred$i
+
+As I lay awake at night, fire burns through my blood.  I have learned to thrive upon the agony with which I am eternally inflicted.  From my pain, I draw strength and power.  From my nightmares, I chart my destiny, and the destiny of mankind.
+
+In my gold-plated armor, I stand invincible.  Just as my dear mother has enchanted my armor with her powers, I shall honor her love by seizing a kingdom.  Those who dare stand against us shall surely perish by the hell-fire of my rage.  Their souls I will own, and their lives I shall extinguish.
+
+The riches of the land are to be mine, and mine alone.  Men shall bow to me, and serve me.  Or they shall die under my sword.  My wishes will be the rule of the land, and temples of darkness will be man's religion.  To this I dedicate my soul, and my blood.  
+
+For the love of mother.
+#LOGOFF 147
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 135
+$C1<Station #9843>
+#INFORMATION
+$C1
+INCOMING MESSAGE FROM MERLIN...
+
+$C0Mordred is defeated!  
+
+However, you must eradicate all his guardian forces before moving on.  I can still detect evil lurking in the shadows of Mordred's lair.  Now that Mordred's defenses are down, I can help in your search by doing an area scan.  Your radar will now depict the direction of enemy forces when they are near.  
+
+I have opened up a new entrance to Mordred's secret domain.  You may use this entrance to return here after eradicating the remaining evil in Mordred's tower.  Hunt down and destroy those still alive.  Return here only after your sword has tasted the blood of them all.
+
+
+Prepare to be teleported...
+#TAG 3
+#INTRALEVEL TELEPORT 312
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #9843>
+#INFORMATION
+$C1
+INCOMING MESSAGE FROM MERLIN...
+
+$C0You have restored peace to the land.  There is no measure of the greatness of this accomplishment.  As critical as it is, however, it is only a crossroad on the intricate path of your mission.  You have done a great thing for mankind, but you have also agitated an already fiery power in the kingdom of darkness.  Morgana will be hellbent on revenge.  Her actions will not begin nor end with your blood, but will include massacre upon massacre of innocent people.  Her rage will devour an entire generation if you do not stop her soon.
+
+It is urgent that you return to Kronos.  Morgana has fled the Camelot time period, and returned to the future.  Your first task at hand is to prevent Kronos from falling under Morgana's power.  A Federation fleet has successfully reached Kronos.  With these reinforcements, you should be able to rescue the ship.
+#INFORMATION
+
+
+
+
+
+
+Prepare for transport...
+$C1
+
+
+
+
+
+
+
+$C7- TELEPORTATION SEQUENCER -
+$C1Destination Code: Kronos
+Coordinates: 04,74 <0.192>
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 27
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 135
+$C1<Remote Beacon #81>
+#PICT 136
+$C1SIGNAL INTERCEPT FROM MERLIN...
+$C0
+You have discovered Mordred's crystal supercharger room for increasing the strength of Morgana's spells.  We can use this room to our advantage.  
+
+This chamber can sharpen the focus on the Staff of Fire and Ice.  The enchantment crystals increase the accuracy of the wand's projectiles, and both the ice shards and fireballs are now fired in threes.
+
+As before, your knowledge of magic must increase in order to build new staffs. Step in the mouth and use your remaining magic scrolls to fortify your arsenal.
+
+
+$C1Merlin out...
+#TAG 2
+#LOGOFF 132
+#ENDTERMINAL 5

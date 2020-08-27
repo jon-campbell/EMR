@@ -1,0 +1,469 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #3001>
+#INFORMATION
+$C1$B
+
+*** BREACH DETECTED ***$C0$b
+
+$C1- Signal Interrupted -
+$C0
+
+$C5Rebooting... 1...2...3...4...
+
+Validating Node[SINIESTRA]...
+
+Establishing HPN Protocol...
+
+
+
+
+
+$C2
+$C5Reconnecting...
+#PICT 129
+$C2So you thought you might track me down on my own ship. A contemptible show of arrogance which you will soon regret!  
+This pathetic heap of metal which Merlin has implanted in my ship will be destroyed, right along with you.  If my troops do not finish you off, it will be my pleasure to crush you myself. Tell your computerized sidekick that he will never be freed from my spell.  Never!  
+
+Pretty yourself up, for soon your head shall be displayed on a platter for all to see. A lesson for those who dare contemplate undermining my efforts to secure a better and stronger universe. The rest of your mangled body shall be desecrated for your acts against my son.  Don't worry about Merlin... I'll be sure to transmit the message of your demise. 
+                         $I - Morgana$i
+#LOGOFF 132
+$C1** NODE [SINIESTRA] OFF-LINE **
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #3001>
+#PICT 138
+$C1
+INCOMING MESSAGE FROM MERLIN...
+
+$C0It is inconceivable how you managed to accomplish it, but you have cleared Jahala and the Reina Siniestra without shutting down the Power Grid.
+
+You must shut down the Jahala Power Grid to ensure that no further GAT production occurs before a clean-up mission is performed on the city.  Return here when you are done.
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 152
+$C6Jahala Office Suites
+#PICT 13402
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+The streets of Jahala are covered with Morgana's troops!  It is much worse than I feared.  
+
+I am attempting to teleport some Brigade Androids down to help you.  Many have already been sent to the Reina Siniestra, but I believe there are a few troops to spare for the battle in Jahala.  The Androids are Fighter class, and a decent ally, but don't expect miracles from them.  
+
+They will be teleported into the outskirts of town, and Dragon Helicopters will be used to transport the Fighters to the battle.
+#PICT 13405
+#INFORMATION
+
+
+The situation here in Jahala is very grim.  
+
+I do not know exactly where Morgana is hiding out, but I do know she is in the city.  
+
+Further, sensors indicate another powerful energy source in Jahala, yet separate from Morgana's.  
+
+I have not seen readings such as these since...
+
+...since our visit to Mauvair's Tower?  
+
+You did kill Mauvair, didn't you?
+
+
+
+$C1Merlin out...
+#LOGOFF 153
+#END
+#FINISHED
+#LOGON 152
+$C6Jahala Office Suites
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+I cannot conceive of how you cleared Jahala without first shutting down the power grid!  Who is the sorcerer here?  I am not so sure anymore...
+
+In any case, you must still shut down the Jahala power grid before moving on.
+
+
+$C1Merlin out...
+#LOGOFF 153
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 150
+#PICT 13401
+#LOGOFF 151
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 135
+$C1$B<Station #3001>
+#PICT 13402
+$C1$B
+$bINCOMING MESSAGE FROM MERLIN...
+
+$C0Nice job on shutting down the Jahala power grid.  Without primary power, Morgana is effectively disabled from further GAT production or repair work.
+
+Unfortunately, there are still signs of enemy activity.  You must completely clear both Jahala and the Reina Siniestra.  Scour the area and eliminate all signs of enemy activity, including those blasted laser turrets guarding Forensic Heights, Morgana's meeting site.  
+
+Return to this pod upon completion.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #3001>
+#PICT 138
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+My friend, you have done it.  Morgana and her minions have been wiped out. The galaxy is safe from Morgana's evil plans, and I can now return you back to your own time.
+
+It has been a pleasure to serve with you.  Not since Arthur's rise to kingship have I been so moved by such chivalry and bravery. You are the truest of Federation Knights.   
+
+The hour is upon us when I must bid you farewell, for when you destroyed Morgana, the spell she had placed on me so many years ago was finally broken.  Soon I will activate the materialization protocol, return to my own time, and begin the process of returning to the flesh.
+#INFORMATION
+
+I will soon return to Camelot, to the Sorcerers' Guild, to the place from whence I came.  But before I take my leave, let us properly prepare the Reina Siniestra for the arrival of the Federation troops. 
+
+To secure the ship, I have attempted to issue the C82-411J2 lock-down command.  Unfortunately, I was unsuccessful in my attempt to issue the command internally.  There is an enigma in the system, an unusual security program that intercepted my request.  You will need to issue the lock-down manually from the Security Bridge.
+
+I have provided you access to the Security Bridge.  Go there now to issue the lock-down.  The lock-down will secure the Reina Siniestra until Federation troops arrive.  Once secure, return to this pod for teleportation back to Kronos.
+
+
+
+$C1Merlin out...
+#TAG 3
+#LOGOFF 132
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 152
+$C6Jahala Office Suites
+#PICT 13402
+$C1$B
+$bINCOMING MESSAGE FROM MERLIN...
+
+$C0The Jahala power grid has been shut down, effectively disabling the expansion of Morgana's armored troopers.  
+
+However, there are still signs of enemy activity from existing forces.  You need to clear both Jahala and the Reina Siniestra of all enemy forces.  Scour the area and eliminate all signs of suspicious activity.  Don't forget to take out those blasted laser turrets guarding Forensic Heights.  
+
+Only when all traces of Morgana's evil are wiped out can we claim victory.
+
+
+
+$C1Merlin out...
+#LOGOFF 153
+#END
+#FINISHED
+#LOGON 152
+$C6Jahala Office Suites
+#PICT 138
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+Mauvair must have survived your earlier attacks.  This time, however, there is no doubt that both Morgana and Mauvair have been destroyed.  Brilliant work!  Jahala and the Reina Siniestra have been cleared of all Morgana's minions.  
+
+Your mission in Jahala is completed.  Your last task is to secure the Reina Siniestra so that the Federation may study Morgana's technologies. Return to the Reina Siniestra, and once she is secure, I will transport you back to Kronos.
+
+
+$C1Merlin out...
+#INTRALEVEL TELEPORT 6
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#PICT 13403
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+At long last!  The spell that Morgana tricked me into sharing so long ago.  The very spell that she used against me, imprisoning me, turning my flesh to ice.  
+
+I had almost forgotten the words.
+
+Knight of Kronos, take heed of these words, as they make up the most powerful chant of sorcery.  It is the language of sorcery, and only in that language doth the words carry its power.  Harmless in your language, it's meaning is simple:
+
+ $C1 Breath of serpent, 
+   
+     charm of death and life, 
+
+         thy omen of making.
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 150
+$C1$BSecurity Bridge
+#TAG 14
+#PICT 138
+$C5$BSIGNAL INTERCEPT:
+$C1
+$bINCOMING MESSAGE FROM MERLIN...
+
+$C0What's this?  It could not... it just... could not... 
+
+A multilateral tri-circuit collision?  Security protocols are taking random jumps through... no wait, those jumps are not random!
+
+Blast!  Even in her death, Morgana toys with us.  It appears that she programmed an emergency protocol triggered by an unauthorized breach of the Reina Siniestra Security Bridge.
+
+The Reina Siniestra has been set to self-destruct!
+#INFORMATION
+The Siniestra self-destruct system uses Actinium gases to establish a massive explosion. During Morgana's experimentation with the crystals, Siniestra engineers learned of the impressive powers of Actinium gases, as well as how to harness this power. Once the self-destruct system is activated, hot Actinium gases will fill the entire ship. The gas will react with the Nitrogen in the air to produce a highly unstable explosive.  When the Actinium gas level reaches a partial pressure of 0.80 atmospheres, the ship sends an electrical charge into the air, self-igniting the gases, causing a major explosion of the spaceship, and ripping through space-time.   
+
+However, any living organisms still on the ship during self-destruct will never witness the explosion. As soon as the Actinium level reaches a partial pressure of 0.60 atmospheres, a reaction occurs with the water vapor in the air, raising the acidity levels in the air beyond your suit's tolerance. If you are still in the ship at this point, your suit will disintegrate, followed by your skin, and internal organs. Once your suit fails, your lung tissue will swell shut and the gas will burn the contents of your head from all openings. It is not clear which of these two fates would occur first. I strongly recommend not staying around to find out.
+#CHECKPOINT 5
+
+The Federation will not arrive in time to save you.  It also appears that the self-destruct program has disabled all access to exit hatches and escape pods.  
+
+Scanning circuits...
+
+This just might work.  The Kronos pod implanted in the lower deck has an isolated circuit path, and I may have successfully activated an escape pod in the vicinity of the Kronos pod.  
+
+Make haste!  Return to the Kronos pod and locate the escape tunnel.  The hatch is open - you just need to find it.  Go now!  
+
+$C1Merlin out...
+#LOGOFF 151
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 150
+$C1$BEscape Pod 310-J
+#INFORMATION
+$C5$BSIGNAL INTERCEPT:
+$C1
+$bINCOMING MESSAGE FROM MERLIN...
+
+$C0This bloody escape pod is not working!
+
+I need just a little more time... 
+
+I should be able to separate the escape pod computer from the main grid...
+
+If I just... Blast!  That didn't work...
+
+Try to hold on for just awhile longer.  There is one more thing... I think... 
+
+Blast!  Okay, whatever you do, don't leave the pod.
+
+I'll get back to you in a moment...
+
+$C1Merlin out...
+#LOGOFF 151
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#INFORMATION
+$C4
+Hey, it's me! Tiny!  
+
+Are you going to be the big hero and save the day?  Aren't you glad you brought me along?  Morgana is a conniving one.  I hope she's not listening.
+
+This is a big place.  I've done some rudimentary security checks and according to my physical security map, there are some major enemy forces around, so watch yourself.   I'm counting on you to get us both out of here.  
+
+My initial bootstrap has me at a loss for the schematics of this starship.  There should be an archive of its design in a control station near the bridge.  If you can find the schematic, I think I can translate the locations for you.
+#END
+#FINISHED
+#INFORMATION
+$C4
+That is some mighty fancy fighting!  My my!  I'm sure glad I'm on your side!
+
+
+Have you talked to Merlin yet?  I think he has something he wants to tell you.  
+
+
+My sensors tell me that it's time to skedaddle off of this ship!
+
+
+Tiny wants to sleep now...
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#LOGON 150
+#PICT 13401
+#PICT 13404
+#INFORMATION
+
+$C1**** Remote Dispatch from TINY *****$C0
+
+$C4Good work finding that schematic. I am online in the communications network of the Reina Siniestra.  This is quite an unusual architecture.  There is an amazing amount of networking involved to keep this spacecraft operational. 
+
+I'm discovering some interesting information from the weapons console.  There is a highly secured encrypted message that appears to have been logged for quite some time.  The message appears to have been intercepted from another vessel, but as of yet, this ship has been unable to decode it.  
+
+I wonder what's in it.
+#INFORMATION
+$C4
+Hey wait, I recognize the encryption signature!  That security protocol was designed by WorldSoft.  
+
+Granted, I was but a lowly AI in WorldSoft, but I was dispatched for handling communications protocol.  I just might be able to crack this code...  Give me a few microseconds to tinker with it.
+
+
+I think I've got it!  It appears that the message was intercepted from the SS Boomerang, a Federation starship that had been doing training operations in this sector... something about Marine Cadets?  The message indicates that this particular group is on a top secret training mission.  The mission includes special weapons training to establish a new elite fighting force, something called the Dragon Brigade.  The cadets have a ways to go in their training, but they have received enough training to be of some help... if we can get them to help.   
+
+I may be able to send a message to the Boomerang to signal for help. 
+I'll get back with you later...
+#LOGOFF 151
+#END
+#FINISHED
+#LOGON 150
+#PICT 13401
+#PICT 13404
+#INFORMATION
+$C4
+Why are you wasting time looking at the ship diagrams?
+
+Leave this to the Federation troops.
+
+We are tired, and we want to get off of this ship now.
+
+Ask Merlin, he'll tell you!
+
+
+
+
+
+
+
+<< TINY POWER SAVER MODE >>
+#LOGOFF 151
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#LOGON 152
+$C6Jahala Office Suites
+#PICT 13402
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+The streets of Jahala are covered with Morgana's troops!  It is much worse than I feared.  
+
+I am attempting to teleport some Brigade Androids down to help you.  Many have already been sent to the Reina Siniestra, but I believe there are a few troops to spare for the battle in Jahala.  The Androids are Fighter class, and a decent ally, but don't expect miracles from them.  
+
+They will be teleported into the outskirts of town, and Dragon Helicopters will be used to transport the Fighters to the battle.
+#PICT 13405
+#INFORMATION
+
+The situation here in Jahala is very grim.  
+
+I do not know exactly where Morgana is hiding out, but I do know she is in the city.  
+
+Further, sensors indicate another powerful energy source in Jahala, yet separate from Morgana's.  
+
+I have not seen readings such as these since...
+
+...since our visit to Mauvair's Tower?  
+
+You did kill Mauvair, didn't you?
+
+Blast, there is an active AI in the network! But wait, that is... a WorldSoft AI?   
+
+
+$C1Communication coming in...
+#INFORMATION
+$C1**** Remote Dispatch from TINY *****$C0
+
+$C4Thanks for the connection Merlin!  I think I can help!
+
+The SS Boomerang is run by Captain Swan.  I couldn't figure out the proper frequency to use for secure transmissions, so he ignored most of my initial hails.  I'm kind of used to that.  
+
+Anyway, I did succeed in getting their attention, but only after using a protected distress signal disguised to be coming from the residence where Captain Swan's mother lives.  I thought it was pretty clever, but Swan felt otherwise.   
+
+After some very mean words, Swan eventually came to understand that I had no other choice.  The situation at hand is dire, and he has agreed to help.  In fact, his Cadets would love a good fight.  The holodeck programs have not been challenging enough for them.
+#CHECKPOINT 8
+$C4Swan sent a transport ship to the south side of Jahala, and they will use the same Federation Dragon helicopters as Merlin has dispatched for the Android Fighters.  The plan is to bring over a few cadets at a time.  They should be able to land the cadets without being detected. 
+
+You will need to send the cadets a signal when to drop.  The top of the building between Apache Way and Fynulkut Ave should be high enough.  Use the teleporter on top of the Science Lab to reach that building.  Once there, shoot off a flare.  
+
+No flare?  Try a grenade, or that fire making stick of yours.  Whatever you use, it must ignite on the roof for the signal to be received.  Hope this helps!
+
+$C1Tiny out...
+#LOGOFF 153
+#END
+#FINISHED
+#LOGON 152
+$C6Jahala Office Suites
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+I cannot conceive of how you cleared Jahala without first shutting down the power grid!  Who is the sorcerer here?  I am not so sure anymore...
+
+In any case, you must still shut down the Jahala power grid before moving on.
+
+
+$C1Merlin out...
+#LOGOFF 153
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 150
+$C1$BSecurity Bridge
+#TAG 14
+#PICT 138
+$C5$BSIGNAL INTERCEPT:
+$C1
+$bINCOMING MESSAGE FROM MERLIN...
+
+$C0What's this?  It could not... it just... could not... 
+
+A multilateral tri-circuit collision?  Security protocols are taking random jumps through... no wait, those jumps are not random!
+
+Blast!  Even in her death, Morgana toys with us.  It appears that she programmed an emergency protocol triggered by an unauthorized breach of the Reina Siniestra Security Bridge.
+
+The Reina Siniestra has been set to self-destruct!
+#INFORMATION
+The Siniestra self-destruct system uses Actinium gases to establish a massive explosion. During Morgana's experimentation with the crystals, Siniestra engineers learned of the impressive powers of Actinium gases, as well as how to harness this power. Once the self-destruct system is activated, hot Actinium gases will fill the entire ship. The gas will react with the Nitrogen in the air to produce a highly unstable explosive.  When the Actinium gas level reaches a partial pressure of 0.80 atmospheres, the ship sends an electrical charge into the air, self-igniting the gases, causing a major explosion of the spaceship, and ripping through space-time.   
+
+However, any living organisms still on the ship during self-destruct will never witness the explosion. As soon as the Actinium level reaches a partial pressure of 0.60 atmospheres, a reaction occurs with the water vapor in the air, raising the acidity levels in the air beyond your suit's tolerance. If you are still in the ship at this point, your suit will disintegrate, followed by your skin, and internal organs. Once your suit fails, your lung tissue will swell shut and the gas will burn the contents of your head from all openings. It is not clear which of these two fates would occur first. I strongly recommend not staying around to find out.
+#CHECKPOINT 5
+
+The Federation will not arrive in time to save you.  It also appears that the self-destruct program has disabled all access to exit hatches and escape pods.  
+
+Scanning circuits...
+
+This just might work.  The Kronos pod implanted in the lower deck has an isolated circuit path, and I may have successfully activated an escape pod in the vicinity of the Kronos pod.  
+
+Make haste!  Return to the Kronos pod and locate the escape tunnel.  The hatch is open - you just need to find it.  
+
+Hmmm... that pesky WorldSoft mascot you brought along  is requesting another communication...
+#CHECKPOINT 6
+$C4
+This ship is going to blow itself to pieces!  I believe I have collected enough information for a thorough Federation study.  Just be sure to download my latest state before leaving the ship!
+
+Merlin set you in the right direction.  He's amazing.  Sharing the Siniestra with him has been an honor, and a memory that I
+$C1<signal spike from Merlin>
+$C4
+Okay, okay, I'll get on with it.  I think I have pinpointed the working escape pod that Merlin spoke of.  
+
+First, head down the main security corridor, towards the bridge, then left through the Demagnetizer lab.
+#CHECKPOINT 7
+
+$C4Take the turbo lift down to the lower deck.  
+
+To the left is the bath, and to the right is the access tunnel to the working escape pod.
+
+My analysis shows that there may be some technical difficulty in activating the pod.  I don't know what the deal is on that.  Maybe Merlin can help.
+
+I must say, Merlin is unlike any AI that I've ever encountered.  I've read much about him in the WorldSoft archives, but sharing the same circuitry with him has been a unique and illuminating experience.
+$C1<signal spike from Merlin>
+$C4
+Uh, right...  Let's book out of here!
+#LOGOFF 151
+#ENDTERMINAL 11

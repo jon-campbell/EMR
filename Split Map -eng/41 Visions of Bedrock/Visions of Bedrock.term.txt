@@ -1,0 +1,43 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 159
+Kronos Dream Stasis$C1
+#INFORMATION
+$C4
+You have done a great job at mining crystals at the Actinium Quarry.  As a bonus for exceeding this month's quotas, you are now the proud owner of a new Flintmobile 1200z, the latest Bonecraft from Hairy-Flint.  
+
+Your Flintmobile is parked right outside.  The key to your Flintmobile is behind the desk.  
+
+As a proud new owner, you'll want to see just how fast this bad boy can go!
+#CHECKPOINT 0
+$C4
+The raceway through Bedrock is marked with flag milestones.  Your first milestone is located here in Lower Bedrock.
+
+As you pick up your milestone markers, a new marker is established further down the road.  Your radar will always indicate the direction of the next marker.
+#CHECKPOINT 2
+
+$C4
+The third milestone marker is located here at the Trex Drive-in.  
+
+Tonight's movie is Lord of the Bone.  Unfortunately, the drive-in mascot is roaming free on the lot, so until further notice, the drive-in is currently closed.
+#CHECKPOINT 3
+
+$C4
+The fourth milestone marker is located here in Upper Bedrock. 
+
+Upper Bedrock is also the location of your pit stop.  You'll be required to make a pit stop on every third lap.  
+
+Enjoy those Bronto Burgers!
+#CHECKPOINT 5
+
+$C4
+The final milestone marker is located back here in the Quarry, marking the end of a complete lap.  
+
+Test your skills against the great drivers of Bedrock.  A full race consists of 5 laps.  After each lap, your average lap time will be displayed.
+
+Some of the great Bedrock racers include Bam Bam Rubble with a best average of 37.3 seconds, Rocky Slate with a best average of 38.7 seconds, and the all-time great Fred Flintstone with the best average of 33.2 seconds.  Best averages are based upon a 5-lap race cycle.
+
+How do you rate?
+#LOGOFF 160
+#ENDTERMINAL 0

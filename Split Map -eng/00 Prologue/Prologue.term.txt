@@ -1,0 +1,104 @@
+;
+#TERMINAL 0
+#FINISHED
+#LOGON 137
+#PICT 10000
+$C3
+
+Legends tell us of a time of chivalry and knighthood - a time when King Arthur ruled the land with wisdom and compassion, and the Knights of the Round Table protected the kingdom from the evil dwelling in all the dark corners of the universe.  
+
+
+The king lived in the heights of the great castle of Camelot, in the city of Avalon.  With the magic and power of Excalibur, the wisdom of his sorcerer friend Merlin, and the goodness of his own heart, Arthur and all his people enjoyed years of peace and prosperity.
+#INFORMATION
+$C3Since the time of Pendragon, the British monarchs had been Sacred Kings, ruling by spirit as well as by sword. Arthur, as a descendant of Pendragon, was the living link between his people and their land. 
+
+Legend also tells us of Arthur's evil half-sister Morgana.  Morgana, a self-taught sorceress, was eventually banished from Camelot due to the perverse and wicked experiments she performed on the local townspeople. 
+
+Controlling many knights and archers with her magic, Morgana built up an army of her own.  With her new minions, she erected a castle fortress in the depths of the Dark Forest.  As the legend goes, Morgana seduced the sorcerer Merlin and learned his secrets, including the powerful $C0Charm of Making$C3.  With this magic, Morgana then took on the guise of Guinevere, Arthur's wife, and seduced Arthur.  From this union, she bore a son, Mordred, who she vowed would rise up one day to become king.
+#TAG 7
+#LOGOFF 131
+$C1Marathon Map Makers Guild
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#FINISHED
+#LOGON 137
+#INFORMATION
+$C3Although the era of Camelot was long before your time, it is intricately tied to your reality in ways you have yet to discover. The Diablo pirate raids of 2270, which laid waste to several outposts in your quadrant, were instigated by an evil force from this very past. 
+
+A few years after Morgana was banished from Camelot, reports of strange happenings came in from people throughout the land.  Goats and sheep were disappearing without a trace.  Children would return home with strange markings engraved upon their flesh, none of them having any recollection of how the markings got there.  
+
+By order of the king, scouts went on special alert.  Kirin, a Ranger of the Enchanted Forest, and one of Arthur's most skilled archers, was a scout stationed near the edge of Lake Gallion.   One night in her sleep, she dreamt of the Lady of the Lake.  The dream, however, turned into a nightmare when the Lady's face became distorted, mutating into another form: Morgana.  The nightmare woke her, and as she rose she could hear a thunderous roar coming from the other side of the lake.  Not knowing what it was, she had a strong sense of foreboding.  Something terrible was going to happen.
+#TAG 7
+#LOGOFF 131
+$C1Marathon Map Makers Guild
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#FINISHED
+#LOGON 128
+#INFORMATION
+$C3
+Kirin returned to Camelot and told Arthur of the massacre, and the impending attack on Camelot itself.  Realizing the impossibility of fighting off this attack, Arthur organized an escape with those remaining in the castle.  Kirin returned to the Enchanted Forest to help those who were still free of Morgana's clutches.  Noticeably absent from the scene was Merlin.  In fact, he had not been seen for two months.  
+
+After Morgana besieged Camelot, she began a diabolical new undertaking... one that reached beyond the boundaries of her new kingdom, beyond the boundaries of her world, and beyond the boundaries of time.
+#PICT 229
+$C5
+In due time, you will learn how this snapshot of Arthurian legend is connected to your next assignment.  
+
+I bid you farewell for now, but we will meet again.
+
+It is time for you to awaken from stasis.  
+
+
+Wake up...
+
+
+
+Wake up...
+#INTERLEVEL TELEPORT 1
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#FINISHED
+#LOGON 137
+#TAG 10
+#PICT 229
+$C5
+You are asleep, resting in stasis after a long and hard fought battle with the Diablo pirates.  
+
+I am Ceridwen, the dream stasis artificial intelligence.  
+
+The sleep chamber has been programmed to prepare you for your next journey. I will be providing you with some important background information.
+
+The door on the left is unlocked now. 
+
+
+
+Please proceed...
+#LOGOFF 131
+$C1Marathon Map Makers Guild
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#FINISHED
+#LOGON 137
+#INFORMATION
+$C3
+The Sorceress Morgana, after concealing herself for years in the Dark Forest, had come out of hiding.  With her master wizard Mauvair and her son Mordred at her side, she led a force so powerful that whole towns were destroyed in a single day.  Her attacks were executed with such speed that many never awoke from their sleep to witness the blood and mayhem.
+
+Her timing was perfect. Arthur was disabled with a mysterious illness, and many of his best knights were far away in search of the Holy Grail.  Morgana's magic dried up streams, turned lakes into lava pools, and withered crops to dust.  
+
+At the climax of the bloodshed, Morgana and Mauvair overtook and fortified the Mannenhaum stronghold near the base of the mountain on which Camelot stood.  Arthur sent scores of knights, archers and sorcerers to fight against Morgana and her black magic, but it was hopeless.  The scene at Mannenhaum was the worst massacre in Camelot's history.  The only one to escape alive was the Ranger Kirin.
+#PICT 229
+$C3
+
+
+$C5Take a glimpse through the time portal windows and witness the horrible massacre first hand.  
+
+
+When you have had enough, return to the Mystic Eye for further instructions.
+#TAG 1
+#LOGOFF 131
+$C1Marathon Map Makers Guild
+#ENDTERMINAL 4

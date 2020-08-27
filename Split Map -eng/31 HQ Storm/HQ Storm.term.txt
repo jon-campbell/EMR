@@ -1,0 +1,105 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #2780>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0By disabling Morgana's primary security system, you have successfully established access to the upper office floors of Morgana's headquarters.  Backup security measures have been engaged, however, and I am still attempting to discern exactly what those measures are.  New force fields seem to be established in the area, and there also appears to be a much heavier force of GATs patrolling at street level.
+
+Destroy these headquarters and eliminate a major element of Morgana's strategic plotting.  Unfortunately, the building has a titanium infrastructure making it nearly indestructible to modern weaponry.  
+
+There is one possible way to destroy the building.  In 2236, rumors began to spread that Anacreon allies were plotting a campaign to exact revenge on Earth for the destruction of Anacreos.  The previous owner of these headquarters, WorldSoft Corporation, had installed an auto self-destruct system to prevent trade secrets from being stolen in the case of planetary war.  Although the ally invasion never took place, the self-destruct system remains intact even now.
+#CHECKPOINT 0
+
+You are currently situated in a complex sewage system beneath Morgana's headquarters.  
+
+Accessing the lobby from the street entrance is no longer possible.  The streets leading to the building appear to be some of the areas now employing security force fields.   Sensor readings also indicate that Morgana has ramped up the forces patrolling the courtyard in front of the lobby.  
+
+Using the underground sewers is your best chance to locate an alternate entry point.
+#PICT 138
+$C1
+$C0Your mission is to infiltrate Morgana's headquarters by way of the underground sewers.  Climb your way through the sewers and locate the Boiler Room.  Take the freight elevator up to the lobby, and proceed to explore the building.  
+
+There is a stolen access card in this pod that can be used to activate the lift to the boiler room.  Once you use the card, it will establish your hand print for security override.  This is needed to activate the two self-destruct enabler switches.
+
+The first enabler switch establishes an uplink between the self-destruct panel and the detonation system.  The second switch deactivates the security lockout that prohibits access to the self-destruct panel.
+#PICT 13000
+
+The uplink switch is here, on the top floor of the building.  You will need to locate the security override switch on your own.  
+
+After triggering both switches, you must activate the self-destruct switch located in a secured area adjacent to the garage.  This switch requires a top secret security access card.  The captain of the security force is known to carry this card. 
+
+Retrieve the security access card and activate the self-destruct.  Once self-destruct is activated, get as far away from the building as quickly as possible.  The blast radius is unstable, and may consume a great number of surrounding buildings.
+$C1
+
+Merlin out...
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #2780>
+#PICT 138
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0The auto self-destruct sequence has been successfully activated.  Morgana's headquarters will soon explode!  What are you doing down here in the sewers?  
+
+Exit the building through the lower level east exit, and locate a hoverbike in the neighboring garage.  Use the hoverbike to make good your escape.  
+
+Now go!
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 131
+#INFORMATION
+$C4
+
+An interesting maneuver blasting your way out of the hole like that.  I'd like to say that there is a reward for such a feat, and you most likely deserve one.  However, unless you consider a Spewie infested street a just reward, it looks like you're coming up empty-handed. 
+
+Might as well jump back into the hole...
+#LOGOFF 131
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 143
+#PICT 138
+$C1
+INCOMING MESSAGE FROM MERLIN...
+
+$C0You have successfully enabled the self-destruct circuit, but you still need to locate the primary self-destruct panel and activate the detonation countdown.
+
+Once you have activated the self-destruct, I advise you to leave this building without pause. Your next stop is the old WorldSoft manufacturing plants where Morgana is stepping up the production on her Ground Assault Troopers.  These facilities need to be disabled before her army becomes unstoppable. 
+
+$C1
+Merlin out...
+#LOGOFF 144
+#END
+#FINISHED
+#LOGON 143
+#PICT 14000
+$C1
+INCOMING MESSAGE FROM MERLIN...
+
+$C0The auto self-destruct sequence has been successfully activated.  Morgana's headquarters will soon explode!  It would be wise to exit this building immediately.  
+
+All systems in the city that have not already malfunctioned are locked down.  Morgana must be attempting to contain the blast.  Street access at the front of the building is blocked off by force fields, and heavily guarded by a reinforced squad of Assault Troopers.  That will not be a viable means of escape.
+#PICT 138
+
+
+I have detected an available hoverbike in the repair garage across the street behind this building.  If you take the east exit on the lower level, you should have enough time to escape before Morgana's forces catch up to you.
+
+
+I will have more information when you obtain the hoverbike.  Now get out of here with all due speed!
+
+
+
+
+$C1Merlin out...
+#LOGOFF 144
+#ENDTERMINAL 2

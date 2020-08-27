@@ -1,0 +1,165 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #5245>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0You are on the other side of the planet, in a region inhabited by several clans of the Grog.  You must locate a friendly tribe and attempt communication.  Many of these Grogs were recently under Morgana's spell.  During their exposure to Morgana, it is quite possible that they obtained information regarding her plans.  Unfortunately, it is very difficult to hold a conversation with a Grog, even with the enhanced Universal Translator.
+
+There are several hungry creatures present in this territory, so gather as much ammo as you can carry.  To add to your peril, it is now dangerously close to nightfall.  Wandering around in the dark... ravenous eyes watching you through the trees... the blood-thirst of the jungle beasts aroused by your presence... not a favorable situation.
+
+
+
+Apologies for the malfunctioning shield recharger.  I am currently attempting to fix the problem, and hope to have it operational soon.
+#CHECKPOINT 1
+
+
+
+Although your task to communicate with the Grogs is not going to be easy, I have located a clan in the north whose lifestyle indicates a friendlier disposition.  They are more likely to converse with you than any others in this area.
+
+Reach their dwelling caves and locate the chieftain.  By the time you get there, I should have the Universal Translator enhanced to support partial dialogue translation.
+#LOGOFF 132
+
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#TAG 6
+#LOGON 10702
+$C1$IGrog Dictionary v1.b3
+#INFORMATION
+$C5$IWelcome $C4d'zaba-kobe$C5,
+
+I am $C4D'ungra$C5, Chief of the Hakawa Clan of the North.  My people share this region with the Timbawa Clan of the $C4L'biza$C5.  As many moons have past, the two tribes have lived in peace, but in recent days members of both tribes have fallen into $C4Pogod'awst$C5.  Without cause, attacks have been made on tribes, unleashing a $C4Zog'tog$C5.
+
+During the last half moon, a thin and pale visitor, a female of your species, entered our land.  She called herself Morgana, and spoke of the $C4Kin'bonwa$C5 born of the underground caves.  She gave many people of both tribes bad $C4de'Zontaba$C5.  While she was here, those that drank the $C4de'Zontaba$C5 obeyed her commands.
+
+Several days ago, Morgana disappeared.  Those that were under Morgana's spell became $C4Haz'ooTawa$C5, and began attacking villagers of both tribes.  The elders of both tribes agreed that those that were sick must be saved.  This was a difficult task, but there were no other options.  We held a $C4Sadazka$C5 ceremony to end their sickness and free their souls.  Unfortunately, one tribe member, $C4zo'Tumba$C5 of the Timbawa Clan, escaped and took refuge in the Lair of the $C4K'bala$C5.
+#PICT 10700
+
+$C5$ISince that day,$C4K'bala$C5 attacks have been on the rise.  We fear that $C4zo'Tumba$C5 somehow infected the $C4K'bala$C5.  The $C4K'bala$C5 are quick and powerful, and although they once fed on other creatures of the region, they have begun feasting on our people.
+
+I believe that we can help one another.  You are in search of the Morgana creature, and we are in need of help from the $C4K'bala$C5.  It would give me $C4Wa'stana$C5 to tell your more about Morgana's visit, but I must first ask for your help.  You are in possession of skills and $C4Usu'tawana$C5 that could stop the $C4K'bala$C5 attacks.  Let us both join in a $C4Zem'wana$C5.
+#PICT 10701
+
+
+
+
+$C5$IFollow this path to the $C4K'bala$C5 Lair and fight the $C4K'bala$C5 for us.  You must also seek out and destroy $C4zo'Tumba$C5 to stop his disease from infecting more $C4K'bala$C5.
+
+Once you have cleared the lair, return here and I will fulfill my part of the $C4Zem'wana$C5.
+#PICT 10702
+$C3$I$B$UPost Translation Analysis:
+$C4$b$u
+d'zaba-kobe
+$C1$iLikely translation is "foreigner" or "stranger".$C4$I
+
+D'ungra
+$C1$iName given to Grog chieftain, translation unknown.$C4$I
+
+L'biza
+$C1$iLikely describes the area where the Timbawa Clan live, but translation unknown.$C4$I
+
+Pogod'awst
+$C1$iLikely translation is "Chaos", or "Sickness", or "Derangement".
+
+$C4$IZog'tog
+$C1$iResult of unrest in the tribes, and chanted often by Grogs, but translation unknown.
+#PICT 10702
+
+$C4$IKin'bonwa
+$C1$iLikely translation is "green crystals", or "Actinium".$C4$I
+
+de'Zontaba
+$C1$iLikely translation is "medicine", or "poison".$C4$I
+
+Haz'ooTawa
+$C1$iRefers to a state of being out of control, likely translation is "deranged", "dangerous", or "out of control".$C4$I
+
+Sadazka
+$C1$iName of a specific ceremony in which Grogs are sacrificed, translation unknown.
+
+$C4$Izo'Tumba
+$C1$iName given to a specific Grog, translation unknown.
+#PICT 10702
+
+$C4$IK'bala
+$C1$iRefers to a carnivorous Jurassic beast, likely a raptor, dimorphodon, or t-rex.  Should be able to deduce translation after clearing the K'bala lair.$C4$I
+
+Wa'stana
+$C1$iLikely translation is "honor", or "pleasure".$C4$I
+
+Usu'tawana
+$C1$iLikely translation is "weapons", or "powers".$C4$I
+
+Zem'wana
+$C1$iLikely translation is "agreement", or "contract".
+#LOGOFF 10704
+
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 135
+$C1<Station #5248>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Your task is not yet completed.
+
+To satisfy the Chieftain's request, you must clear the lair of raptors and dispose of the renegade Grog.  
+
+Use the teleporter in this pod to get back to higher ground.  Return here once the lair has been cleared, and I will teleport you back out to the Clan's camp.
+#LOGOFF 132
+
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #5248>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Your task is not yet completed.
+
+To satisfy the Chieftain's request, you must clear the lair of raptors and dispose of the renegade grog.  The lair is mostly cleared, but zo 'Tumba still lives, and continues to infect the other beasts.
+
+Use the teleporter in this pod to get back to higher ground.  Track down the renegade, and return here once he has been slain.
+#LOGOFF 132
+
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 135
+$C1<Station #5248>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Your task is not yet completed.
+
+To satisfy the Chieftain's request, you must clear the lair of raptors and dispose of the renegade Grog.  You have successfully slain zo 'Tumba, but there are still too many infected raptors left in the lair. 
+
+Use the teleporter in this pod to get back to higher ground.  Return here once the lair has been cleared, and I will teleport you back out to the Clan's camp.
+#LOGOFF 132
+
+#END
+#FINISHED
+#TAG 1
+#LOGON 135
+$C1<Station #5248>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0This lair has been cleared, and the renegade Grog has been slain.  Sensors indicate that there are still a few beasts lurking on the outside.  They did not take kindly to watching their lair being destroyed, and they appear to be fully aware of your deeds here.  Proceed with caution.
+
+To make matters worse, night has fallen.  I had hoped all this Raptor chasing would have been settled before then, but it is too late now.  You must venture out, return to D'ungra's cave for information relating to Morgana, and then return to the pod where you first arrived.  Take heed, for both the Raptors and Dimorphodons have excellent night vision.  Prepare for a gauntlet of razor sharp teeth and claws.
+$C1
+
+$C7- TELEPORTATION SEQUENCER -
+$C1Destination Code: Jurassic
+Coordinates: DELTA 1,15,124
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 8
+#ENDTERMINAL 3

@@ -1,0 +1,50 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#TAG 7
+#LOGON 135
+$C1<Station #6189>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0The dark spirits of Morgana grow near.  Storming her headquarters and disabling her manufacturing plants has brought you here, within sight of her flagship, on the eve of a possible showdown.  You have reached the point of no return.  
+
+You are the only entity that can stop Morgana, the only hurdle between her and universal domination.  Her destructive forces have all been refocused.  Even now she is conjuring up a massive army that has but a single purpose: to hunt you down and destroy you.  
+
+It is now time to submerge into the bowels of evil.  Waiting for Morgana to find you is not an option.  You must prepare to confront Morgana... on her turf, and on her terms.  
+
+Morgana is in one of two places: her flagship, the Reina Siniestra, or the industrial city of Jahala, her largest stronghold on Earth.
+#PICT 138
+
+In addition to the damage already doled out to Morgana's empire, you have kindled life in the spirit of my origins.  Morgana's defeats have brought me closer to becoming a physical being than I have experienced for over two centuries.
+
+I can sense the start of my separation from the current electrical energy state which holds me.  Thanks to your heroic deeds, I can envision returning to my own time.  The spell is nearly broken, and soon I hope to begin the process of rematerializing.  
+
+During the separation, my ability to communicate with you through electronic devices will diminish.  You must succeed in destroying Morgana with minimal direction. If you fail, we both shall perish, and soon after, so shall mankind.
+#PICT 13300
+
+I will communicate with you for only a few brief moments from this point forth.  You must move on Morgana now.  
+
+I have brought you to the secret space colony of the Stone Golem.  It is here where Morgana keeps a backup of a high security portal access card for the Reina Siniestra.  You must retrieve this card before teleporting to her flagship.  
+
+Be wary of the Stone Golem.  In rest, the golem exists as a harmless stone figure.  Once awakened, however, the golem transforms into a powerful sniper.  In order to retrieve Morgana's access card, you have no choice but to awaken the golem as you invade their Keep.  Cunning will be your best weapon against these creatures.
+#PICT 13301
+
+Remember to think before you act, as the Golem Keep is a highly unstable area. It was built on a number of space rocks that the Siniestra scavenged from shattered asteroids.  There is a containment field that provides breathing air and minimal gravity, but this containment field is sparse and unreliable.  The risk of being sucked into space is extremely high, so proceed with caution.  
+
+Visit the Golem Armory.  Besides housing one of Morgana's largest arsenals, the armory also contains the control switch to the Golem Keep Portal.  Breaking the switch disengages the portal gate. As you might imagine, the armory is heavily guarded.  
+
+      $C2$UDo not approach it in vain!$C0$u
+#PICT 13302
+
+
+A future pod has been located near the Golem Armory for shield recharging.  
+
+Near the pod area you should be able to catch a glimpse of the Reina Siniestra.  Gaze at the ship, and take note.  This diabolical flagship is your next destination.
+
+This is my last communication with you until you reach the Reina Siniestra.  May the forces of good continue to thrive within you!
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0

@@ -1,0 +1,384 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 149
+$C1$BStation 01
+#INFORMATION
+$C1$BDAVENPORT LIBRARY$C5$b
+
+$C4Subject inquiry:$C5 dachron
+
+$C4Search results: $C3$BDachron Minigun$C5$b
+
+$C3In 2180, after the first successful light speed space exploration mission, COPRE (Consortium of Private Research Enterprises) began an intense study of rare minerals collected from the newly discovered planet, Dachronia.  Dachronian technology began in 2204 when scientists discovered new properties in fluid mechanics involving the use of this new mineral.  
+
+Once the DOD (Department of Defense) learned that the new discoveries meant great advancements in weapons technology, half of the Dachronia minerals were seized for secret government projects.  Working with LockMart-Boeing-DuPont engineers, the DOD developed a new metal from these minerals which was lightweight, yet more durable than the hardest titanium alloy.  It also emitted very low friction heat.  Using this metal and taking advantage of its unique properties, new high speed, high powered handheld weapons were soon developed.
+#PICT 12803
+$C5
+
+$C3
+By the year 2215, the government had perfected the Dachron Minigun, a high-powered rapid fire assault rifle.  
+
+The gun consisted of 13 revolving barrels.  With 4 chambers per barrel, the Dachron is capable of a full 52 rounds of shots before reload.  The two revolutionary aspects of the gun, however, were its very light weight given its fire power, and its secondary trigger mechanism which allowed all 13 barrels to expend a shot simultaneously.
+#INFORMATION
+$C3This secondary burst shot would prove to be highly effective in the WorldSoft coup of 2258.  Rebel executives obtained several Dachron Miniguns from the government and staged a coup unmatched by any in history. Kahnene Forraje, WorldSoft's leader at the time, controlled an enormous arsenal, including a massive horde of self-destructing Forraje clones.  With one burst shot from the Dachron Minigun, however, an entire room of Forraje clones would be destroyed.  Eventually Forraje's defenses were beaten down, and new power took over WorldSoft.  Forraje himself was hunted down and executed with an ordinary Snyper pistol.
+
+
+$C4Reference:$C3 $C1History of the Dachron Minigun, by J.D. Bryers
+           Published by WorldSoft, Inc., 2235
+$C3
+$C4Reference:$C3 $C1Rise and Fall of Kahnene Forraje, by Leonard Guillaum
+           Published by People Enterprises, Inc., 2260
+$C5
+    <====================================================>
+
+$C1<end of query>
+#LOGOFF 149
+$C5$B* End of Transmission *
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 149
+$C1$BStation 02
+#INFORMATION
+$C1$BDAVENPORT LIBRARY
+$C5$b
+$C4Subject inquiry:$C5 davenport
+
+$C4Search results: $C3$BDavenport, Daniel Mason (2180 - 2258)$C5$b
+
+$C3Daniel Mason Davenport was a brilliant 23rd century scholar and inventor.  His achievements include the invention of the gamma ray splitter which is used extensively in time traveling experimentation, atom cloning which led to the invention of teleportation, and High Frequency Radar Multiplexing (HFRM) which allows navigation of ships traveling at light speed.  He has also worked with the government on projects involving Dachron technology and the re-engineering of Anacreon Holodeck technology.
+
+Davenport was killed during the WorldSoft coup of 2258.  Naive to the corruptive forces which drove Forraje, he fought up to the end to protect him.  He was critically wounded by a burst shot from a Dachron Minigun, a weapon he had helped invent.  He was rushed to an Emergency ward where he died peacefully in the company of his family and friends.
+#INFORMATION
+$C3WorldSoft rebels publicly apologized for the death of Davenport as they all knew and revered Daniel for his genius and for his compassion.  Daniel's only weakness was that he allowed his obsession for research to blind him to Forraje's insatiable hunger for world domination.  In 2259, the new WorldSoft leaders renamed the Forraje Library to the Davenport Library in honor of his memory.
+
+$C4Reference:$C3 $C1Biography of Daniel Davenport, by Vince DeCarlito
+           Published by People Enterprises, Inc., 2260
+
+$C5    <====================================================>
+
+
+$C4Search results: $C3$BDavenport, Castle$C5$b
+
+$C3Castle Davenport is fabled to have housed many of the great sorcerers during the reign of King Arthur.  Located on the edge of the Forgotten Forest, the remains of the castle now serve as a tourist attraction, with re-enactments of knight battles and sorcery magic.  The castle is  
+
+$C1<query canceled>
+#LOGOFF 149
+$C5$B* End of Transmission *
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 149
+$C1$BStation 03
+#INFORMATION
+$C1$BDAVENPORT LIBRARY$C0$b
+
+$C4Subject inq$C1<<SYSTEM HALT>>>$C0
+
+
+
+
+$C1** COMMUNICATIONS INTERCEPT **
+#PICT 138
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+The city of Santa Rinascita is heavily shielded, making it difficult to establish communication beacons here.  I am currently transmitting via the Davenport Library system on a low security network.
+
+The year is 2270, two years after the fall of WorldSoft. Your mission here is to locate Morgana's headquarters, previously the headquarters to WorldSoft.  Most of the old WorldSoft buildings were abandoned after the collapse of the WorldSoft Empire.  In the years that followed, however, many of these buildings began to operate again, taken over by Morgana and her minions.
+
+The streets of Santa Rinascita are heavily patrolled by squadrons of Morgana’s ground assault troopers. Be alert!
+#PICT 12802
+
+Production of the Ground Assault Trooper (GAT) began in 2265 with Model KX0100, assault rifle equipped and grenade capable.  As the process improved, troopers of much greater strength and mobility began to evolve. 
+
+$C1KX0200:$C0 combat capabilities similar to the KX0100, but with stronger force and higher endurance.
+
+$C1KX0250:$C0 based on the KX0200, includes photon firepower.  
+
+$C1KX0252:$C0 miniaturized version of the KX0250.
+
+$C1KX0500:$C0 the first hover assault trooper, equipped with a flame thrower and grenade launcher.
+#PICT 12804
+
+
+$C1KY0200:$C0 originally hoped to be a less expensive version of the hover trooper, this model sports a modified KX0200 GAT navigating a specially modified Harley-Davidson XT1200 hover bike. Although much more deadly in combat than the KX0500, the KY0200 proved to be far too expensive to maintain; hence, production was limited.  Only a few hundred of these were ever produced, and the majority of those suffered numerous malfunctions.  Due to the high cost of repairs, malfunctioning units were disbanded.  KY0200 GATs were converted back to KX0200 models, and most of the hover bikes were sold or junked.  Those few remaining KY0200 units, however, have proven to be extremely stable, and nearly unstoppable in battle.
+#PICT 12805
+Santa Rinascita is the home of the old WorldSoft Empire, and is now the site of Morgana's main headquarters.  High security shield modulators are installed on most of the streets.  These force fields, when activated, serve as street blockades and can severely restrict travel.
+
+I have successfully weakened a portion of one of the force fields on Davenport Circle. Locate the weakened field, and you should be able to gain access to the west side of the WorldSoft Research & Development building.  The west section is outside of the force field grid, so I have managed to establish a fully functional future pod with communications terminal there.  Reach this future pod for further instructions.
+
+$C1Merlin out...
+#LOGOFF 149
+$C5$B* End of Transmission *
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 149
+$C1$BStation 04
+#INFORMATION
+$C1$BDAVENPORT LIBRARY
+$C5$b
+$C4Subject inquiry:$C5 kronos
+
+$C4Search results: $C3$BUFS Kronos, class 2267EE-b$C5$b
+
+$C3The United Federation Starship Kronos was completed in the year 2267.  Named after its original designer, Peter Juan Kronos, this vessel was built as an exploration and experimentation starship.  In 2268 it was upgraded to a class B exploration vessel, as time traveling technology was integrated into its design.
+
+Kronos is constructed with 20 decks, with quarters to support a crew of 700.  It contains 10 holodecks, 8 shuttle bays, 5 cargo bays, 5 transporter rooms, 8 observatory rooms, a recreation deck, a space docking capable orbiter pad, and 2 main bridges.  Using HFRM technology, the starship is capable of light speed navigation.  The hull of the ship is made of an advanced titanium-magnesium alloy of classified composition, and its defense system includes gamma deflectors and high impact frequency shifting gamma shields.
+#INFORMATION
+$C3In 2269, Kronos set out on a 15 year mission of space exploration and time traveling research and experimentation.
+
+
+$C4Reference:$C3 $C1Anatomy of UFS Kronos, by P.J. Kronos
+           Published by Kronos Press, 2268$C3
+$C5
+$C4Reference:$C3 $C1UFS Kronos 2267EE, by Reverend Homer Villiad
+           Published by Dunn Valour, Inc., 2267$C3
+$C5
+$C4Reference:$C3 $C1Space Exploration and Time Traveling, by Dr. Sam Ludwig
+           Published by Dunn Valour, Inc., 2269$C3
+$C5
+    <====================================================>
+
+
+$C1<end of query>
+#LOGOFF 149
+$C5$B* End of Transmission *
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 135
+$C1<Station #1092>
+#PICT 12801
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Your mission to locate Morgana's headquarters has just gotten tougher.  In addition to Morgana's GAT forces infesting the area, the Rinascita sewers are presenting a new obstacle: the Super Prolific Environmental Waste Ingestion Eliminators; otherwise known as SPEWIE.
+
+WorldSoft originally manufactured the Spewie unit as an organic creature designed to reduce the amount of toxic byproducts deposited into the city's sewage systems.  Wastes and toxins would be ingested, processed, and rendered down to simple hydrocarbons.  After the WorldSoft coup, production was halted, and maintenance of existing Spewie units dwindled.  Most thought that the creatures would die out.
+#PICT 12800
+
+In subsequent years, however, urban legends began circulating of horrific encounters with acid sprays from storm drains and seared decomposing human remains.  Nightly reports of attacks on residents began flooding in.  These attacks were eventually confirmed to be rampant Spewie creatures.
+
+Your advantage with the Spewie is that it is extremely slow, and very easy to out-maneuver.  Be wary of this creature in numbers, however, and especially while being engaged in battle with GATs.  If their spray catches you, it eats into your flesh and most likely will cause a very painful death.
+#INFORMATION
+
+
+
+It is only proper that I warn you about the dangers of the Spewie creature, as the only known access card to WorldSoft Headquarters is located in the Spewie Production Plant.  I will now send you into the depths of this plant, unless you choose to abort teleportation.  
+
+
+$C5   +------------------------------------------+
+   |                                          |$C0
+$C5   |$C0  $C1 Teleport: $C0 $C3Panel Control$C0 $C2<RETURN>$C5      |$C0
+$C5   |                                          |$C0
+$C5   |                                          |$C0
+$C5   |$C0 $C1  Abort:$C0     $C3Panel Control$C0 $C2<ESC>$C5         |$C2$B
+$C5$b   |                                          |$C0
+$C5   +------------------------------------------+
+#INTRALEVEL TELEPORT 732
+#END
+#FINISHED
+#LOGON 135
+#INFORMATION
+$C1
+INCOMING MESSAGE FROM MERLIN...
+$C0
+You have demonstrated an excellent ability to deal with Morgana's troopers, but there is much more to overcome.  Without street level access to Morgana's headquarters, you must find another way in.  Time is of the essence, as the GAT production facilities have increased activity since your arrival.  There is no telling what magnitude of force can be established before you finally infiltrate Morgana's buildings and stop her.  
+
+With the current force field lock in place, you have no choice but to override Morgana's security controls.  The only way to accomplish this is to locate the underground security station and disengage the force field locking device.  The station is heavily guarded, so infiltrating it will be extremely difficult. I can teleport you within close proximity of the station, but the rest is up to you.
+#INFORMATION
+
+
+
+
+
+Prepare for transport...
+
+
+
+
+
+
+
+
+$C1
+$C7$B- TELEPORTATION SEQUENCER -$b
+$C1Destination Code: WorldSoft Security
+Coordinates: 424,344 <432.01>
+$C7$B*** TELEPORT WHEN READY ***$b
+#INTERLEVEL TELEPORT 29
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#LOGON 141
+#INFORMATION
+$C1$B
+
+
+                      Clone Project
+
+                 $C5  Fiscal Impact Study
+$C1
+
+
+ 
+                     $C3$b by Abbot Kissup
+#INFORMATION
+
+$C5
+                   Forraje Clone Project
+
+             Original Estimate of Cost per Clone
+                       (in millions)
+
+$C0
+    $C7 Biomedical Costs:$C0   $C4$  2.1$C0
+
+   $C7  Energy Costs:  $C0     $C4$  1.8$C0
+
+    $C7 Materials:    $C0     $C4 $  6.5$C0
+
+    $C7 Yearly Maintenance:$C0 $C4$  3.0$C0
+
+
+  $C7   Total.............$C0 $C1 $ 13.4$C0
+#INFORMATION
+$C5
+                   Forraje Clone Project
+
+           Actual Cost per Clone - 5 year average
+                       (in millions)
+$C0
+
+    $C7 Biomedical Costs:$C0   $C4$  6.3$C0
+
+  $C7   Energy Costs: $C0     $C4 $ 19.6$C0
+
+  $C7   Materials:  $C0       $C4 $ 22.8
+$C0
+   $C7  Yearly Maintenance:$C0 $C4$  8.1$C0
+
+
+  $C7   Total.............$C0  $C1$ 56.8$C0
+
+$C2     Overrun PER clone:  $ 43.4
+#INFORMATION
+
+$C5                   Forraje Clone Project
+
+                     Production Summary
+$C0
+
+$C7                           Estimate     Actual
+                           --------     ------
+$C0      $C4 $C7Success Rate: $C0      70%          $C225%$C0
+
+     $C7  Average Lifespan:$C0   22 years     $C25.2 years
+
+
+
+      $C7 Annual losses due to failures:   $C2    $ 18 billion
+       
+     $C7  Annual losses due to low life span: $C2 $ 14 billion
+#PICT 141
+
+$C55 Year Fiscal Study
+$C0
+$C7Year    Annual Cost
+----    -----------
+$C42245	   12 billion
+
+2246    15 billion	
+
+2247	   28 billion
+
+2248	   34 billion
+
+2249    52 billion
+$C0
+
+$C1Annual costs rise each year.
+#PICT 12806
+#INFORMATION
+
+$C5                   Forraje Clone Project
+
+                      Fiscal Analysis
+$C0
+
+
+
+      $C7  Recommendation: $C0  $C1Scrap Project$C0
+
+       $C7 Backup Protocol: $C0 $C1Synthetic Clone Production $C0
+
+
+
+
+     $C3   Annual Savings: $C0  $C1$30 billion
+#LOGOFF 142
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#LOGON 143
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You have breached the lobby security office of Morgana's headquarters.  Unfortunately, your assault on the GAT security forces has triggered an automatic defense alarm, activating force field locks on all floors of the building. This room is currently the only room not blocked by force fields.  
+
+The alarm seems to have also triggered an intense escalation in GAT Security forces.  I suggest that you leave this area immediately until we can establish a plan for infiltrating the building.  Return to the future pod at the WorldSoft R&D office building.  That should give me some time to think on this matter and explore our options.
+
+
+
+
+$C1Merlin out...
+#LOGOFF 144
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#LOGON 141
+$C1<Library Station 3A>
+#INFORMATION
+$C1$BWorldsoft Information Retrieval System
+$b
+$C2$B$UForraje Clones
+$C1$b$u
+$C5During the riots of the Lowtechs, spurred by the Hilo Incident which weakened WorldSoft's position as a world power, WorldSoft leader Kahnene Forraje became worried that his life was at risk.  He took many precautions in efforts to protect himself.  He had secret switches installed in his private library which controlled access to his main office, he had secret passages built throughout his empire, he installed emergency exit teleporters in several buildings, and he initiated the Forraje Clone project.
+
+In a mad attempt to produce multiple clones of himself, Forraje converted his largest manufacturing plant into a facility dedicated to creating a Forraje Clone. There was a mass influx of personnel during this period, as no computer or android understood the principles of human cloning.  As WorldSoft employment climaxed, and after years of pouring hundreds of billions of dollars into research and development, in 2250, the project was declared a flop. Forraje was unable to produce a human clone of himself.
+#PICT 12708
+$C5
+
+Many prototypes, however, were manufactured.  In fact, an entire line of synthetic clones was successfully produced.  
+
+While Forraje's desire to have a human clone of himself could not be met, he did find some security in the mass production of the synthetic clones.  As non-organic as they were, the clones were still a striking resemblance to Forraje; close enough to create mass confusion for unsuspecting attackers.  
+
+The clones were programmed for auto self-destruct activated when in a threatening situation, exploding on impact with the first moving object they touched.
+#INFORMATION
+$C5
+After losing many WorldSoft employees to the self-destructing clones, including some high ranking executives, the clones were locked in special storage areas to prevent any further mishaps.  Although the clone never neared his expectations, Forraje publicly touted the clone project as a big success.
+
+In 2258, Kahnene Forraje was killed during an internal WorldSoft coup.  He attempted to deploy all of his clones as a final means of protection, but this ill-fated defense failed when Dachron Miniguns were used to destroy groups of clones with a single shot.  Forraje was found assassinated execution style.  
+
+During the following ten years, WorldSoft deteriorated to a non-power, until 2268 when WorldSoft filed for Chapter 11 and never recovered.  Two years later, an unknown settled into Santa Rinascita and bought up all of WorldSoft's land and property.
+$C1
+
+END OF QUERY...
+#CHECKPOINT 5
+$C2Administrative Archives:$C0
+
+$C4$IMadam Pederson, as lobby receptionist, your responsibilities include signing in all visitors, maintaining a clean lobby, and activating security sensors for Cyborg Labs as well as the Cyborg Lab Warehouse at the other end of the street.
+
+The Warehouse is used primarily for GAT part overflow storage. It also serves as the control center for the security office located at Headquarters main lobby.
+
+It is imperative that you activate the security sensors at the start of each shift.  The security guard on graveyard is locked in the lobby until the control center can be activated, and the center cannot be activated until the sensors are online.
+#LOGOFF 142
+#ENDTERMINAL 7

@@ -1,0 +1,54 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 279>
+#CHECKPOINT 1
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0There is an energy surge here that lifts my soul beyond the confines of this circuitry.  It was here, in Avalon, where I first discovered the spell of Dragon's Breath and experienced the true power of sorcery.  It was here where I first experienced love. For the first time I can envision being in the flesh once more, in the arms of my beloved.
+
+Hazelle's home is a short distance from here.  Walk the spiritual path to unlock the cave entrance to Avalon village.  Her cottage is the first you will encounter.  In years past, the gate to her home would be left unlocked, but that may have changed.  If necessary, you can find a spare key hidden at the base of a nearby waterfall.
+#PICT 13700
+You were brought here without weapons or shields.  In Avalon, the spirit of the land rules over its inhabitants.  Seeking harmony with nature and discovering its hidden powers is the lifelong task of all sorcerers.  Being without arsenal and without knowledge of magic, you are at a great disadvantage if any forces happen to infiltrate and attack Avalon.  Although Avalon has never been attacked in the last 500 years, it would be wise to remain cautious during these turbulent times.  If necessary, seek protection from the three Mist Knights, the guardians of Avalon. 
+
+Within this area are statues of the three Mists Knights.  Once you have successfully traversed the spiritual path, all three of the statues will be glowing, indicating that you have gained access to Avalon village.$C1
+#PICT 13701
+Walking the spiritual path is a meditative practice for cleansing the spirit and clearing the mind.  A sorcerer's apprentice may journey through the forest for months before successfully discovering the correct path.  Unfortunately, you do not have the luxury of time.  As a training tool, the apprentice traverses the perimeter of the Guardian Lake, the home of the Mist Knights, for several weeks.  The spiritual path through Avalon forest is a mirror of Guardian Lake.  Walk the path with the water on your right side.
+
+I have mapped out the path of Guardian Lake for you, and transposed that path onto a map of this area.  Follow the path carefully and light up all three guardian statues.  Then proceed through the cave entrance and deliver my message.  Return here when you have completed the task.
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 130
+$C1<Access Channel 279>
+#PICT 138
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0There are no words to express my appreciation for delivering my message to Hazelle.  Soon, hopefully, I shall return to Avalon in the flesh.
+
+This task is done, and I may now place my focus back on the task at hand: To stop Morgana.  You are to be teleported back to Alpha Merlin where repairs are currently underway on the Starship Kronos.  You will have the opportunity to regain shields and to pick up your weapons.  
+
+Prepare for transport...
+
+$C7$B- TELEPORTATION SEQUENCER -$b
+$C1Destination Code: AlphaMerlin
+Coordinates: 2002,491 <3920.02>
+$C7$B*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 38
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 11908
+$C4Hazelle's Journal
+#INFORMATION
+$C1$UJournal Entry - December 23rd$u
+
+$IArthur's kingdom has been overrun by Morgana's evil henchmen, and I do fear the worst.  From all accounts, no one caught sight of Merlin during the massacres.  Two months have past since my beloved Merlin was last seen.  Some sources say that Morgana had conjured up a spell that befell Merlin in order to stop him from helping Arthur's knights.  Her malicious conniving cannot be underestimated.
+
+Yet, something I feel, something that I cannot explain, tells me that Merlin lives.  It is a strange and unearthly feeling, as if he lives, but yet he does not.  Oh, the sorrow of my heart, if only I would know my beloved's fate.  
+
+My dearest Merlin, there are many people we come across in our lives, but few ever touch us in ways that change us forever.  You have made a difference in my life, and that keeps my hope alive.  I am so very grateful for what we have shared, but I know that our time is not done, that there is much more to explore.  If only I could get some word, some tangible evidence to calm my worries...
+#LOGOFF 11910
+#ENDTERMINAL 1

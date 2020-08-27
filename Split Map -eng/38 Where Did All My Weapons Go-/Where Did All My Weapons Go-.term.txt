@@ -1,0 +1,328 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 155
+$C1<Access Channel 7432>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Much has been accomplished, but your final and most difficult task still lays ahead:  To hunt down and destroy Morgana.  
+
+Morgana has settled 20 years in the past, in the Eastern Hemisphere on the old grounds of the toppled WorldSoft Empire. She now has her own starship that she uses to attack other worlds, and continues to seduce countless forces to join her army.  The allegiance of troops working for her has more than quadrupled since you began your journey through time.  Your task is to disable her ship, infiltrate her headquarters, and destroy her empire.  I cannot overstate the risk involved in this task; nor can I stress enough the importance of your succeeding.  
+
+One more warning: Morgana has learned of the death of her son Mordred.  There are reports that she has sacrificed entire city populations in anguish and retaliation over her loss.  She will stop at nothing to avenge her son's death.  To add to your worries, sensors indicate that a small force may have breached security on this starbase.  It appears that miniaturized GATs are being used to infiltrate through the ventilation systems.
+#INFORMATION
+
+Proceed with caution to collect an arsenal for battle.  
+
+If you have not already noticed, the Alpha Merlin has upgraded your Phaser PX5 to a PX6 model.  For both models, actinium compounds serve as an effectively unlimited source of radon gas, collecting in the adjacent chamber. When the primary trigger is pulled, electricity is discharged through the radon, gaining amplitude until it leaves the barrel as a powerful beam of coherent energy. The high energy input will cause rapid depletion of the power source. 
+
+The PX6 includes a secondary trigger that activates the radon fusion igniter.  Once the plasma is ignited, it is encapsulated in a highly unstable field of radon energy.  A powerful radon plasma grenade is launched from the phaser, exploding on impact with any object.  The plasma explosion emits burning plasma in a large radius, so try not to launch these grenades at a nearby enemy or wall.
+#PICT 10001
+#PICT 138
+
+
+While you may be remiss in collecting all available ammo, I must insist that you locate all available weapons.  There is little hope of succeeding without them.
+
+Recover your weapons, and return here when you have a complete arsenal.
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 156
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 155
+$C1<Access Channel 7183>
+#PICT 12101
+$C1INCOMING MESSAGE FROM MERLIN...
+
+$C0Alpha Merlin is one of the fleet's largest starbases. It is used for starship repairs, inter-galactic communications, special studies, and Super-Tech expositions.  
+
+Before the Kronos was towed in, the crew aboard Alpha Merlin were preparing for this year's Macworld Expo 2290.  The Kronos, of course, took priority, so preparation for the expo has been temporarily put on hold.  Try not to bother the crew.  They are working around the clock on the Kronos in hopes to repair her with enough time to still hold the expo.  
+
+The crew and their Macs.  Indeed, they are a motivated bunch.
+#CHECKPOINT 1
+
+If you are in need of some entertainment, then pay a visit to Holodeck K.
+
+One of the crew put together an amusing holodeck program entitled "Knight Anger Management".  
+
+You can also retrieve a new Magic Staff from there.
+
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 156
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 159
+#PICT 228
+$C1
+
+$B$UAnger Management 101$b$u
+
+Taught by Master Salavar
+
+
+
+
+
+
+
+
+$U
+Prerequisite:$u
+$IKnights & Hobbits:
+A Psychological Comparison
+#PICT 11000
+
+
+
+$C4$IHave you been spending years looking for the Holy Grail, but the only thing you keep finding is your fellow knights strung up from a nearby tree?
+#PICT 11906
+$C4$I
+
+
+
+Do your nightmares keep you up all night, making you very cranky when dawn breaks?
+#PICT 11905
+$C4$I
+
+
+
+Are you lonely?
+#PICT 11303
+$C4$I
+
+
+You've tried fighting...
+#PICT 11908
+$C4$I
+
+
+
+
+
+You've even tried writing...
+#PICT 12500
+$C4$I
+
+
+
+
+
+
+
+
+Yet you continually feel the darkness of your anger getting the best of you.
+#PICT 11102
+$C1$I
+$UThe solution:$u
+Anger Management 101$i
+
+
+Master Salavar has worked with the best psycho-sorcerers in the land, and with 250 years of experience, his Anger Management course is sure to put you back in control of your life.  
+
+Don't fall to the dark side.  Harness the energy of your anger, and use it to serve your good intentions.  
+
+Don't waste another day hacking at stone walls, or yelling at your mother.  Sign up today!$B
+#LOGOFF 131
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 155
+$C1<Access Channel 7682>
+#PICT 13800
+$C1INCOMING MESSAGE FROM MERLIN...
+
+
+
+$C0The EMF4000 is currently located in the Hydraulic Chamber undergoing stress tests. Access to the chamber is restricted.  You need to contact the lead engineer so that you may retrieve the weapon.  
+
+These engineers are an odd bunch.  You may have more luck lifting his access card rather than engaging in any meaningful conversation.
+#PICT 13801
+
+
+
+
+
+
+The hydraulic engineers are currently on break, and usually can be found star gazing or playing Zymonic Chess up in Ten Forward.
+
+
+
+
+
+$C1Merlin out...
+#LOGOFF 156
+#END
+#FINISHED
+#LOGON 155
+$C1<Access Channel 7682>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+
+
+
+$C0Those engineers hardly noticed your presence.  The mind of a genius is often a marvel to study.  He will not realize his access card is missing until he has reason to use it.  
+
+Of course, this is of no concern to you.  Once you have gathered your weapons, return to the Communications Room.  
+
+
+
+
+$C1Merlin out...
+#LOGOFF 156
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#PICT 164
+$C1$BFederation Weapons Nodal Archive
+
+$C2$UDT Snyper Pistol$C1$b$I
+$C4$i$uThe Snyper is the latest in a long line of distinctive weaponry developed for the UEFC Marines by LockMart-Boeing-DuPont. The DT Snyper was named after the man who invented gaussian acceleration, Derrick "The Twist" Trimble.
+
+The Snyper is a derivative of the gauss sidearm, and uses gaussian acceleration to achieve speeds and forces greater than would be possible with standard explosive  ammunition. The Snyper is an enhanced version of the standard issue marine gauss sidearm, specifically engineered for precision.
+#LOGOFF 148
+#ENDTERMINAL 4
+;
+#TERMINAL 5
+#UNFINISHED
+#PICT 12803
+$C1$BFederation Weapons Nodal Archive
+
+$C2$UDachron Minigun$C1$b$I
+$C4$i$uThe Dachron Minigun is a high-powered rapid fire assault rifle that is made of rare Dachronian alloy.
+
+The gun consists of 13 revolving barrels.  With 4 chambers per barrel, the Dachron is capable of a full 52 shots before reload.  The gun is durable, yet extremely lightweight.  It incorporates a secondary trigger mechanism that expends a shot from all 13 barrels simultaneously.
+
+The Dachron was instrumental to the Federation in the WorldSoft coup of 2258.
+#LOGOFF 148
+#ENDTERMINAL 5
+;
+#TERMINAL 6
+#UNFINISHED
+#PICT 165
+$C1$BFederation Weapons Nodal Archive
+
+$C2$URadon Phaser PX6$C1$b$I
+$C4$i$uIn 2237, Hans Ashton used titanium in combination with an elaborate design to create a remarkable frame to handle the decay of radon gas. The primary trigger of this new phaser emitted a deadly radon pulse with amazing accuracy. The pulse was so accurate, in fact, that a special scoping  mechanism was added to the gun design for targeting. 
+
+The PX6 upgrade incorporates a plasma fusion chamber for powerful plasma grenades.
+#LOGOFF 148
+#ENDTERMINAL 6
+;
+#TERMINAL 7
+#UNFINISHED
+#PICT 166
+$C1$BFederation Weapons Nodal Archive
+
+$C2$UEMF4000-g Hightech$C1$b$I
+$C4$i$uThe EMF4000 is primarily a missile launcher that holds two missiles. It uses a triangulated exhaust system for rapid cooling, allowing repeated reloading and refiring. $C3
+
+$C4An enhanced version of this weapon was also created, the EMF4000-g. This model utilizes  the exhaust chambers to fire superheated plasma bursts in groups of three. The weapon contains it own self-replenishing power supply. The amount of plasma used per shot has not been stabilized, and thus cannot be measured accurately.
+#LOGOFF 148
+#ENDTERMINAL 7
+;
+#TERMINAL 8
+#UNFINISHED
+#PICT 167
+$C1$BFederation Weapons Nodal Archive
+
+$C2$UDragon Flamethrower$C1$b$I
+$C4$i$uCommonly referred to as "The Dragon", this powerful heat-resistant flamethrower operates off of compact napalm burst canisters.  The high pressure of these canisters makes this weapon highly volatile, and should only be operated by skilled weaponists who have also taken the Federation Napalm Safety Course, X-Z4900.  
+
+The Dragon was invented by the infamous Dr Randolf Booshay.  Booshay is a master craftsman and weaponist whose love of Arthurian legend is often conveyed in his gothic works.
+#LOGOFF 148
+#ENDTERMINAL 8
+;
+#TERMINAL 9
+#UNFINISHED
+#PICT 168
+$C1$BFederation Weapons Nodal Archive
+
+$C2$UT9000 Railgun$C1$b$I
+$C4$i$uThe T9000 railgun is a masterful design.  Invented in 2285 by an elite group of Federation engineers stationed on a secret starbase known as T9000, this railgun is far superior to the Damocles railgun of 2245. 
+
+Railgun technology started in the 1950's, but weapon stability has been the unsolved challenge until the Damocles.  Weapon design was compromised on the Damocles in order to achieve its stability.  The T9000, however, uses a new magnetic field technology called Nano-electric Acceleration, achieving significant improvements in both speed and accuracy. The T9000 is also equipped with a grenade launcher.
+#LOGOFF 148
+#ENDTERMINAL 9
+;
+#TERMINAL 10
+#UNFINISHED
+#PICT 168
+$C1$BFederation Weapons Nodal Archive
+
+$C2$UIonic Sword ("Excalibur")$C1$b$I
+$C4$i$uAn artifact recovered from Arthurian times, this sword holds powers that our scientists have yet to understand.  Sensors read an high energy field surrounding the sword that seems to increase when the sword is immersed in pure water.  The purity of the water seems to have a direct impact on the power of the energy field.
+#LOGOFF 148
+#ENDTERMINAL 10
+;
+#TERMINAL 11
+#UNFINISHED
+#LOGON 155
+$C1<Access Channel 7432>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You are now ready to set forth on your final journey and most difficult task:  To hunt down and destroy Morgana.  
+
+Morgana has settled 20 years in the past, in the Eastern Hemisphere on the old grounds of the toppled WorldSoft Empire. She now has her own starship, and continues to seduce countless forces to join her army.  The allegiance of troops working for her has more than quadrupled since you began your journey through time.  Your task is to disable her ship, infiltrate her headquarters, and destroy her empire.  I cannot overstate the risk involved in this task; nor can I stress enough the importance of your succeeding.  
+
+One more warning: Morgana has learned of the death of her son Mordred.  There are reports that she has sacrificed entire city populations in anguish and retaliation over her loss.  She will stop at nothing to avenge her son's death.  To add to your worries, sensors indicate that a small force may have breached security on this starbase.  It appears that miniaturized GATs are being used to infiltrate through the ventilation systems.
+#PICT 10001
+#CHECKPOINT 7
+You appear to have successfully retrieved your required arsenal.  I have activated a teleporter that will transport you back in time, to the old WorldSoft buildings.  The Siniestra has approached Earth, and Morgana is either on the Siniestra, or down on the planet, in the city of Jahala.  Due to Morgana’s force fields, communications on the Siniestra as well as in Jahala will be at a minimum.
+
+If you are ready, then proceed to Transporter Room 7D.  
+
+It is time to travel 20 years back in time, to the year 2270.  
+
+
+
+$C1Merlin out...
+#LOGOFF 156
+#ENDTERMINAL 11
+;
+#TERMINAL 12
+#UNFINISHED
+#LOGON 155
+$C1<Access Channel 3850>
+#INFORMATION
+$C1$UT9000 Rail Gun Technology$u
+
+$C3The objective of the T9000 project was to successfully design and construct a linear electromagnetic accelerator capable of accelerating a lightweight payload to velocities greater than 2000m/s without hypervelocity erosion in the rail/armature interface.
+
+In the 1950's, when the first true rail guns were built and fired, it was believed that they would provide a means to accelerate objects to virtually any desired speed and replace conventional weapons.  For decades, despite enormous advances in the technology, the maximum muzzle velocities attainable were nowhere near what was believed possible, and erosion continued to be a problem.  Railguns were confined to the laboratory where rails were often removed and resurfaced due to hypervelocity erosion.  When achieving high accelerations through electrical action between sliding contacts, hypervelocity erosion is the rapid destruction of those contacts through arcing and friction.
+#PICT 13802
+$C3
+Railguns differ from other means of accelerating objects in that the acceleration in the rails occurs purely by magnetic repulsion. This magnetic force is termed a "Lorentz Force", and the most significant factor in determining the force is the inductance gradient of the rails.  In a well designed Rail Gun, a gun with a high inductance gradient, the most predominant factor in determining exit velocity will always be the power supply current. Thus it follows that in order to produce high muzzle velocities, long rails and/or very high currents must be used. Unfortunately, maintaining a high current through a long pair of rails requires a lot of energy, and with high currents, high rates of rail erosion are inevitable.
+#INFORMATION
+$C3Higher exit velocities are attainable with higher injection velocities.  With higher injection velocities, the electrical arcing and ohmic heating between the projectile and the rails will not have as much time to heat the rail surfaces to vaporization. Thus, up to a certain point, a higher injection velocity will help minimize rail damage. It also prevents rail/projectile spot welding, which can occur at zero injection velocities and low powers on metal/metal contacts. Given the energy expenditure of accelerating the projectile electrically, and the advantages of pre-injection, it makes sense to impart as much initial velocity to the projectile as possible, and only then allow the electric action to do what it is most effective at: attaining velocities that would not be feasible with a gas injection mechanism alone.
+  
+Energy loss in a railgun is proportional to projectile momentum, and can be minimized by increasing the induction gradient. This would imply that rail guns are most efficient at accelerating light payloads. However, it has been shown experimentally that with calibers less than 18mm, the efficiency of a railgun decreases with the smaller size bores.
+#INFORMATION
+$C3In 2245, after enormous amounts of money had been invested in railgun technology, a solution to the erosion problem was finally conceived by WorldSoft Laboratories. Through significant improvements in the materials and design, WorldSoft invented the first usable railgun called the Damocles.  The Damocles only achieved velocity speeds of 1000m/s, and suffered a short life-cycle.  Over time, the railgun still suffered magnetic field and velocity impacts.  Unfortunately, after the fall of Worldsoft, advances on the Damocles came to a halt.
+
+In 2285, over 10 years after the introduction of the EMR4000 plasma missile launcher and 60 years after the Damocles, the Federation announced a new railgun technology.  Developed in the secret labs of the T9000 Starbase, the T9000 Railgun began being deployed to Federation troops.  This remarkable weapon resolved several issues that plagued past railgun designs.  The energy problem was resolved by using a Radon gas power source.  The increase in power allowed for a manageable sized rail. Corrosion was reduced to negligible amounts by using a combination of titanium and Dachronian metals.  Although the railgun is still in its infancy and costs an exorbitant amount of money to produce, it is the favored weapon of most Federation cadets.
+#PICT 168
+$C3
+The T9000 Railgun uses light weight titanium slugs sized perfectly to achieve the maximum muzzle velocity.  The T9000 cartridge holds 26 slugs.
+
+The railgun uses Radon power to establish the magnetic field between the rails, providing high velocity rapid-fire titanium trajectories.  
+
+Similar to the EMF4000, the T9000 uses an exhaust system to increase the life span of the weapon.  Utilizing the exhaust tube, the T9000 incorporates a standard trigger mechanism for launching T9000 grenades.  These grenades are activated once they hit a target, starting a built-in 3-second timer fuse before igniting.
+#LOGOFF 156
+#ENDTERMINAL 12

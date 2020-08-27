@@ -1,0 +1,51 @@
+;
+#TERMINAL 0
+#FINISHED
+#LOGON 130
+$C1<Access Channel 233>
+#PICT 10900
+$C1
+
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+The sensors have been deceived!  You must get off this ship immediately!
+
+Blast!
+
+Although more of the weapons cache is now available, there is no time to retrieve it.  Morgana's assault troopers have overtaken Kronos, and I detect Morgana's force shields throughout the ship.  The observatory has been completely destroyed!
+#INFORMATION
+
+Transporter upgrades appear to be complete.  Blast!  All but one of the transporter pads are being used by Morgana for incoming troops. A single pad has been left for outgoing transportation. You must get to that transporter pad now!  Sensors indicate that it is located in Transporter Room B.
+  
+You can come back afterwards and clean up Kronos, but for now we must track down Morgana.  It is unfortunate that you do not have time to prepare before being sent on to the Camelot time period, but we do not have much of a choice.  There are far too many troopers aboard this ship to confront with your limited ammo supply.  Blast!  No time for rest, no time for training, and no time for collecting ammunition.  
+
+You are going to the castle of Davenport, where I learned many of my sorcery skills.  I must refresh my memory of the sorcerer's way, but it is uncertain what condition the castle will be in upon your arrival, so proceed with caution. 
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#FINISHED
+#LOGON 130
+$C1<Access Channel 251>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Blast! There is no time for chitchat!  Get to the transporter pad immediately!  Sensors show that more and more troopers are teleporting aboard, arriving in all transporter rooms.  Get out while you have the chance...
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#FINISHED
+#LOGON 130
+$C1<Access Channel 227>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+You must be crazy to be wasting time like this... but if you insist on having a discussion with me while assault troopers are surrounding you...
+#CHECKPOINT 0
+This is the transporter pad which will safely teleport you off the ship.  Spare no more time and get on this pad now!
+#LOGOFF 132
+#ENDTERMINAL 2

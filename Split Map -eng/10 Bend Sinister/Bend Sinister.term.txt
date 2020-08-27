@@ -1,0 +1,159 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #622>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+The night... the forest... the wind... how long it has been... and to feel the wind in the trees, but not to.  The memories... it is always the memories which bring us back.
+
+Carved in stone is the time of Arthur, and here the stone shines once more.  No longer a time for orderly electronic devices... discover a land where there is no separation between man and earth, beast and air.  It is here that the gods of water and earth spoke to man.  The unity of all power emerged from the dragon... and so, the dragon rises again.  
+
+Do not cling to the mechanical weapons of your overly complex time.  Do not fear the darkness of the forest, for that would be to fear your own shadow... the trees, the stone fortresses, the fields and the streams, all bits and pieces of a whole, all part of the dragon.  You are also part of the dragon.
+#PICT 136
+
+Venture forth and rediscover what men of your time have long forgotten... 
+
+...what I had almost forgotten, allowed to pass into dormancy.  
+
+So long had I been away, that I had lost my desire to return.  Only now, as you have brought me back to this place, is my hunger to return revitalized.
+
+...to return to the forest, the streams, to Arthur and to Camelot...
+
+
+To rest, once again, in the arms of the Dragon.
+#PICT 136
+
+Go forth and explore Castle Davenport. There is much to see, and much to learn.  Take the elemental challenge as your test of knighthood. Return here once you have passed safely through the elemental challenge and retrieved the four elemental scrolls.  
+
+Before seeking the scrolls, it would be wise to locate the archers' crossbow which sits in the castle dining hall.  Use this crossbow in the spirit of chivalry, to fight back the evil which guards it.  
+
+One last warning: Stay clear of the moats, for they are infested with piranha and other bloodthirsty creatures.   
+
+$C1Merlin out...
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #622>
+#PICT 11002
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Sir Davenport served King Arthur for many years before he was lured over to Morgana's forces during the search for the Holy Grail.  Beaten by exhaustion and dire frustration, Davenport sacrificed all that he had to Morgana's offerings.  
+
+It was not long, however, before this once honorable knight began to realize that he had betrayed more than Arthur and his fellow knights... he had betrayed himself. In a desperate situation, Davenport made a courageous attempt to free himself from Morgana's evil clutches once and for all.  He fought bravely against the dark knights, and many of them fell to his sword.
+#PICT 11000
+
+In the end, however, Morgana's magic was too much for him and he met his end at the hanging tree.
+
+His castle became a shrine to symbolize the struggles of the time.  People united in the large banquet halls to celebrate Davenport's redemption.  I built the elemental room where my fellow sorcerers came to learn and meditate.  A great spirit began to emanate from the castle, as many came here to restore their faith during a time of hardship and chaos.
+
+Once Morgana learned of this, she attacked the castle.  Bewitched archers and soldiers from the dark forests infiltrated the castle gates, killed everyone inside, and blocked off passage to the outside.
+#PICT 11001
+
+
+
+
+You have bravely retaken the castle and have driven the archers back into the dark forests.  They will soon regroup, however, and will return in greater force.  There is no time to lose.  To have any chance in fighting Morgana's forces, you need Excalibur, the Sword of Power.
+#INFORMATION
+
+Excalibur can be found in the Enchanted Lake at Camelot.  Camelot, however, has been overrun with Morgana's minions, so approaching and infiltrating the castle will be difficult and dangerous.  
+
+Access to Camelot is through Mannenhaum, the magnificent tower that once guarded Camelot.  It was at this tower where the worst of Morgana's attacks took place.  The massacre at Mannenhaum left the tower in ruins, and many brave heros to their death.  It is said that the ghosts of the fallen ones were cursed by Morgana, imprisoned in the place between life and death.  
+
+You must now return to Mannenhaum, to the scene of the massacre.  I will teleport you to the Mannenhaum outpost near Lake Gallion.  From there, you must make your way to Camelot.
+
+
+$C7- TELEPORTATION SEQUENCER -
+$C1Destination Code: Mannehaum
+Pod Coordinates: 925,65 <74.01>
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 39
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #688>
+#PICT 11002
+$C1
+
+INCOMING MESSAGE FROM MERLIN...
+$C0
+I sense the spirit of Davenport growing stronger with each blow made to Morgana's forces.  In your triumph is Sir Davenport's eternal salvation!
+#PICT 136
+
+
+
+
+
+
+Likewise, the medium which contains me is beginning to fluctuate in this time period.  I am able to sense some things without the aid of the computer.  Is it possible?
+
+
+I can feel the presence of dark forces hidden in these Caverns of the Elements.  Venture forth and explore the caverns.  Complete the challenge by collecting the four Elemental Scrolls.
+
+
+Off with you now....
+#LOGOFF 132
+#END
+#FINISHED
+#LOGON 135
+$C1<Station #688>
+#PICT 136
+$C1
+INCOMING MESSAGE FROM MERLIN...
+
+$C0
+The soul of Sir Davenport has been freed!
+
+You have overcome the dark forces and retrieved the four Elemental Scrolls.  
+
+
+Return to the pod in the forest.  It is time to move on.
+
+
+
+
+
+$C1Merlin out...$C0
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 162
+#TAG 10
+#INFORMATION
+$C1     ** Scroll of Incantation **
+
+
+$C4From the depths of man's soul
+  To the far reaches of the stars
+
+            Wrench the blood from the stone
+              Tainted waters and black scars
+
+Conjured up from the bowels
+  Of the Earth's hardened crust
+
+            Unleashed passion and power
+              Ignite from desire and lust
+
+With all that I am
+  And all that I am not
+
+            Fill my blood with the spirit
+              And the knowledge long taught
+#INFORMATION
+
+
+
+
+
+
+
+        $C7  $C5You may now enter the Spirit World...
+#LOGOFF 162
+#ENDTERMINAL 2

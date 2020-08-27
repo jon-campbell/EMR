@@ -1,0 +1,141 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 135
+$C1<Station #966>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C3
+$C0You are currently located deep in the Enchanted Forest.  Here is where I discovered the strength of the dragon, the gods of earth and water, the magic of the forest, and the secrets of sorcery.  
+
+In the center of the forest lies Dhyana Castle, the Castle of Magic.  Here sorcerers from many lands came together, exploring the limits of our world in the Alchemist Lab, and learning all that we possibly could about the relationship between man and earth.  After Morgana's uprising, the evil archers laid siege to the castle.  Those sorcerers that did not join Morgana fled back to their homelands.  
+
+The battle before is certain to be tough and long fought. Once you engage the castle, be prepared for non-stop embattlement.  The good news is that I am strangely in tune with the life forces in this area.  The top of your HUD will display the number of enemies left, and your radar compass should point you in the right direction.  Further, the magic is strong enough here to enhance your staff powers.  Learn the Spell of Fire Storm, and the path to Dyana Castle will present itself.
+#PICT 11600
+
+
+Word of warning: Morgana has cursed several crypts throughout the land, raising the dead.  From afar, the skeleton ghoul will drain you of your life source and deplete your immune system. If you allow it to get too close after your immune system has been damaged, you will perish to its viral touch.
+
+When you are ready, venture through the forest to Dhyana Castle.  There you will battle for the camaraderie of the sorcerers, and for the sanctity of all mankind.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#TAG 2
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #983>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Your mission here is to clear Dhyana of all Morgana's minions.  
+
+While the castle is overrun mainly by the archers of the Dark Forest, there is a band of Shadow Sorcerers holding up in the Alchemist Lab. They use a magical cloak which makes them nearly invisible, and extremely dangerous.  The cloak inhibits them from using such spells as Fireballs and Freeze Spells, but they are masters of the Spell of Temporal Energy. Although the spell itself is not lethal, it drains its victims of energy, leaving them for dead as soon as any physical force is applied.  A nudge by any other creature could easily send you to your death after battling with these stealth sorcerers.  
+
+Further, the archers are protected by their own sorcerers, the evil clerics.  Given time, these clerics can empower an archer to near-invincibility.  
+
+Plan your strategies well.
+#PICT 138
+
+Attempt to locate the castle armory for a fresh supply of crossbow bolts and some magic staffs. You are learned of the Firestorm spell, which is useful for dealing with an onslaught of archers, but has little effect on knights and clerics.  Use it wisely, and be careful of its backlash.  The staff is enchanted with Firestorm for this battle only.
+
+There is also a nearby cavern which contains vials of enchanted water.  This magical water is important for revitalizing the power of Excalibur. 
+
+Upon clearing the castle, return to this terminal for further instructions.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 162
+#TAG 1
+#INFORMATION
+$C1
+                   ** Scroll of Firestorm **$C0
+
+
+$C6  From the wrath of hell
+  The firebeast spawns
+
+      Darkness expands in a flurry
+      As the beast hungers for the sun
+
+           Hell explodes unto earth
+           Fire shoots into the sky
+$C0
+$C3
+$C2  $C6             The wind captures the flurry
+               The earth channels the power
+               The water tames the beast
+               And the fire comes down in a shower
+#INFORMATION
+
+
+
+
+
+
+$C3              $C1Behold the spell of $C2FIRESTORM$C1!$C0
+#LOGOFF 162
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 135
+$C1<Station #966>
+#PICT 138
+$C1INCOMING MESSAGE FROM MERLIN...
+$C3
+$C0You have successfully eliminated enough enemy forces to have freed Dyhana Castle from Morgana's clutches.  
+
+Return to the pod in the throne room for further instructions.
+
+
+
+
+
+
+
+
+
+
+$C1Merlin out...$C0
+#LOGOFF 132
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 135
+$C1<Station #983>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...
+$C0
+Even Sir Lancelot, the greatest knight of all time, would be awed by the defeat you have just handed to Morgana.  The sorcerers report that Morgana and Mordred, upon hearing the news of the battles her knights and archers have been losing, are recruiting an insurmountable force with which to destroy you.  Morgana has apparently retrieved forces from the future to help in her cause.  Mordred himself has vowed to have your head by his own sword.  You have angered them greatly, which is both a sign that you are doing well and an indication that future tasks will become increasingly more dangerous.
+
+The rogue sorcerers, however, still need to be stopped before we can worry about Morgana and Mordred.  The other sorcerers have revealed the secret location of the Temple of Malhechor, home of the evil sorcerers.  I know very little of what you can expect, so be careful.  I will try to retrieve more information for you once you have teleported there.
+#INFORMATION
+
+
+Prepare for transport...
+
+
+
+
+
+
+
+
+
+
+$C7- TELEPORTATION SEQUENCER -
+$C1Destination Code: Malhechor
+Coordinates: 666 <22.33>
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 17
+#ENDTERMINAL 4

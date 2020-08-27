@@ -1,0 +1,106 @@
+;
+#TERMINAL 0
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 193>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+I have teleported you back to Kronos into the engineering maintenance tubes directly over your current location in Shuttle Bay 21B.  The situation here continues to worsen.  Two battlecruisers en route to rescue Kronos have been intercepted and destroyed by Morgana and her ever growing forces.  If it were not for her lust to steal Kronos technology, she would surely have already destroyed Kronos.
+
+Your location on Kronos is secluded enough to escape danger, but not for long.  Grab the Radon Phaser at the end of the Jefferies Tube for now.  This is the PX5 model that supports a single fire phaser pulse.  After grabbing what ammo you can find, use the teleporter in the nearby Shuttle Bay.
+
+Your crossbow is in the lab being retrofit for poison bolts. These bolts are slightly longer and more deadly than your previous bolts.  Take note that these poisonous arrows were not developed on Kronos, but replicated from Archers of the Black Forest.  Be prepared to encounter poisonous arrows when venturing to the Temple of the Black Knight.
+#PICT 12300
+
+Your next task is to invade the Temple of the Black Knight. I will teleport you to a future pod in the vicinity of the temple.  From there, use the nearby mining shafts to locate the temple.  
+
+Once you locate the temple, do as much damage as you can.  The temple itself is small and of no great consequence.  The act of invading the black knights' sacred area, however, will outrage the black knights; so much so that it will send them into great disarray.
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 0
+;
+#TERMINAL 1
+#UNFINISHED
+#LOGON 135
+$C1<Station #1694>
+#PICT 12301
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+Kronos sensors indicate a great number of troopers advancing on Deck 10.  Sensors also indicate that there are a few of the engineering crew still aboard Kronos.  The recreation area has been cut off from the rest of the ship, so it is possible that there are some still unaware of the invading forces.
+
+The interlocks on the aft end of the deck leading to the recreation area are all inoperable;  the troopers are approaching from Shuttle Bay 10A.  There are too many of them to fight, but if you arrive there before they can open the shuttle bay interlocks, we can trap them.
+#INFORMATION
+Kronos is equipped with detachable shuttle bays to protect the shuttles in the event of a ship self-destruct.  Trap the troopers in the shuttle bay and manually trigger the dislodge switches.  This will detach the shuttle bay from the ship, thereby blasting the troopers into space.
+
+Before I send you back to the ship, you must first complete your attack on the Temple of the Black Knight.  Outside the pod in which you are currently located are mine shafts which lead directly to the temple.  Once you reach the temple I will teleport you back to Kronos to fight the forces invading Deck 10.
+
+If you are lucky, you may also find a prototype of the famed "Dragon" flamer somewhere on Deck 10.  This is a napalm weapon invented by the infamous Dr Randolf Booshay.  Booshay is a master craftsman and weaponist whose love of Arthurian legend is often conveyed in his gothic works.  Sadly, he met an untimely death during a napalm experiment gone awry.  He would have surely enjoyed sharing in your adventures back to Arthurian times.
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 1
+;
+#TERMINAL 2
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 1001>
+#INFORMATION
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+Shuttle Bay 10A has been successfully dislodged from the ship, and the troopers are now on their way to oblivion.  There were many more troopers in the shuttle bay than I originally anticipated.  This gives us some strong momentum on retaking the ship - momentum which we must take advantage of!
+
+
+I have also been in contact with my friend Ceridwen.  She has paid us a visit.  Have you been in contact with her?  She can unlock the rusty lockers for you.  If you wish, press <ESC> and see for yourself.
+#PICT 132
+
+Get ready now for your final mission here in the Camelot age.  Mordred's stronghold, the Castle of Sorrows, holds captive a great number of the Quest Knights.  First you must free the knights. That feat marks the beginning of perhaps the greatest and most dangerous hunt of your expedition; the hunt for Mordred.
+
+
+
+Prepare for transport...$C1
+$C0
+
+
+
+$C7- TELEPORTATION SEQUENCER -
+$C1Destination Code: SorrowShores
+Coordinates: 588 <74.50>
+$C7*** TELEPORT WHEN READY ***
+#INTERLEVEL TELEPORT 24
+#ENDTERMINAL 2
+;
+#TERMINAL 3
+#UNFINISHED
+#LOGON 137
+#PICT 229
+$C1Incoming message: $B112.466.566.41 
+$b<ceridwen@home.com>$C0
+
+
+$C3Sorry, but this seems to have become a wild goose chase. I can no longer communicate with Merlin. It seems the Creature is refusing to cooperate at all.
+
+I have managed to leave you an energy potion, but once again, be warned, it will leave you dizzy and disoriented. I have also managed to de-rust some of the lockers on Kronos.  You must first activate the switch to your right.  How strange.  
+
+I cannot help you leave this place. You will have to make your way back to Merlin to do that.
+#LOGOFF 137
+#ENDTERMINAL 3
+;
+#TERMINAL 4
+#UNFINISHED
+#LOGON 130
+$C1<Access Channel 1031>
+#PICT 166
+$C1INCOMING MESSAGE FROM MERLIN...$C0
+
+Feast your eyes on the EMF4000!  
+
+This plasma-powered hightech weapon is primarily a missile launcher with a highly unstable exhaust chamber.  It uses a triangulated exhaust system for rapid cooling, allowing repeated reloading and refiring.  
+
+Although never stabilized, the EMR4000 was later upgraded to support a secondary trigger for plasma bursts.  The EMF4000-g fires superheated plasma bursts in groups of three. The amount of plasma used per shot has not been stabilized, and thus cannot be measured accurately.
+
+
+$C1Merlin out...
+#LOGOFF 132
+#ENDTERMINAL 4
