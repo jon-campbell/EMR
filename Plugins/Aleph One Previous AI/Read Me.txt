@@ -1,0 +1,38 @@
+Aleph One Previous AI 1.0
+-------------------------
+by Hopper
+
+----------------------------------------------------------------
+DESCRIPTION:
+
+This plugin increases the number of AI monsters active at any one time. The increased number was the default setting in Aleph One until 1.1, when the Marathon 2/Infinity defaults were restored.
+
+You should use this plugin with scenarios built specifically for Aleph One, such as Kill Them All or Phoenix. When/if those scenarios are updated, you will no longer need this plugin. Do not enable the plugin for scenarios orginally designed for Marathon Infinity, such as Tempus Irae.
+
+----------------------------------------------------------------
+INSTALLATION:
+
+- Drag the downloaded .zip file, or the unzipped "Aleph One Previous AI" folder, into the "Plugins" folder inside your custom scenario folders. (Create a "Plugins" folder if you don't already have one.)
+
+- Launch Aleph One, and go to "Preferences", then "Environment", then "Plugins" make sure the plugin is listed as "Enabled". You can click on it to turn it on or off.
+
+----------------------------------------------------------------
+WHY IS THIS NEEDED?
+
+In the distant past, Aleph One expanded several built-in engine limits, to allow for bigger scenarios than the computers of 1995 could play. This included a limit on the number of monsters moving around, to allow for more intense battles with swarms of AI enemies.
+
+This had a downside, though: the increased limit can change the gameplay of older scenarios, tuned for the original smaller number. In some levels built for M2 or Infinity, too many monsters can wake up and leave their ambush spots to chase you, disrupting the intended difficulty and pacing of battles. Aleph One 1.1 reduces this AI limit to its original value, to restore the intended gameplay of classic scenarios.
+
+The most popular affected scenarios will be updated to be compatible with Aleph One 1.1. Until this happens, you can use this plugin to restore the AI behavior of Aleph One 1.0 and earlier.
+
+----------------------------------------------------------------
+CHANGELOG:
+
+v1.0:
+* First release
+
+----------------------------------------------------------------
+CONTACT:
+
+If you have any questions, comments, or bugs to report, you can email me:
+- hopper@whpress.com

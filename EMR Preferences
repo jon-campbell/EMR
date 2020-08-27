@@ -1,0 +1,199 @@
+<!-- Preferences file for the Marathon Open Source "Aleph One" engine -->
+
+<mara_prefs>
+
+<graphics
+  scmode_size="2"
+  scmode_accel="1"
+  scmode_highres="true"
+  scmode_fullscreen="false"
+  scmode_bitdepth="32"
+  scmode_gamma="3"
+  devspec_slot="0"
+  devspec_flags="1"
+  devspec_bitdepth="32"
+  devspec_width="640"
+  devspec_height="480"
+  frequency="60.000000"
+  ogl_flags="3000"
+  experimental_rendering="false"
+  anisotropy_level="0.000000"
+  multisamples="0"
+  geforce_fix="false"
+  double_corpse_limit="false"
+>
+  <void>
+    <color red="0.000000" green="0.000000" blue="0.000000"/>
+  </void>
+  <landscapes>
+    <color index="0" red="1.000000" green="1.000000" blue="0.400000"/>
+    <color index="1" red="0.200000" green="0.600000" blue="1.000000"/>
+    <color index="2" red="0.094118" green="0.094118" blue="0.062745"/>
+    <color index="3" red="0.031373" green="0.031373" blue="0.062745"/>
+    <color index="4" red="0.400000" green="0.400000" blue="0.400000"/>
+    <color index="5" red="0.000000" green="0.000000" blue="0.000000"/>
+    <color index="6" red="0.000000" green="0.000000" blue="0.000000"/>
+    <color index="7" red="0.000000" green="0.000000" blue="0.000000"/>
+  </landscapes>
+  <texture index="0" near_filter="1" far_filter="5" resolution="0" color_format="0" max_size="0"/>
+  <texture index="1" near_filter="1" far_filter="1" resolution="0" color_format="0" max_size="0"/>
+  <texture index="2" near_filter="1" far_filter="1" resolution="0" color_format="0" max_size="0"/>
+  <texture index="3" near_filter="1" far_filter="1" resolution="0" color_format="0" max_size="0"/>
+</graphics>
+
+<player
+  name="Kronos Knight"
+  color="1"
+  team="7"
+  last_time_ran="3238624005"
+  difficulty="2"
+  bkgd_music="false"
+>
+  <chase_cam behind="2560" upward="256" rightward="0" flags="0"
+    damping="0.500000" spring="0.000000" opacity="1.000000"/>
+  <crosshairs
+    thickness="1" from_center="8" length="8"
+    shape="0" opacity="0.500000"
+  >
+    <color red="1.000000" green="1.000000" blue="1.000000"/>
+  </crosshairs>
+</player>
+
+<input
+  device="0"
+  modifiers="1"
+  sens_horizontal="65536"
+  sens_vertical="65536"
+  mouse_acceleration="true"
+>
+  <mouse_button index="0" action="left_trigger"/>
+  <mouse_button index="1" action="right_trigger"/>
+  <mouse_button index="2" action="none"/>
+  <mouse_button index="3" action="none"/>
+  <mouse_button index="4" action="none"/>
+  <mac_key index="0" value="91"/>
+  <mac_key index="1" value="87"/>
+  <mac_key index="2" value="86"/>
+  <mac_key index="3" value="88"/>
+  <mac_key index="4" value="83"/>
+  <mac_key index="5" value="85"/>
+  <mac_key index="6" value="89"/>
+  <mac_key index="7" value="92"/>
+  <mac_key index="8" value="126"/>
+  <mac_key index="9" value="125"/>
+  <mac_key index="10" value="82"/>
+  <mac_key index="11" value="78"/>
+  <mac_key index="12" value="69"/>
+  <mac_key index="13" value="49"/>
+  <mac_key index="14" value="55"/>
+  <mac_key index="15" value="21"/>
+  <mac_key index="16" value="1"/>
+  <mac_key index="17" value="37"/>
+  <mac_key index="18" value="0"/>
+  <mac_key index="19" value="65"/>
+  <mac_key index="20" value="50"/>
+</input>
+
+<sound
+  channels="8"
+  volume="4"
+  music_volume="6"
+  flags="59"
+/>
+
+<network
+  microphone="true"
+  untimed="false"
+  type="3"
+  game_type="0"
+  difficulty="2"
+  game_options="5535"
+  time_limit="18000"
+  kill_limit="10"
+  entry_point="0"
+  autogather="false"
+  join_by_address="false"
+  join_address=""
+  local_game_port="4226"
+  game_protocol="star"
+  use_speex_netmic_encoder="true"
+  speex_encoder_quality="2"
+  speex_encoder_complexity="1"
+  use_netscript="false"
+  cheat_flags="7"
+  advertise_on_metaserver="false"
+  attempt_upnp="false"
+>
+  <mac_fsspec
+    index="4"
+    v_ref_num="0"
+    par_id="0"
+    name=""
+  />
+  <star_protocol>
+    <hub
+    />
+    <!-- current hub defaults:
+      DO NOT EDIT THE FOLLOWING - they're FYI only.  Make settings in 'hub' tag above.
+      pregame_ticks_before_net_death="600"
+      ingame_ticks_before_net_death="90"
+      pregame_window_size="15"
+      ingame_window_size="150"
+      pregame_nth_element="2"
+      ingame_nth_element="75"
+      send_period="1"
+      recovery_send_period="15"
+    -->
+    <spoke
+      pregame_ticks_before_net_death="2700"
+      ingame_ticks_before_net_death="150"
+      recovery_send_period="15"
+      timing_window_size="90"
+      timing_nth_element="45"
+      adjust_timing="true"
+    />
+  </star_protocol>
+  <ring_protocol
+    accept_packets_from_anyone="false"
+    adapt_to_latency="true"
+    latency_hold_ticks="60"
+  />
+</network>
+
+<environment
+  map_checksum="499531191"
+  physics_checksum="317924805"
+  shapes_mod_date="3234564305"
+  sounds_mod_date="3238238238"
+  group_by_directory="true"
+  reduce_singletons="false"
+  non_bungie_warning="true"
+>
+  <mac_fsspec
+    index="0"
+    v_ref_num="-104"
+    par_id="93820"
+    name="Quest"
+  />
+  <mac_fsspec
+    index="1"
+    v_ref_num="-104"
+    par_id="124750"
+    name="Magic"
+  />
+  <mac_fsspec
+    index="2"
+    v_ref_num="-104"
+    par_id="93820"
+    name="Graphics"
+  />
+  <mac_fsspec
+    index="3"
+    v_ref_num="-104"
+    par_id="93820"
+    name="Sounds"
+  />
+</environment>
+
+</mara_prefs>
+

@@ -1,0 +1,3 @@
+<plugin name="Aleph One Previous AI" description="AI behavior from Aleph One 1.0 and earlier">
+ <mml file="Aleph_One_Previous_AI.mml"/>
+</plugin>
